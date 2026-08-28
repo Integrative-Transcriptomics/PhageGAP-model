@@ -1,0 +1,13 @@
+Dataset,Averaging,Precision,Recall,F1
+MLP_test,Weighted,0.92,0.92,0.92
+MLP_test,Macro,0.88,0.87,0.87
+CNN+MLP_test,Weighted,0.93,0.93,0.93
+CNN+MLP_test,Macro,0.89,0.87,0.87
+PhageGAP95_test(CNN),Weighted,0.94,0.93,0.93
+PhageGAP95_test(CNN),Macro,0.9,0.88,0.89
+PhageGAP20_test,Weighted,0.88,0.87,0.87
+PhageGAP20_test,Macro,0.84,0.81,0.81
+PhageGAP95_BASEL,Weighted,0.97,0.96,0.96
+PhageGAP95_BASEL,Macro,0.93,0.93,0.93
+PhageGAP20_BASEL,Weighted,0.96,0.96,0.96
+PhageGAP20_BASEL,Macro,0.89,0.91,0.89
