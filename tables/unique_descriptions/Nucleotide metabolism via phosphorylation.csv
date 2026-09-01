@@ -1,0 +1,23 @@
+description,source,count,phg,bac,vir
+deoxynucleoside monophosphate kinase,annot (Pharokka),362,362,0,0
+polynucleotide kinase,annot (Pharokka),259,259,0,0
+nucleotide kinase,annot (Pharokka),221,221,0,0
+thymidylate kinase,annot (Pharokka),169,169,0,0
+thymidine kinase,annot (Pharokka),84,84,0,0
+guanylate kinase,annot (Pharokka),41,41,0,0
+polynucleotide kinase/phosphorylase,annot (Pharokka),33,33,0,0
+nucleotide kinase,product,16,16,0,0
+polynucleotide kinase,product,3,3,0,0
+putative thymidylate kinase,product,3,3,0,0
+deoxynucleoside monophosphate kinase,product,2,2,0,0
+nucleoside/nucleotide kinase,product,1,1,0,0
+80.7% sequence similarity to ADP02503.1: gp108 from Salmonella phage PVP-SE1; 63.7% sequence similarity to YP_002003579.1: gp077 from Escherichia phage rv5; putative polynucleotide kinase-like fold,note,1,1,0,0
+deoxynucleoside kinase,product,1,1,0,0
+putative polynucleotide kinase,product,1,1,0,0
+putative NEDD4-binding protein 2 (Polynucleotide kinase),note,1,1,0,0
+nucleoside/nucleotide kinase family protein,product,1,1,0,0
+putative polynucleotide kinase [Pseudomonas phage Zigelbrucke],note,1,1,0,0
+similar to YP_001671780.1 putative GTP-binding protein [Enterobacteria phage phiEco32] & YP_398476.1 putative guanylate kinase [Clostridium phage c-st],note,1,1,0,0
+similar to PHAGE_Shigel_SHFML_11_NC_030953: dNMP kinase,note,1,1,0,0
+thymidylate kinase,product,1,1,0,0
+thymidylate kinase-like protein,product,1,1,0,0

@@ -1,0 +1,247 @@
+description,source,count,phg,bac,vir
+DNA polymerase,annot (Pharokka),1288,1288,0,0
+DNA polymerase exonuclease subunit,annot (Pharokka),245,245,0,0
+DNA polymerase processivity factor,annot (Pharokka),169,169,0,0
+DNA polymerase/primase,annot (Pharokka),161,161,0,0
+DNA polymerase,product,159,6,2,151
+DNA polymerase I,annot (Pharokka),128,128,0,0
+DNA polymerase I,product,52,5,40,7
+DNA polymerase catalytic subunit,product,49,0,0,49
+DNA polymerase processivity subunit,product,44,0,0,44
+DNA polymerase III subunit delta,product,43,0,43,0
+DNA polymerase III subunit alpha,product,40,0,40,0
+DNA polymerase III subunit gamma/tau,product,39,0,39,0
+DNA polymerase III subunit delta',product,38,0,38,0
+DNA polymerase IV,product,37,0,37,0
+DNA polymerase III subunit beta,product,36,0,35,1
+DNA polymerase III subunit epsilon,product,31,1,30,0
+DNA polymerase III subunit chi,product,25,0,25,0
+Y-family DNA polymerase,product,24,0,24,0
+translesion error-prone DNA polymerase V autoproteolytic subunit,product,21,0,21,0
+DNA polymerase III subunit theta,product,19,0,19,0
+DNA polymerase II,product,19,0,19,0
+DNA polymerase processivity factor,product,19,0,0,19
+DNA polymerase III subunit psi,product,17,0,17,0
+translesion error-prone DNA polymerase V subunit UmuC,product,15,0,15,0
+Phage DNA synthesis,note,15,15,0,0
+error-prone DNA polymerase,product,13,0,13,0
+ankyrin repeat/DNA polymerase domain-containing protein,product,9,0,0,9
+putative DNA polymerase,product,9,5,0,4
+DNA replication protein,product,8,8,0,0
+DNA polymerase,note,8,0,0,8
+binds single-stranded DNA. In phage T7 gp2.5 is essential for DNA replication and recombination. Other names: gp2.5; SSB.,note,7,7,0,0
+DNA polymerase exonuclease subunit,product,7,0,0,7
+DNA polymerase III theta subunit,annot (Pharokka),7,7,0,0
+PolC-type DNA polymerase III,product,7,0,7,0
+DNA pol3 gamma3 superfamily incomplete domain,product,5,0,0,5
+DNA polymerase family B,product,5,0,0,5
+HumD family translesion DNA polymerase,product,5,0,5,0
+DNA polymerase sliding clamp,product,5,2,0,3
+DNA polymerase III subunit gamma and tau,product,5,0,5,0
+DNA-pol,product,5,0,0,5
+"gp32; binds single-stranded DNA and destabilizes double-stranded DNA; involved in DNA replication, repair, and recombination; interacts with several replication proteins; stimulates replisome processivity and accuracy",note,5,5,0,0
+DNA polymerase Y family protein,product,4,0,4,0
+RNA-directed DNA polymerase,product,4,1,3,0
+RNA-dependent DNA polymerase,product,4,0,0,4
+DNA polymerase III alpha subunit,product,4,3,0,1
+putative DNA polymerase subunit,product,4,4,0,0
+DNA polymerase family X,product,4,0,0,4
+B-family DNA polymerase,product,4,0,0,4
+DNA polymerase elongation subunit family B,product,4,0,0,4
+DNA-POL,product,3,0,0,3
+"DNA replication, recombination and repair protein, helix-destabilizing; gp32; binds single-stranded DNA and destabilizes double-stranded DNA; involved in DNA replication, repair, and recombination; interacts with several replication proteins; stimulates replisome processivity and accuracy",note,3,3,0,0
+DNA polymerase delta catalytic subunit,product,3,0,0,3
+DNA polymerase type-B,product,3,0,0,3
+DNA polymerase B,product,3,0,0,3
+"uracil-DNA glycosylase, DNA polymerase processivity factor",product,3,0,0,3
+dna-pol,product,3,0,0,3
+putative DNA polymerase sliding clamp,product,3,0,0,3
+retron St85 family RNA-directed DNA polymerase,product,3,0,3,0
+viral DNA polymerase processivity factor,product,3,0,0,3
+DNA Polymerase,product,2,0,0,2
+DNA pol,product,2,0,0,2
+DNA polymerase III subunit,product,2,0,2,0
+similar to DNA polymerase,note,2,0,0,2
+similar to exonuclease RNase T and DNA polymerase III,note,2,0,0,2
+putative DNA polymerase beta/AP endonuclease,product,2,0,0,2
+bifunctional 3'-5' exonuclease/DNA polymerase,product,2,0,2,0
+putative DNA polymerase (T4 gp43-like),product,2,2,0,0
+putative DNA polymerase III beta subunit,product,2,2,0,0
+DNA pol3 delta2 superfamily incomplete domain,product,2,0,0,2
+delta DNA polymerase,note,2,0,0,2
+DNA-dependent DNA polymerase,product,2,0,0,2
+DNA polymerase domain-containing protein,product,2,0,1,1
+DNA polymerase elongation subunit (family B),product,2,0,0,2
+DNA polymerase family A,product,2,1,0,1
+DNA polymerase type B,product,2,0,0,2
+DNA polymerase-beta/AP pol,product,2,0,0,2
+DNA polymerase-like protein,product,2,0,0,2
+DNA polymerase III alpha,product,2,2,0,0
+DNA polymerase V,product,2,1,1,0
+DNA polymerase catalytic subunit; herpesvirus core gene UL30 family,note,1,0,0,1
+"DNA polymerase catalytic subunit; POL; core herpesvirus common; similar to MCMV M54, HCMV UL54 and HSV UL30",note,1,0,0,1
+"DNA polymerase catalytic subunit; conserved in RaHV-1, RaHV-2 and CyHV-3",note,1,0,0,1
+DNA polymerase beta subunit,product,1,1,0,0
+DNA polymerase beta superfamily protein,product,1,0,1,0
+DNA polymerase III; DnaE-like,note,1,1,0,0
+DNA polymerase beta-like protein,product,1,0,0,1
+"DNA polymerase, processivity subunit",note,1,0,0,1
+"DNA polymerase, catalytic subunit",note,1,0,0,1
+"DNA polymerase, beta subunit",product,1,1,0,0
+DNA polymerase type B with an intein Hint (Hedgehog/Intein) domain,product,1,0,0,1
+DNA polymerase subunit,product,1,1,0,0
+DNA polymerase subunit catalytic subunit; similar to RaHV-1 ORF72 and IcHV-1 ORF57,note,1,0,0,1
+DNA polymerase processivity; similar to vacA20R,note,1,0,0,1
+"DNA polymerase IV (family X), NT domain",product,1,0,0,1
+DNA polymerase III beta subunit,product,1,0,0,1
+"DNA polymerase II, small subunit",note,1,0,0,1
+DNA polymerase I,note,1,1,0,0
+DNA polymerase I protein,product,1,0,0,1
+DEDDy 3'-5' exonuclease domain of family-B DNA polymerase,product,1,0,0,1
+DNA dependent DNA polymerase,product,1,0,0,1
+DNA polyermase,product,1,0,0,1
+DNA polymerase B family protein,product,1,0,0,1
+CNPV259 DNA polymerase processivity factor,product,1,0,0,1
+DNA pol processivity factor,note,1,0,0,1
+"DNA PolA, IPR001098 DNA-directed DNA polymerase, family A, similar to Rosebush gp56",note,1,0,0,1
+DNA Polymerase-binding protein,product,1,1,0,0
+'similar to DNA polymerase III subunit epsilon [PHAGE_Escher_MX01; PP_00165]',note,1,1,0,0
+BcepNY3gp51; DNA polymerase; Phage protein; Phi92_gp136; gp032; gp12; gp20; gp43; gp49; gp50; gp52; hypothetical protein; hypothetical protein; hypothetical protein ORF031; hypothetical protein [Escherichia phage vB_EcoM_FFH2]; putative product; putative structural protein; structural protein,note,1,1,0,0
+Archaeal DNA polymerase I,product,1,0,0,1
+001R; delta DNA polymerase - B family; closest orthologs are HvAV3e ORF001;TnAV2c ORF001; SfAV1a ORF001;CIV 037L;MIV 120R,note,1,0,0,1
+DNA polymerase processivity factor,note,1,0,0,1
+DNA polymerase processivity component,product,1,0,0,1
+DNA polymerase phi-like protein,product,1,1,0,0
+DNA polymerase elongation subunit,product,1,0,0,1
+DNA polymerase catalytic subunit; similar to RaHV-2 ORF110 and IcHV-1 ORF57; originally called cos54_6,note,1,0,0,1
+DNA polymerase processivity subunit; herpesvirus Core gene UL42 family,note,1,0,0,1
+DNA polymerase processivity factor-like protein,product,1,0,0,1
+DNA polymerase delta catalytic subunit,note,1,0,0,1
+LSDV112 putative DNA polymerase processivity factor,product,1,0,0,1
+Gp10; DNA polymerase III subunit beta; orf10,note,1,1,0,0
+Exonuclease function; similar to Exonuclease RNase T and DNA polymerase III Pelodictyon phaeoclathratiforme E=5e-17,note,1,0,0,1
+DnaE-like DNA polymerase III (alpha),product,1,1,0,0
+DNA-polymerase processivity factor,product,1,0,0,1
+DinB/UmuC family translesion DNA polymerase,product,1,0,1,0
+DNA-polymerase III,product,1,0,0,1
+DNA-polymerase,product,1,0,0,1
+DNA-dependent DNA polymerase family X,product,1,0,0,1
+DNA-pol protein,product,1,0,0,1
+"DNA-directed DNA polymerase, family B",product,1,0,0,1
+DNA-directed DNA polymerase II subunit,product,1,0,0,1
+DNA-dependent DNA polymerase; similar to IcHV-1 ORF57,note,1,0,0,1
+"DNA replication, recombination, and repair protein",note,1,1,0,0
+DNA replication; Sequence similarity to: NP_958093.1| gp36 [Enterobacteria phage PsP3] & NP_052289.1| A protein [Enterobacteria phage 186],note,1,1,0,0
+DNA-dependant DNA-polymerase,product,1,0,0,1
+DNA polymerase/3'-5' exonuclease PolX,product,1,0,1,0
+DNA polymerase; A031L,note,1,0,0,1
+DNA replication,note,1,1,0,0
+DNA replication inhibitor,product,1,1,0,0
+DNA replication protein,note,1,1,0,0
+DNA polymerase; indespensible for viral replication,note,1,0,0,1
+DNA replication domain protein,product,1,1,0,0
+DNA polymerase processivity factor component A20,product,1,0,0,1
+DNA polymerase sliding clamp 2,product,1,0,0,1
+RRV ORF 9; DNA polymerase,note,1,0,0,1
+PolC-type DNA polymerase III domain-containing protein,product,1,0,1,0
+SPV109 DNA polymerase processivity-like factor,product,1,0,0,1
+Type B DNA polymerase with N-terminal OTU1-like domain; predicted structural similarity to PDB:2PY5 (phi29 PolB); predicted structural similarity to PDB:3BY4 (OTU1),note,1,0,0,1
+Putative DNA polymerase (ACLAME 1298),note,1,1,0,0
+Orc1-type DNA replication protein,product,1,1,0,0
+ORF14; Similar to Xanthomonas phaseoli pv. phaseoli.DNA polymerase III subunits gamma and tau; Provisional,note,1,1,0,0
+beta clamp protein,product,1,1,0,0
+beta clamp domain-like protein,product,1,1,0,0
+asb096; DNA polymerase,note,1,0,0,1
+archaeal DNA polymerase I,product,1,0,0,1
+"Zn-dependent hydrolase YycJ/WalJ, required for cell wall metabolism and coordination of cell division with DNA replication",note,1,1,0,0
+"Type B DNA polymerase; predicted structural similarity to PDB:4HXD (Dugbe virus OTU-like domain), PDB:2PY5 (Phi29 DNApol)",note,1,0,0,1
+"Uracil DNA glycosylase, DNA pol processivity factor",product,1,0,0,1
+conserved DNA polymerase delta catalytic subunit,product,1,0,0,1
+delta DNA polymerase (B family),product,1,0,0,1
+d DNA polymerase (B family),product,1,0,0,1
+dna polymerase,product,1,0,0,1
+dna pol,product,1,0,0,1
+expression pattern: Early-Late; Swissprot best hit: O82134 [RecName: FullProliferating cell nuclear antigen] [7e-36]; COG best hit: COG0592 [DNA polymerase sliding clamp subunit (PCNA homolog)] [7e-06]; KEGG annotation: K04802 [proliferating cell nuclear antigen]; Pfam hit: PF00705.11 [Proliferating cell nuclear antigen N-terminal domain] [6.4e-26]; Pfam hit: PF02747.8 [Proliferating cell nuclear antigen C-terminal domain] [1.2e-21]; Refseq best hit: YP_001425651 [hypothetical protein FR483_N019R (Paramecium bursaria Chlorella virus FR483)] [1e-103],note,1,0,0,1
+contains DNA polymerase III subunit alpha domain,note,1,1,0,0
+catalytic subunit of DNA polymerase; similar to HSV UL30,note,1,0,0,1
+binds single-stranded DNA; essential for DNA replication and recombination in phage T7; gp2.5; SSB,note,1,1,0,0
+family B DNA polymerase delta catalytic subunit,product,1,0,0,1
+expression pattern: Early; Swissprot best hit: Q43266 [RecName: FullProliferating cell nuclear antigen ShortPCNA] [1e-30]; COG best hit: COG0592 [DNA polymerase sliding clamp subunit (PCNA homolog)] [1e-06]; KEGG annotation: K04802 [proliferating cell nuclear antigen]; Pfam hit: PF00705.11 [Proliferating cell nuclear antigen N-terminal domain] [1e-21]; Pfam hit: PF02747.8 [Proliferating cell nuclear antigen C-terminal domain] [2.4e-14]; Refseq best hit: YP_001426319 [hypothetical protein FR483_N687L (Paramecium bursaria Chlorella virus FR483)] [4e-59],note,1,0,0,1
+expression pattern: Early; Swissprot best hit: P30320 [RecName: FullDNA polymerase] [0.0]; COG best hit: COG0417 [DNA polymerase elongation subunit (family B)] [1e-07]; KEGG annotation: K02327 [DNA polymerase delta subunit 1]; Pfam hit: PF03104.12 [DNA polymerase family B exonuclease domain] [1.3e-70]; Pfam hit: PF00136.14 [DNA polymerase family B] [1.8e-118]; Refseq best hit: YP_001425655 [hypothetical protein FR483_N023L (Paramecium bursaria Chlorella virus FR483)] [0.0],note,1,0,0,1
+"gp32 ssDNA binding protein; binds single-stranded DNA and destabilizes double-stranded DNA; involved in DNA replication, repair, and recombination; interacts with several replication proteins; stimulates replisome processivity and accuracy",note,1,1,0,0
+inhibition of host DNA replication,note,1,1,0,0
+"T4 gp53-like; gp32; binds single-stranded DNA and destabilizes double-stranded DNA; involved in DNA replication, repair, and recombination; interacts with several replication proteins; stimulates replisome processivity and accuracy",note,1,1,0,0
+Taxonomic breadth: chordopoxvirinae; Old product: E4R; uracil DNA glycosylase; DNA polymerase processivity factor; similar to VACV-WR E4R and VACV-Cop D4R,note,1,0,0,1
+"Truncated Lambda ea59 protein. Missing 510bp (170aa) of wild type gene due to Lambda b515 deletion; Potential transporter, ABC binding casette-like",note,1,1,0,0
+Viral DNA polymerase processivity factor,product,1,0,0,1
+ORF93 DNA polymerase,product,1,0,0,1
+"ORF59; subunit of DNA-polymerase; similar to EBV BMRF1 (EA-D), CMV UL44, HSV UL42",note,1,0,0,1
+Pol1,product,1,0,0,1
+PolC-type DNA polymerase III family protein,product,1,0,1,0
+"ORF MSV117 putative DNA polymerase beta/AP endonuclease, similar to Rattus norvegicus GB:M13962 and Caenorhabditis elegans GB:Z47812",product,1,0,0,1
+ORF097 DNA polymerase processivity factor,product,1,0,0,1
+ORF025 DNA polymerase,product,1,0,0,1
+putative DNA polymerase I,product,1,0,0,1
+putative DNA polymerase 1,product,1,1,0,0
+processivity subunit of DNA polymerase; similar to HSV UL42,note,1,0,0,1
+proliferating cell nuclear antigen PcnA,product,1,1,0,0
+probable DNA polymerase sliding clamp,product,1,0,0,1
+probable DNA polymerase family X,product,1,0,0,1
+involved in phage DNA injection and DNA replication,note,1,1,0,0
+orf9; similar to Lactobacillus plantarum prophage Lp1 gene 31; role in DNA replication,note,1,1,0,0
+hypothetical protein; putative DNA polymerase; similar to Mycobacteriophage Bxb1 gp41 encoded by GenBank Accession Number AF271693 (COG0749),note,1,1,0,0
+gp59 protein,note,1,1,0,0
+intein-containing DNA-dependent DNA polymerase family B precursor,product,1,0,0,1
+putative DNA polymerase III subunits gamma and tau,note,1,1,0,0
+putative DNA polymerase III subunit beta,product,1,1,0,0
+putative DNA polymerase III subunit epsilon,product,1,1,0,0
+putative DNA polymerase III PolC-type,product,1,0,0,1
+putative DNA polymerase III,product,1,1,0,0
+putative DNA polymerase family X protein,product,1,0,0,1
+putative DNA polymerase family X,product,1,0,0,1
+putative DNA polymerase processivity subunit; herpesvirus core gene UL42 family,note,1,0,0,1
+putative DNA polymerase processivity factor,product,1,0,0,1
+putative DNA polymerase sliding clamp protein,product,1,0,0,1
+putative DNA polymerase subunit based on analysis of conserved motifs; ORF3; putative,note,1,1,0,0
+putative DNA polymerase-like protein,product,1,0,0,1
+putative DNA polymerase; conserved baculovirus and nudivirus core gene; DNA polymerase type-B family member; similar to GenBank:AAM45757[Heliothis zea nudivirus 1]; DNA polymerase I,note,1,0,0,1
+putative DNA replication protein,product,1,1,0,0
+"putative DNA polymerase III, beta subunit",product,1,1,0,0
+putative DNA polymerase X family protein,product,1,1,0,0
+putative DNA polymerase catalytic subunit; herpesvirus core gene UL30 family,note,1,0,0,1
+putative DNA polymerase delta catalytic subunit,product,1,0,0,1
+putative DNA polymerase family B catalytic domain protein,product,1,0,0,1
+putative DNA polymerase III subunit gamma/tau,product,1,1,0,0
+putative DNA polymerase III alpha subunit,product,1,0,0,1
+putative proliferating cell nuclear antigen,product,1,1,0,0
+putative family X DNA polymerase,product,1,0,0,1
+putative exonuclease RNase T and DNA polymerase III,product,1,0,0,1
+putative beta clamp protein,product,1,1,0,0
+putative DNA-directed DNA polymerase,product,1,1,0,0
+putative DNA-dependent DNA polymerase; Description: homolog of vaccinia and variola E9L,note,1,0,0,1
+putative DNA-dependent DNA polymerase family B precursor,product,1,0,0,1
+related to vaccinia virus strain Copenhagen A20R/DNA polymerase processivity factor,note,1,0,0,1
+"similar to AP_000613 pol in Canine adenovirus 2; DNA_pol_B_2[pfam03175, DNA polymerase type B, organellar and viral",note,1,0,0,1
+similar to DNA polymerase beta,note,1,0,0,1
+similar to Debaryomyces plasmid protein deposited in GenBank Accession Number AJ01112;4 DNA pol III box,note,1,0,0,1
+putative protein-primed B-family DNA polymerase,product,1,0,0,1
+related to vaccinia virus strain Copenhagen E9L/DNA polymerase,note,1,0,0,1
+replication protein; DNA replication; contains a DNA binding motif and a PhnF trascriptional regulator region,note,1,1,0,0
+retron Ec67 family RNA-directed DNA polymerase/endonuclease,product,1,0,1,0
+putative sliding clamp protein,product,1,1,0,0
+"similar to RHCMV UL54, HCMVA UL54 and MCMVS M54; possible DNA polymerase",note,1,0,0,1
+similar to MIV DNA polymerase deposited in GenBank Accesion Number AJ312708; DNA polymerase,note,1,0,0,1
+similar to HCMV UL54; DNA polymerase,note,1,0,0,1
+similar to HCMV UL44; DNA polymerase processivity factor,note,1,0,0,1
+similar to EBV BALF5; DNA polymerase,note,1,0,0,1
+similar to UL44; processivity subunit of DNA polymerase,note,1,0,0,1
+similar to VACWR109 (D4R); required for DNA polymerase processivity,note,1,0,0,1
+"similar to bacteriophage T4 gp32 single-stranded DNA binding protein; binds single-stranded DNA and destabilizes double-stranded DNA; involved in DNA replication, repair, and recombination; interacts with several replication proteins; stimulates replisome processivity and accuracy",note,1,1,0,0
+"ssDNA-binding protein; scaffold of DNA replication; recombination and DNA precusor-synthesizing protein machines; gp32; binds single-stranded DNA and destabilizes double-stranded DNA; involved in DNA replication, repair, and recombination; interacts with several replication proteins; stimulates replisome processivity and accuracy",note,1,1,0,0
+similar to vacA20R (DNA polymerase processivity factor),note,1,0,0,1
+similar to phiA1122p12 of Yersinia pestis phage phiA1122 and to gene 2.5 of Enterobacteria phage T7; binds single-stranded DNA; gp2.5 is essential for DNA replication and recombination in phage T7; SSB,note,1,1,0,0
+"similar to gp32 single-stranded DNA binding protein (NP_049854.1) from Enterobacteria phage T4; destabilizes double-stranded DNA; involved in DNA replication, repair and recombination; interacts with several replication proteins; stimulates replisome processivity and accuracy",note,1,1,0,0
+type I DNA polymerase,product,1,0,0,1
+trans-splicing intein-formed DNA polymerase III subunit alpha N-terminal partner DnaE-N,product,1,0,1,0
+uracil-DNA glycosylase DNA polymerase processivity factor,product,1,0,0,1
+virion-associated: yes; COG best hit: COG0417 [DNA polymerase elongation subunit (family B)] [3e-07]; Pfam hit: PF00136.14 [DNA polymerase family B] [6.5e-17]; Refseq best hit: YP_001427279 [hypothetical protein ATCV1_Z798L (Acanthocystis turfacea Chlorella virus 1)] [8e-60],note,1,0,0,1

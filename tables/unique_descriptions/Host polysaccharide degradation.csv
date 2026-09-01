@@ -1,0 +1,34 @@
+description,source,count,phg,bac,vir
+EPS depolymerase,annot (Pharokka),28,28,0,0
+colanic acid degradation,annot (Pharokka),20,20,0,0
+poly-gamma-glutamate hydrolase,annot (Pharokka),17,17,0,0
+dextranase,product,15,15,0,0
+hyaluronidase,annot (Pharokka),12,12,0,0
+pectate lyase,annot (Pharokka),9,9,0,0
+SASA family carbohydrate esterase,product,7,7,0,0
+putative pectate lyase,product,7,7,0,0
+pectin lyase activity,annot (Pharokka),4,4,0,0
+EPS depolymerase,product,3,3,0,0
+endo-N-acetylneuraminidase domain protein,product,3,3,0,0
+levanase,annot (Pharokka),2,2,0,0
+pectate lyase,product,2,2,0,0
+BNR repeat domain protein,product,1,1,0,0
+"best blastp hit: sp|P15317|YHYA_BPH44 Hypothetical 65 kDa protein in hyaluronidase region, and pir||B30566 hypothetical protein - Streptococcus pyogenes phage H4489A",note,1,1,0,0
+cellulase,product,1,1,0,0
+Contains InterProScan IPR011050 domain for Pectin lyase fold/virulence factor superfamily,note,1,1,0,0
+heparinase,product,1,1,0,0
+"endosialidase, N-terminal extension domain",note,1,1,0,0
+endo-N-neuraminidase,product,1,1,0,0
+endo-N-acetylneuraminidase,note,1,1,0,0
+cycloalternan hydrolase / pectin lyase,product,1,1,0,0
+"alpha,alpha-trehalase",product,1,1,0,0
+polysaccharidase,product,1,1,0,0
+iduronate sulfatase,product,1,1,0,0
+polysaccharidase protein,product,1,1,0,0
+putative N-acetylneuraminate pyruvate lyase,product,1,1,0,0
+putative cellulase,product,1,1,0,0
+putative beta-glucanase,product,1,1,0,0
+putative endoglucanase,product,1,1,0,0
+putative endosialidase,product,1,1,0,0
+putative pectate lyase protein,product,1,1,0,0
+putative pectin lyase,product,1,1,0,0

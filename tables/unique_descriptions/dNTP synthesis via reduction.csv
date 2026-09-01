@@ -1,0 +1,60 @@
+description,source,count,phg,bac,vir
+ribonucleoside diphosphate reductase small subunit,annot (Pharokka),254,254,0,0
+ribonucleotide reductase large subunit,annot (Pharokka),204,204,0,0
+ribonucleotide reductase,annot (Pharokka),198,198,0,0
+ribonucleoside-diphosphate reductase large subunit,annot (Pharokka),133,133,0,0
+ribonucleoside reductase class II,annot (Pharokka),124,124,0,0
+ribonucleotide reductase class Ia beta subunit,annot (Pharokka),87,87,0,0
+anaerobic ribonucleoside reductase large subunit,annot (Pharokka),71,71,0,0
+anaerobic ribonucleotide reductase small subunit,annot (Pharokka),67,67,0,0
+NrdD-like anaerobic ribonucleotide reductase large subunit,annot (Pharokka),50,50,0,0
+NrdA-like aerobic NDP reductase large subunit,annot (Pharokka),27,27,0,0
+5'-3' deoxyribonucleotidase,annot (Pharokka),24,24,0,0
+ribonucleotide reductase NrdA-like,product,10,10,0,0
+aerobic NDP reductase small subunit,annot (Pharokka),9,9,0,0
+ribonucleotide reductase alpha subunit,annot (Pharokka),7,7,0,0
+ribonucleotide reductase,product,6,6,0,0
+ribonucleotide reductase NrdA-like,annot (Pharokka),5,5,0,0
+ribonucleoside-triphosphate reductase,product,3,3,0,0
+ribonucleoside-diphosphate reductase beta subunit,annot (Pharokka),3,3,0,0
+anaerobic ribonucleoside reductase small subunit,annot (Pharokka),3,3,0,0
+5'-3' deoxyribonucleotidase,product,2,2,0,0
+putative 5'(3')-deoxyribonucleotidase,product,2,2,0,0
+ribonucleoside-diphosphate reductase subunit,product,2,2,0,0
+NrdB ribonucleotide reductase A subunit,product,1,1,0,0
+SPBc2 prophage-derived 5'(3')-deoxyribonucleotidase,product,1,1,0,0
+PVOGs: VOG0481; putative 5'(3') deoxyribonucleotidase [Klebsiella virus 0507KN21],note,1,1,0,0
+5'(3')-deoxyribonucleotidase,product,1,1,0,0
+'similar to ribonucleotide reductase alpha subunit [PHAGE_Escher_MX01; PP_00146]',note,1,1,0,0
+putative anaerobic ribonucleotide diphosphate reductase subunit H,product,1,1,0,0
+putative 5'-3'-deoxyribonucleotidase,product,1,1,0,0
+predicted 5'(3')-deoxyribonucleotidase (alpha-beta rossmann fold); 43.1% sequence similarity to ADP02526.1: gp131 from Salmonella phage PVP-SE1; 49.5% sequence similarity to YP_002003602.1: gp100 from Escherichia phage rv5,note,1,1,0,0
+ibonucleotide reductase of class III activating protein,product,1,1,0,0
+gene_79; part of putative 5'(3') deoxyribonucleotidase,note,1,1,0,0
+gene_80; part of putative 5'(3') deoxyribonucleotidase,note,1,1,0,0
+deoxyribonucleotidase,product,1,1,0,0
+anaerobic nucleotide reductase subunit,product,1,1,0,0
+aerobic ribonucleoside diphosphate reductase large subunit,product,1,1,0,0
+T4 Ribonucleoside Diphosphate Reductase (NrdA),note,1,1,0,0
+anaerobic NTP reductase small subunit,product,1,1,0,0
+5'-3'-deoxyribonucleotidase,product,1,1,0,0
+COG1328 Oxygen-sensitive ribonucleoside-triphosphate reductase,note,1,1,0,0
+ribonucleoside diphosphate reductase beta subunit,product,1,1,0,0
+ribonuclease disphosphate reductase,product,1,1,0,0
+putative ribonucleotide-diphosphate reductase (alpha subunit),product,1,1,0,0
+ribonucleotide reductase A subunit,product,1,1,0,0
+putative ribonucleotide reductase of class Ib subunit beta,product,1,1,0,0
+putative ribonucleoside-diphosphate reductase alpha chain,product,1,1,0,0
+putative ribonucleotide reductase of class III activating protein,product,1,1,0,0
+"ribonucleotide reductase beta subunit, ferritin-like domain",product,1,1,0,0
+ribonucleotide reductase class Ib family protein,product,1,1,0,0
+ribonucleotide reductase large subunit,product,1,1,0,0
+ribonucleotide reductase of class III,product,1,1,0,0
+ribonucleotide reductase of class III (anaerobic) activating protein,product,1,1,0,0
+"ribonucleotide reductase of class III (anaerobic), large subunit",product,1,1,0,0
+ribonucleotide reductase of class Ia alpha subunit,product,1,1,0,0
+ribonucleotide reductase subunit,product,1,1,0,0
+ribonucleotide reductase subunit B,product,1,1,0,0
+ribonucleotide-diphosphate reductase subunit alpha,product,1,1,0,0
+similar to 5'(3') deoxyribonucleotidase [Klebsiella virus vB_KpnM_KpS110],note,1,1,0,0
+similar to putative 5'(3') deoxyribonucleotidase ORF184 Dickeya phage vB_DsoM_LIMEstone1 and putative uncharacterized protein Vi01_194 Salmonella phage Vi01,note,1,1,0,0

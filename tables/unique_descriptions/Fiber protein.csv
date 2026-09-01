@@ -1,0 +1,125 @@
+description,source,count,phg,bac,vir
+tail fiber protein,annot (Pharokka),2067,2067,0,0
+long tail fiber protein distal subunit,annot (Pharokka),169,169,0,0
+tail collar fiber protein,annot (Pharokka),119,119,0,0
+tail fiber protein proximal subunit,annot (Pharokka),116,116,0,0
+long tail fiber protein proximal connector,annot (Pharokka),87,87,0,0
+baseplate wedge tail fiber protein connector,annot (Pharokka),87,87,0,0
+hinge connector of long tail fiber protein distal connector,annot (Pharokka),73,73,0,0
+tail fiber protein,product,67,67,0,0
+central tail fiber J,annot (Pharokka),52,52,0,0
+head fiber protein,annot (Pharokka),48,48,0,0
+short tail fiber protein,annot (Pharokka),44,44,0,0
+putative tail fiber protein,product,30,30,0,0
+straight fibre tail protein,annot (Pharokka),25,25,0,0
+tail fibers protein,product,11,11,0,0
+putative tail fiber,product,8,8,0,0
+tail fiber,product,5,5,0,0
+baseplate wedge tail fiber connector,product,4,4,0,0
+tail fiber protein [Escherichia phage vB_EcoS_AHS24],note,4,4,0,0
+putative tail fiber protein,note,3,3,0,0
+putative tail-fiber/lysozyme protein,product,3,3,0,0
+tail fibers protein [Salmonella phage GG32],note,3,3,0,0
+putative tail-fiber protein,product,3,3,0,0
+repeat-containing tail fiber protein,product,3,3,0,0
+head fiber protein,product,3,3,0,0
+Phage tail fiber proteins,note,2,2,0,0
+PVOGs: VOG6568; tail fiber protein [Enterobacteria phage JenP1],note,2,2,0,0
+phage tail fiber-like protein,product,2,2,0,0
+putative long tail fiber,product,2,2,0,0
+putative long tail fiber protein,product,2,2,0,0
+tail-collar fiber protein,product,2,2,0,0
+tail fiber,note,2,2,0,0
+similar to putative tail fiber protein,note,2,2,0,0
+putative tail fibre protein,product,2,2,0,0
+emb|VUF56047.1| Phage tail fiber protein [Escherichia virus T4] evalue 6.32389e-8,note,1,1,0,0
+fiber protein,product,1,1,0,0
+"gp19,putative tail fiber protein",note,1,1,0,0
+gp77 putative tail-fiber protein,product,1,1,0,0
+gp62; tail fiber protein,note,1,1,0,0
+best blastp hit: gb|AAL82278.1| (AF424781) tail fiber [Staphylococcus aureus phage phi 11],note,1,1,0,0
+Vi01_174 putative tail fiber protein,note,1,1,0,0
+YP_009591446 phage tail fibers protein [Escherichia virus P2] evalue 2.9609e-26; IPR006521,note,1,1,0,0
+Structural protein; Long tail fiber,note,1,1,0,0
+gp17; ORF37; tail fiber protein; K30/K69 depolymerase; orf37,note,1,1,0,0
+Blastp: [YP_009591447][phage tail fiber protein][Escherichia virus P2][evalue: 1.35056e-15]; PF12571 [IPR022225]; HHpred: [1PDI_D][Short tail fiber protein][Enterobacteria phage T4][Probability: 99%],note,1,1,0,0
+Phage tail fibers,note,1,1,0,0
+Phage T7 tail fibre protein; pfam03906,note,1,1,0,0
+ORF41; tail fiber-like protein,note,1,1,0,0
+Phage-tail_3 and DUF1983 conserved domains containing protein similar to tail fiber protein (AUV57192.1) from Enterobacter phage Ec_L1,note,1,1,0,0
+Similar to: ref|YP_009591447.1| phage tail fiber protein [Escherichia virus P2] e= 1.84739e-44,note,1,1,0,0
+"Prophage PssSM-01, phage tail fiber protein",note,1,1,0,0
+Sequence similarity to: NP_958074.1| gp19 [Enterobacteria phage PsP3] & NP_052267.1| tail fiber protein H [Enterobacteria phage 186],note,1,1,0,0
+Similar to: ref|YP_009591446.1| phage tail fibers protein [Escherichia virus P2] e= 2.15282e-58; Similar to emb|VUD39035.1| Tail protein I [Escherichia virus P2] 3.28571e-53,note,1,1,0,0
+Tai fiber,product,1,1,0,0
+T7-like tail fiber protein,note,1,1,0,0
+HHPred match to PDB 5LYE_A Gp12 of phage T2 (which is T4 short tail fiber protein gp12) with 92 probability; BLAST hit e-39 to phiKZ131 shown in PMID 19526553 to be in virions,note,1,1,0,0
+Head fiber,product,1,1,0,0
+P2 gpI tail fiber protein,note,1,1,0,0
+Blastp: [WP_113423938.1][tail fiber protein][Rhizobiales bacterium][evalue: 3e-39]; HHpred: [1PDI_D][Short tail fiber protein; STRUCTURAL PROTEIN][Enterobacteria phage T4][Probability: 98%],note,1,1,0,0
+"BLASTp similarity to phage BcepF1 tail fiber protein, UniProtKB entry A1Z000",note,1,1,0,0
+Blastp: [WP_081493803][tail fiber protein][Bradyrhizobium yuanmingense][evalue: 1.48885e-61]; PF07484 [IPR011083]; HHpred: [1PDI_D][Short tail fiber protein][Enterobacteria phage T4][Probability: 98%],note,1,1,0,0
+possible tail fiber; similar to Bcep781gp65 and Bcep1gp69,note,1,1,0,0
+possible tail fiber; similar to Bcep43gp64 and Bcep1gp69,note,1,1,0,0
+possible phage tail fiber protein,product,1,1,0,0
+possible head fiber,product,1,1,0,0
+phage tail fiber proteins,note,1,1,0,0
+phage tail fiber protein,product,1,1,0,0
+phage tail fiber,product,1,1,0,0
+phage structural protein; similar to YP_002003830.1| gp17 [Klebsiella phage K11] and YP_214526.1| phage tail fiber-like protein [Prochlorococcus phage P-SSM2],note,1,1,0,0
+orf00214; putative tail fibre protein,note,1,1,0,0
+phage T7 tail fibre protein,product,1,1,0,0
+phage Bcep22 gp37-like,note,1,1,0,0
+"orf11; tail fiber protein; similar to YP_950545.1 30 kDa virion protein from Enterobacteria phage N4, confirmed presence in G7C virion",note,1,1,0,0
+lytic tail fiber,product,1,1,0,0
+orf00213; probable tail fibre protein; putative tail fibre protein,note,1,1,0,0
+homolog of phage Lambda host specficity fiber protein J; similar to many highly conserved Lambda J-like putative tail fibers,note,1,1,0,0
+long tail fiber,product,1,1,0,0
+gp36 hinge connector of long tail fiber distal connector,product,1,1,0,0
+"gp21, tail fiber protein",product,1,1,0,0
+gpOrf27; similar to YP_001522890.1 putative tail fiber protein in Pseudomonas phage LKA1,note,1,1,0,0
+hinge connector of long tail fiber distal connector [Aeromonas phage CC2],note,1,1,0,0
+gp36 putative tail-fiber protein,product,1,1,0,0
+gp38 putative tail-fiber protein,product,1,1,0,0
+putative tail fiber protein [Pseudomonas phage JG024],note,1,1,0,0
+putative tail fiber or spike with GTPase (hydrolase) activity,note,1,1,0,0
+putative tail fiber/intimin-like protein SinH,note,1,1,0,0
+putative tail fiber-like protein,product,1,1,0,0
+putative tail fiber component,product,1,1,0,0
+putative side tail fiber protein,product,1,1,0,0
+putative tail fiber [Enterobacteria phage phiEcoM-GJ1],note,1,1,0,0
+putative minor tail fiber protein,product,1,1,0,0
+protail fiber N-terminal domain-containing protein,product,1,1,0,0
+putative fiber protein,product,1,1,0,0
+similar to YP_007010484 putative tail fiber protein [Salmonella phage vB_SenS-Ent1],note,1,1,0,0
+"similar to Sinorhizobium meliloti phage phiM12 protein Sm_phiM12_124, similar to gp12 short tail fiber protein, T4-like phage, similar to S. meliloti phage PBC5 protein PBCp14; phage tail collar domain protein, T4-like phage",note,1,1,0,0
+"similar to Phage tail fibers [Enterobacter cloacae ISC8], CDL31416.1",note,1,1,0,0
+"similar to Phage tail fiber protein [Ralstonia solanacearum FQY_4, YP_007634094.1] [HHpred/pfam id PF12571]",note,1,1,0,0
+similar to NP_037717 tail fiber [Enterobacteria phage HK97],note,1,1,0,0
+similar to Erwinia phage phiEa21-4 putative tail fiber protein in YP_002456094.1 and Escherichia phage rv5 hypothetical protein rv5_gp043 in YP_002003545.1,note,1,1,0,0
+"shares homology with tail fiber protein [Bacillus phage Shanette], AGR47009.1",note,1,1,0,0
+"sequence similarity to: ZP_07191982.1| conserved domain protein [Escherichia coli MS 196-1] & YP_002407901.1| conserved hypothetical protein, putative side tail fiber protein homolog from prophage [Escherichia coli IAI39]",note,1,1,0,0
+"putative tail tip fiber protein; similar to lambda J; similar to NP_536377, NP_519819 and NP_405679",note,1,1,0,0
+putitave tail fiber protein,note,1,1,0,0
+putative tail-fiber protein [Aeromonas phage vB_AsaM-56],note,1,1,0,0
+putative tail fiber [Enterobacteria phage vB_EcoS_Rogue1],note,1,1,0,0
+similar to structural protein in S-PM2 that was identifed by MS. Also has similarity to tail fiber proteins of other cyanophages,note,1,1,0,0
+similar to phage tail fiber proteins,note,1,1,0,0
+similar to putative phage tail fiber protein [Staphylococcus phage PSa3],note,1,1,0,0
+similar to putative tail fiber protein [Escherichia phage Eco_BIFF],note,1,1,0,0
+"similar to tail fiber protein [Pseudomonas phage YH30], AKC04796.1",note,1,1,0,0
+similar to tail fiber protein [Shigella phage SH6],note,1,1,0,0
+similar to tail fiber protein [Shigella phage vB_SflS-ISF001],note,1,1,0,0
+"similar to tail fiber protein, putative [Polaromonas sp. JS666]",note,1,1,0,0
+similar to putative tail fiber protein [Escherichia virus T1],note,1,1,0,0
+similar to putative tail fiber protein [Ralstonia phage RSK1],note,1,1,0,0
+similar to putative tail fiber protein from Enterobacteria phage T1,note,1,1,0,0
+tail fiber protein,note,1,1,0,0
+tail fiber protein gpH,note,1,1,0,0
+tail fiber domain-containing protein,product,1,1,0,0
+tail fiber lyase,product,1,1,0,0
+tail fiber protein; similar to Burkholderia multivorans ATCC 17616 chromosome 2 BMULJ_03663 (YP_001948071.1),note,1,1,0,0
+tail fiber; similar to putative phage tail fiber protein [Enterobacteria phage SSL-2009a],note,1,1,0,0
+tail fiber/intimin-like protein SinH,note,1,1,0,0
+tail fiber-like protein,product,1,1,0,0
+tail fibers protein [Salmonella phage 38],note,1,1,0,0

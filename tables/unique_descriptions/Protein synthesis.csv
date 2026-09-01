@@ -1,0 +1,68 @@
+description,source,count,phg,bac,vir
+elongation factor G,product,91,0,91,0
+elongation factor P,product,71,0,71,0
+translation elongation factor Ts,product,65,0,65,0
+translation elongation factor 4,product,59,0,59,0
+elongation factor Tu,product,56,0,55,1
+selenocysteine-specific translation elongation factor,product,28,0,28,0
+histidyl tRNA synthetase,annot (Pharokka),22,22,0,0
+elongation factor P hydroxylase,product,21,0,21,0
+GreA/GreB family elongation factor,product,19,0,19,0
+elongation factor P--(R)-beta-lysine ligase,product,19,0,19,0
+YbaK/prolyl-tRNA synthetase associated domain-containing protein,product,15,0,15,0
+elongation factor P-like protein YeiP,product,14,0,14,0
+elongation factor P maturation arginine rhamnosyltransferase EarP,product,10,0,10,0
+prolyl-tRNA synthetase associated domain-containing protein,product,10,0,10,0
+arginyl-tRNA synthetase,product,8,1,0,7
+elongation factor P 5-aminopentanone reductase,product,8,0,8,0
+isoleucyl-tRNA synthetase,product,6,1,0,5
+methionyl-tRNA synthetase,product,4,0,0,4
+translation elongation factor,product,4,1,0,3
+tyrosyl-tRNA synthetase,product,4,0,1,3
+tyrosyl-tRNA synthetase,annot (Pharokka),4,4,0,0
+cysteinyl-tRNA synthetase,product,3,0,0,3
+putative elongation factor,product,3,0,0,3
+elongation factor G-like protein EF-G2,product,3,0,3,0
+putative elongation factor Tu,product,2,2,0,0
+class-II aminoacyl-tRNA synthetase family protein,product,2,0,2,0
+elongation factor Ts-like protein,product,2,2,0,0
+alanyl-tRNA synthetase,product,2,2,0,0
+"ligase, tRNA synthase",product,2,2,0,0
+COG0172 seryl-tRNA synthetase,note,1,1,0,0
+COG0180 Tryptophanyl-tRNA synthetase,note,1,1,0,0
+COG0423 Glycyl-tRNA synthetase (class II),note,1,1,0,0
+conserved putative translation elongation factor 1-alpha,product,1,0,0,1
+class I lysyl tRNA synthetase,product,1,0,0,1
+class I lysyl-tRNA synthetase,product,1,1,0,0
+elongation factor P-like protein EfpL,product,1,0,1,0
+cysteinyl-tRNA synthetase-like protein,product,1,0,0,1
+contains tRNA synthase region,note,1,1,0,0
+elongation factor G-like protein,product,1,0,1,0
+elongation factor 1-alpha,product,1,0,0,1
+"Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold; Region: RPA_2b-aaRSs_OBF_like; cl09930",note,1,1,0,0
+"Replication protein A, class 2b aminoacyl-tRNA synthetases, and related proteins with oligonucleotide/oligosaccharide (OB) fold; This superfamily includes two oligonucleotide/oligosaccharide binding fold (OBF) domain families. One of these contains the OBF",note,1,1,0,0
+COG0495 Leucyl-tRNA synthetase,note,1,1,0,0
+arginyl tRNA-synthetase,product,1,0,0,1
+Tyrosyl-tRNA synthetase,product,1,0,0,1
+aspartyl-tRNA synthetase,product,1,0,1,0
+asparaginyl-tRNA synthetase,product,1,0,0,1
+"binding elongation factor eF-Tu, N-terminal",note,1,0,0,1
+leucyl-tRNA synthetase,product,1,1,0,0
+methionyl-tRNA synthetase-like protein,product,1,0,0,1
+glutamyl-tRNA synthetase,product,1,0,1,0
+putative elongation factor EF-Ts domain protein,product,1,1,0,0
+phenylalanyl-tRNA synthetase alpha subunit,product,1,0,0,1
+phenylalanyl-tRNA synthetase subunit beta,product,1,1,0,0
+prolyl-tRNA synthetase,product,1,1,0,0
+phenylalanyl-tRNA synthetase PheRS,product,1,0,0,1
+glutamyl-tRNA synthetase-like protein,product,1,1,0,0
+putative isoleucyl-tRNA synthetase,product,1,0,0,1
+putative eukaryotic translation elongation factor 5A,product,1,1,0,0
+translation elongation factor,annot (Pharokka),1,1,0,0
+threonyl-tRNA synthetase,product,1,1,0,0
+tRNA synthetase,annot (Pharokka),1,1,0,0
+similar to translation elongation factor eEF-3,product,1,0,0,1
+putative valyl-tRNA synthase,product,1,1,0,0
+translation elongation factor EF-1alpha,product,1,0,0,1
+tryptophanyl-tRNA synthetase,product,1,1,0,0
+translation elongation factor eEF-3 like,product,1,0,0,1

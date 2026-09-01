@@ -1,0 +1,527 @@
+description,source,count,phg,bac,vir
+NinI-like serine-threonine phosphatase,annot (Pharokka),64,64,0,0
+ABC transporter ATP-binding protein,product,61,2,59,0
+PnuC-like nicotinamide mononucleotide transport,annot (Pharokka),55,55,0,0
+MFS transporter,product,52,2,50,0
+outer membrane protein,annot (Pharokka),39,39,0,0
+sensor histidine kinase,product,35,3,32,0
+ABC transporter permease,product,35,1,33,1
+ABC transporter substrate-binding protein,product,34,0,34,0
+ABC transporter,annot (Pharokka),32,32,0,0
+methyl-accepting chemotaxis protein,product,31,2,29,0
+branched-chain amino acid ABC transporter permease,product,22,0,22,0
+contains signal peptide,note,20,0,0,20
+phosphate transporter subunit,annot (Pharokka),15,15,0,0
+contains signal peptide; putative secreted glycoprotein; possibly involved in immune regulation; CXCL family,note,12,0,0,12
+type 3 membrane protein; contains a signal peptide; 4 transmembrane domains,note,11,0,0,11
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein M,note,11,0,0,11
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein I to form an Fc-receptor; gE family,note,11,0,0,11
+type 1 membrane protein; contains a signal peptide; possible membrane fusogen; binds cell surface heparan sulphate,note,11,0,0,11
+type 1 membrane protein; contains a signal peptide; possible membrane fusogen; complexed with envelope glycoprotein L,note,11,0,0,11
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein E to form an Fc-receptor; gD family,note,11,0,0,11
+OMP1 protein,product,11,11,0,0
+type 1 membrane protein; contains a signal peptide; binds cell surface receptors; gD family,note,10,0,0,10
+type 1 membrane protein; contains a signal peptide; binds cell surface heparan sulphate; binds complement C3b to block neutralization,note,10,0,0,10
+contains a signal peptide; complexed with envelope glycoprotein H,note,10,0,0,10
+transport protein,product,10,3,0,7
+ABC transporter,product,9,1,0,8
+hybrid sensor histidine kinase/response regulator,product,9,1,8,0
+contains a signal peptide,note,9,0,0,9
+amino acid ABC transporter permease,product,8,0,8,0
+contains signal peptide; TE3 family,note,8,0,0,8
+branched-chain amino acid ABC transporter substrate-binding protein,product,8,0,8,0
+putative bifunctional diguanylate cyclase/phosphodiesterase,product,8,0,8,0
+signal peptide motif,annot (Pharokka),8,8,0,0
+cAMP-dependent Kef-type K+ transporter,annot (Pharokka),8,8,0,0
+sensor domain-containing diguanylate cyclase,product,7,1,6,0
+MetQ/NlpA family ABC transporter substrate-binding protein,product,7,0,7,0
+type 1 membrane protein; contains a signal peptide,note,7,0,0,7
+serine/threonine-protein phosphatase,product,7,2,0,5
+type 1 membrane protein; contains a signal peptide; binds cell surface heparan sulphate; binds complement C3b to block neutralization; involved in cell attachment,note,6,0,0,6
+G-protein-coupled receptor family protein,product,6,0,0,6
+predicted signal peptide,note,6,0,0,6
+contains signal peptide; complexed with envelope glycoproteins H and L; essential in non-fibroblast cells; involved in cell entry,note,6,0,0,6
+TolA protein,product,6,6,0,0
+type 3 membrane protein; contains a signal peptide; 4 transmembrane domains; involved in virion morphogenesis; involved in membrane fusion,note,6,0,0,6
+type 1 membrane protein; contains a signal peptide; possible membrane fusogen; complexed with envelope glycoprotein L; involved in cell entry; involved in cell-to-cell spread,note,6,0,0,6
+type 1 membrane protein; contains a signal peptide; possible membrane fusogen; binds cell surface heparan sulphate; involved in cell entry; involved in cell-to-cell spread,note,6,0,0,6
+contains signal peptide; complexed with envelope glycoprotein H; involved in cell entry; involved in cell-to-cell spread,note,6,0,0,6
+contains a signal peptide; complexed with envelope glycoprotein H; involved in cell entry; involved in cell-to-cell spread,note,6,0,0,6
+TRAP transporter substrate-binding protein,product,5,0,5,0
+FecCD family ABC transporter permease,product,5,0,5,0
+EamA family transporter,product,5,1,4,0
+carbohydrate ABC transporter permease,product,5,1,4,0
+type 1 membrane protein; contains a signal peptide; gD family,note,5,0,0,5
+histidine kinase,product,5,4,0,1
+contains signal peptide; associated with envelope glycoprotein H and envelope glycoprotein L; involved in virion morphogenesis,note,5,0,0,5
+bifunctional diguanylate cyclase/phosphodiesterase,product,5,0,5,0
+amino acid permease,product,5,0,5,0
+diguanylate cyclase,product,5,2,3,0
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein M; involved in virion morphogenesis; involved in membrane fusion,note,5,0,0,5
+RelA/SpoT family protein,product,4,2,2,0
+IMV membrane receptor-like protein,product,4,0,0,4
+sugar ABC transporter ATP-binding protein,product,4,0,4,0
+contains signal peptide; involved in immune regulation,note,4,0,0,4
+putative TAT signal protein,product,4,4,0,0
+putative phosphotransferase/anion transport protein,product,4,2,0,2
+multidrug effflux MFS transporter,product,4,0,4,0
+serine/threonine protein phosphatase,product,4,3,0,1
+amino acid ABC transporter substrate-binding protein,product,4,0,4,0
+molybdenum ABC transporter,product,4,4,0,0
+contains predicted signal peptide,note,4,1,0,3
+RyR domain containing protein,product,4,4,0,0
+Signal Peptide,note,4,4,0,0
+PP2C family protein-serine/threonine phosphatase,product,4,0,4,0
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein I to form an Fc-receptor; involved in cell-to-cell spread,note,4,0,0,4
+TRAP transporter large permease,product,4,0,4,0
+assembly (protein IV of M13),annot (Pharokka),4,4,0,0
+putative serine/threonine protein phosphatase,product,3,2,0,1
+Na/K ATPase,annot (Pharokka),3,3,0,0
+putative TRAP transporter solute receptor,product,3,3,0,0
+phosphonate ABC transporter ATP-binding protein,product,3,0,3,0
+PnuC-like nicotinamide riboside transporter,product,3,3,0,0
+type 1 membrane protein; contains a signal peptide; involved in cell-to-cell spread,note,3,0,0,3
+G protein-coupled chemokine receptor-like protein; G-protein-coupled receptors constitute a large family of transmembrane proteins that adopt a similar structural framework comprised of 7 transmembrane helices; they typically transduce extracellular signals; poxviruses might use the G protein-coupled chemokine receptor-like protein to facilitate immune evasion; The poxviridae are enveloped unsegmented dsDNA viruses; unlike many dsDNA viruses that replicate in the host nucleus poxviruses encode their own replication machinery and therefore replicate in the cytoplasm; viral genes are expressed in a bi-phasic manner with early genes encoding non-structural proteins involved in genome replication and late genes encoding the viral structural proteins,note,3,0,0,3
+"ABC-type histidine transport system, ATPase component",product,3,3,0,0
+putative preprotein translocase (YajC subunit),product,3,3,0,0
+protein-export chaperone SecB,product,3,2,1,0
+putative ABC transporter,product,3,3,0,0
+nucleobase:cation symporter-2 family protein,product,3,0,3,0
+contains a predicted signal peptide; putative secreted protein,note,3,0,0,3
+contains a signal peptide; glycoprotein; probably not enzymatically active,note,3,0,0,3
+ABC transporter ATP-binding subunit,annot (Pharokka),3,3,0,0
+contains signal peptide; similar to CC chemokines; complexed with envelope glycoproteins H and L; essential in non-fibroblast cells; involved in cell entry,note,3,0,0,3
+contains signal peptide; secreted protein; binds CC chemokine RANTES; involved in immune regulation,note,3,0,0,3
+TRAP transporter small permease,product,3,0,3,0
+Signal peptide,note,3,3,0,0
+contains signal peptide; EE3 family,note,3,0,0,3
+diguanylate-cyclase GGDEF domain protein,product,3,3,0,0
+amino acid ABC transporter ATP-binding protein,product,3,0,3,0
+aminoacid permease,product,3,0,0,3
+type 1 membrane protein; contains a signal peptide; binds cell surface receptors; involved in cell attachment; gD family,note,3,0,0,3
+ABC transporter permease subunit,product,3,0,3,0
+BMP family ABC transporter substrate-binding protein,product,3,0,3,0
+contains a signal peptide; possibly involved in immune regulation; TNFR family,note,3,0,0,3
+heavy metal sensor histidine kinase,product,3,0,3,0
+SulP family inorganic anion transporter,product,3,0,3,0
+RstB sensor of two protein system,annot (Pharokka),3,3,0,0
+methionine ABC transporter permease,product,3,0,3,0
+methionine ABC transporter ATP-binding protein,product,3,0,3,0
+ATP-binding cassette transporter-like protein,product,2,0,0,2
+type 1 membrane protein; contains a signal peptide; involved in cell-to-cell spread; gD family,note,2,0,0,2
+ABC transporter ATP-binding,product,2,2,0,0
+viral hybrid histidine kinase,note,2,0,0,2
+type 3 membrane protein; contains a signal peptide; similar in N-terminal region to TNFR and in C-terminal region to perforin; probably involved in immune regulation; TNFR family,note,2,0,0,2
+ABC transporter-like protein,product,2,2,0,0
+signal peptide found with Phobious,note,2,2,0,0
+CynX/NimT family MFS transporter,product,2,1,1,0
+NCS1 family nucleobase:cation symporter-1,product,2,0,2,0
+"Molybdenum ABC transporter, periplasmic molybdenum-binding protein ModA (TC 3.A.1.8.1)",note,2,2,0,0
+MlaE family ABC transporter permease,product,2,0,2,0
+LysE/ArgO family amino acid transporter,product,2,0,2,0
+G-protein coupled receptor,product,2,1,0,1
+putative histidine kinase,product,2,1,0,1
+sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC,product,2,1,1,0
+G protein-coupled receptor-6.1,product,2,0,0,2
+signal peptide-containing domain,note,2,2,0,0
+sodium:solute symporter family protein,product,2,0,2,0
+G protein-coupled receptor-4A,product,2,0,0,2
+G protein-coupled receptor-6,product,2,0,0,2
+G protein-coupled receptor-6.2,product,2,0,0,2
+G protein-coupled receptor-6.3,product,2,0,0,2
+G protein-coupled receptor-6.4,product,2,0,0,2
+signal peptide peptidase,product,2,1,0,1
+G protein-coupled receptor-1,product,2,0,0,2
+G protein coupled receptor-3,product,2,0,0,2
+G protein coupled receptor,product,2,0,0,2
+G protein-coupled receptor-4,product,2,0,0,2
+G protein-coupled receptor-4B,product,2,0,0,2
+G protein-coupled receptor-2,product,2,0,0,2
+putative phosphatidylinositol kinase,product,2,0,0,2
+nicotinamide riboside transporter,product,2,2,0,0
+peptidase domain-containing ABC transporter,product,2,0,2,0
+phosphate/phosphite/phosphonate ABC transporter substrate-binding protein,product,2,0,2,0
+putative ABC transporter ATP-binding protein/permease,product,2,0,0,2
+phosphatidylinositol kinase,product,2,1,0,1
+putative sensor protein,product,2,2,0,0
+putative transport protein,product,2,0,0,2
+putative mitochondrial carrier protein,product,2,0,0,2
+Signal peptide; hypothetical conserved protein,note,2,2,0,0
+Serine/threonine phosphatases incomplete domain containing protein,product,2,0,0,2
+RyR domain-containing protein,product,2,2,0,0
+"SNARE, syntaxin5",product,2,2,0,0
+contains signal peptide; E6A family,note,2,0,0,2
+histidine kinase response regulator; glycine zipper domain,note,2,2,0,0
+membrane spanning protein TolA,product,2,2,0,0
+iron ABC transporter substrate-binding protein,product,2,1,1,0
+mitochondrial carrier-like protein,product,2,0,0,2
+mitochondrial carrier protein-like protein,product,2,0,0,2
+member of ORF24 gene family; probably similar to RaHV-2 ORF64 gene family; predicted signal peptide,note,2,0,0,2
+molybdate ABC transporter permease subunit,product,2,0,2,0
+member of ORF64 gene family; probably related to RaHV-1 ORF24 gene family; predicted signal peptide,note,2,0,0,2
+molybdate ABC transporter substrate-binding protein,product,2,0,2,0
+dipeptide ABC transporter ATP-binding protein,product,2,0,2,0
+mitochondrial carrier protein,product,2,0,0,2
+putative ABC transporter ATP-binding protein,product,2,2,0,0
+putative amino acid transporter PAT1,product,2,2,0,0
+putative Phosphotransferase/anion transport protein,product,2,0,0,2
+"phosphonate ABC transporter, permease protein PhnE",product,2,0,2,0
+contains signal peptide; contains immunoglobulin domain; OX-2 family,note,2,0,0,2
+NinI-like serine-threonine phosphatase,product,2,0,0,2
+dicarboxylate/amino acid:cation symporter,product,2,0,2,0
+contains signal peptide; contains immunoglobulin domain; EE50 family,note,2,0,0,2
+amino acid transporter,product,2,2,0,0
+cAMP-dependent Kef-type K+ transporter,product,2,0,0,2
+Contains a predicted signal peptide; putative secreted protein,note,2,0,0,2
+AzlC family ABC transporter permease,product,2,0,2,0
+type 1 membrane protein; contains a signal peptide; binds cell surface receptors; involved in cell attachment,note,2,0,0,2
+sulfate ABC transporter substrate-binding protein,product,2,0,2,0
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein E to form an Fc-receptor; involved in cell-to-cell spread; gD family,note,2,0,0,2
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein E to form an Fc-receptor; involved in cell-to-cell spread,note,2,0,0,2
+voltage-gated chloride channel family protein,product,1,0,1,0
+ABC transporter C family member; Provisional; Region: PLN03130,note,1,1,0,0
+ABC transporter protein,note,1,0,0,1
+ABC transporter protein,product,1,0,0,1
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein E to form an Fc-receptor; involved in cell-to-cell spread; involved in basolateral spread; gD family,note,1,0,0,1
+two-component regulatory system sensor histidine kinase BtsS,product,1,1,0,0
+two-component sensor histidine kinase,product,1,1,0,0
+two-component system histidine kinase,product,1,1,0,0
+two-component system sensor histidine kinase CreC,product,1,0,1,0
+two-component system sensor histidine kinase NtrB,product,1,0,1,0
+type 1 membrane protein; contains a signal peptide; binds cell surface heparan sulphate; binds complement C3b to block neutrali; type 1 membrane protein; contains a signal peptide; binds cell surface heparan sulphate; binds complement C3b to block neutralization,note,1,0,0,1
+sulfate/molybdate ABC transporter ATP-binding protein,product,1,0,1,0
+sulfate/thiosulfate import ATP-binding protein CysA,product,1,1,0,0
+sulfonate ABC transporter substrate-binding protein,product,1,0,1,0
+transmembrane domain and signal peptide found with Phobius,note,1,1,0,0
+transporter membrane protein,product,1,1,0,0
+tungsten ABC transporter permease,product,1,0,1,0
+sortase system; histidine kinase response regulator; glycine zipper domain,note,1,1,0,0
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein I to form an Fc-receptor; involved in cell-to-cell spread; involved in basolateral spread; gE family,note,1,0,0,1
+type 1 membrane protein; contains a signal peptide; complexed with envelope glycoprotein M; involved in virion morphogenesis; involved in membrane fusion; not glycosylated,note,1,0,0,1
+type 1 membrane protein; contains a signal peptide; gE family,note,1,0,0,1
+CmpA/NrtA family ABC transporter substrate-binding protein,product,1,0,1,0
+Contains a predicted signal peptide and a transmembrane helix; putative membrane protein,note,1,0,0,1
+"Contains a predicted signal peptide, a C-terminal transmembrane helix, and an immunoglobulin domain; similar to MCV protein MC003L; putative membrane receptor",note,1,0,0,1
+"Contains a predicted signal peptide, a C-terminal transmembrane helix, and an immunoglobulin domain; similar to MCV proteins MC002L and MC161R; putative membrane receptor",note,1,0,0,1
+"Contains a predicted signal peptide, a C-terminal transmembrane helix, and an immunoglobulin domain; similar to MCV proteins MC002L and MC162R; putative membrane receptor",note,1,0,0,1
+"Contains a predicted signal peptide, a C-terminal transmembrane helix, and an immunoglobulin domain; similar to human carcinoembryonic antigen homolog CGM2, PIR Accession Number A55811; also similar to MCV protein MC157R; putative membrane receptor",note,1,0,0,1
+subtilisin-like proprotein convertase; contains predicted signal peptide,note,1,0,0,1
+sugar ABC transporter permease,product,1,1,0,0
+sugar ABC transporter substrate-binding protein,product,1,0,1,0
+sulfate ABC transporter permease subunit CysT,product,1,0,1,0
+sulfate ABC transporter permease subunit CysW,product,1,0,1,0
+G protein-coupled receptor-like protein,product,1,0,0,1
+G protein-coupled receptor; similar to IL-8 receptor; related HHV-8 vGPCR,note,1,0,0,1
+G protein-coupled receptor; similar to IL-8 receptor; transforming protein; similar to HHV8 vGPCR,note,1,0,0,1
+signal peptide protein,product,1,1,0,0
+signal peptide transmembrane,product,1,1,0,0
+signal-peptide domain-containing protein,product,1,1,0,0
+similar to 44RRORF027c hypothetical protein; contains predicted signal peptide,note,1,1,0,0
+similar to EBV BALF3; transport protein,note,1,0,0,1
+similar to EBV BILF1; possible seven transmembrane protein with similarity to G-protein coupled receptors,note,1,0,0,1
+"similar to EBV BLRF1, CMV UL73, HSV UL49a; contains putative signal peptide cleavage site",note,1,0,0,1
+spinster family MFS transporter,product,1,0,1,0
+similar to HCMVA UL56 and MCMVS M56; possible processing and transport protein,note,1,0,0,1
+similar to Pho4 high affinity phosphate transporter,note,1,0,0,1
+similar to UL33; G-protein coupled receptor,note,1,0,0,1
+similar to UL78; G-protein coupled receptor,note,1,0,0,1
+similar to VACCP-A28L; contains putative signal peptide,note,1,0,0,1
+similar to bacterial adenylate cyclase,note,1,1,0,0
+similar to bacterial adenylate cyclases,note,1,1,0,0
+similar to equilibrative nucleoside transporter 1; vENT1,note,1,0,0,1
+"putative membrane protein; an unusual feature is the presence of 3 predicted N-terminal signal peptides; contains a predicted C-terminal transmembrane helix; similar to MHC I heavy chains, for example rat MHC I, PIR Accession Number S25536; Description: MHC I heavy chain homolog",note,1,0,0,1
+putative membrane protein; contains predicted signal peptide and transmembrane helix; Description: homolog of vaccinia A9L and variola A10L,note,1,0,0,1
+sn-glycerol-3-phosphate ABC transporter permease UgpA,product,1,0,1,0
+sn-glycerol-3-phosphate ABC transporter permease UgpE,product,1,0,1,0
+sn-glycerol-3-phosphate ABC transporter substrate-binding protein UgpB,product,1,0,1,0
+sodium/glutamate symporter,product,1,0,1,0
+sodium:alanine symporter,product,1,1,0,0
+sodium:solute symporter,product,1,0,1,0
+aliphatic sulfonate ABC transporter substrate-binding protein,product,1,0,1,0
+amino acid ABC transporter ATP-binding/permease protein,product,1,0,1,0
+TRAP transporter small permease subunit,product,1,0,1,0
+cell-to-cell transport protein,product,1,0,0,1
+chloride channel protein,product,1,1,0,0
+chromate transport protein,product,1,0,0,1
+cl10339: PHA01808 super family (putative structural protein); TIGR02794: TolA protein,note,1,1,0,0
+class IV adenylate cyclase,product,1,1,0,0
+branched-chain amino acid transport system II carrier protein,product,1,0,1,0
+aminoacid permease,annot (Pharokka),1,1,0,0
+antibiotic ABC transporter ATP-binding protein,product,1,1,0,0
+benzoate/H(+) symporter BenE family transporter,product,1,0,1,0
+best blastp hit: emb|CAC13549.1| (AL445564) ABC TRANSPORTER ATP-BINDING AND PERMEASE PROTEIN (MDR HOMOLOG) [Mycoplasma pulmonis],note,1,1,0,0
+adenylate cyclase,product,1,1,0,0
+aerotaxis sensor receptor protein,product,1,1,0,0
+aliphatic sulfonate ABC transporter permease SsuC,product,1,0,1,0
+ORF189; putative signal peptide present,note,1,1,0,0
+ORF19; Sugar transport proteins signature 2,note,1,1,0,0
+PAS domain-containing hybrid sensor histidine kinase/response regulator,product,1,0,1,0
+PAS domain-containing sensor histidine kinase,product,1,0,1,0
+"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase",product,1,1,0,0
+bile acid:sodium symporter family protein,product,1,0,1,0
+binding-protein-dependent transport systems inner membrane component,product,1,1,0,0
+biopolymer transporter,product,1,1,0,0
+contains SecD domain,note,1,1,0,0
+contains a predicted signal peptide and an immunoglobulin domain; putative secreted protein,note,1,0,0,1
+contains a predicted signal peptide and an immunoglobulin domain; similar to MCV protein MC051L; putative secreted protein,note,1,0,0,1
+contains a predicted signal peptide and an immunoglobulin domain; similar to MCV protein MC053L; putative secreted protein,note,1,0,0,1
+"contains a predicted signal peptide and an immunoglobulin domain; similar to Xenopus class I histocompatibility antigen, PIR Accession Number S39606; putative secreted protein",note,1,0,0,1
+"contains a predicted signal peptide and two potential disulfide bonds conserved in CC chemokines; similar to putative chicken chemokine, GenBank CHKCYTO_1; putative CC chemokine",note,1,0,0,1
+ORF183; putative signal peptide present,note,1,1,0,0
+ORF188; putative signal peptide present,note,1,1,0,0
+Protein of unknown function (DUF3307); Signal peptide; TMDs,note,1,1,0,0
+ORF155; pif-2 (formerly ORF12); Signal peptide predicted by Phobius with cleavage site between residues 20 and 21; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 20 and 21; Phobius:1.01; TMHMM:2.0; SignalP:4.0,note,1,0,0,1
+contains a signal peptide; similar to a family of Singapore grouper iridovirus proteins,note,1,0,0,1
+contains a signal peptide; similar to chloride channel CLIC-like 1 protein,note,1,0,0,1
+contains potential signal peptide,note,1,1,0,0
+contains predicted signal peptide; originally annotated as gp45,note,1,1,0,0
+hybrid sensor histidine kinase - response regulator,product,1,1,0,0
+hypothetical novel protein; Predicted signal peptide containing secreted protein by InterProScan,note,1,1,0,0
+Signal peptide; TMD,note,1,1,0,0
+TIGR04028 family ABC transporter substrate-binding protein,product,1,0,1,0
+SNARE (soluble N-ethylmaleimide-sensitive factor attachment protein receptor) protein,product,1,0,0,1
+SNARE domain containing protein/ putative syntaxin,product,1,0,0,1
+Sec signal protein,product,1,1,0,0
+Serine/Threonine protein phosphatase,product,1,0,0,1
+Serine/threonine phosphatases incomplete domain,product,1,0,0,1
+PhnE/PtxC family ABC transporter permease,product,1,0,1,0
+contains signal peptide; complexed with envelope glycoprotein H; role in cell entry; role in cell-to-cell spread,note,1,0,0,1
+contains signal peptide; complexed with envelope glycoprotein H; role in cell entry; role in cell-to-cell spread; core gene,note,1,0,0,1
+contains a signal peptide; secreted protein; M1 family; involved in immune regulation,note,1,0,0,1
+ORF 18; contains a signal peptide,note,1,0,0,1
+ORF 68; contains a signal peptide,note,1,0,0,1
+ORF 86; contains a signal peptide and 2 transmembrane domains,note,1,0,0,1
+ORF containing putative signal peptide; detected by 5'RACE-PCR,note,1,0,0,1
+Signal peptide at N terminus with long non-cytoplasmic domain. No blast hits to show sufficient homology with any other phage protein,note,1,1,0,0
+cyclic nucleotide-gated channel rod photoreceptor subunit alpha-like protein,product,1,1,0,0
+cyclic peptide export ABC transporter,product,1,0,1,0
+dependent outer membrane receptor,product,1,1,0,0
+diguanylate cyclase/phosphodiesterase,product,1,0,0,1
+diguanylate-cyclase GGDEF domain,product,1,1,0,0
+contains signal peptide; contains Ig domain,note,1,0,0,1
+contains signal peptide; truncated by frameshift in majority of genomes,note,1,0,0,1
+contains signal peptide; US6 family,note,1,0,0,1
+"gp09; 2 transmembrane domain,cleaved sign pept putative lipoprotein; ORF09; similar to YP_003358405.1 gp09 from Pseudomonas phage LIT1 -Transcribed in early infection (RNA-Seq data), 2 transmembrane domains, cleaved signal peptide (P=0.99), putative lipoprotein",note,1,1,0,0
+mitochondrial carrier-like protein 2,product,1,1,0,0
+molybdenum ABC transporter ATP-binding protein,product,1,0,1,0
+member of ORF72 gene family; similar to RaHV-1 ORF45; predicted signal peptide,note,1,0,0,1
+mercuric ion transporter MerT,product,1,0,1,0
+microcin C ABC transporter permease YejB,product,1,0,1,0
+lipid asymmetry maintenance ABC transporter permease subunit MlaE,product,1,0,1,0
+lipoprotein-releasing ABC transporter ATP-binding protein LolD,product,1,0,1,0
+"gp_75758; sortase system, peptidoglycan-associated proteinhistidine kinase response regulator, glycine zipper domain",note,1,1,0,0
+"gp_77302; Similar to peptidoglycan-associated proteinhistidine kinase response regulator, glycine zipper domain",note,1,1,0,0
+encodes a signal peptide,note,1,1,0,0
+energy-coupling factor ABC transporter ATP-binding protein,product,1,0,1,0
+glutamate ABC transporter substrate-binding protein,product,1,0,1,0
+glycine betaine/L-proline ABC transporter ATP-binding protein ProV,product,1,0,1,0
+glycine betaine/L-proline ABC transporter permease ProW,product,1,0,1,0
+glycine betaine/L-proline ABC transporter substrate-binding protein ProX,product,1,0,1,0
+high-affinity branched-chain amino acid ABC transporter permease LivM,product,1,0,1,0
+histidine kinase response regulator-like protein; glycine zipper domain-like protein,note,1,1,0,0
+"gp_67137; Similar to peptidoglycan-associated proteinhistidine kinase response regulator, glycine zipper domain",note,1,1,0,0
+"gp_67252; Similar to peptidoglycan-associated proteinhistidine kinase response regulator, glycine zipper domain",note,1,1,0,0
+"gp_67345; Similar to peptidoglycan-associated proteinhistidine kinase response regulator, glycine zipper domain",note,1,1,0,0
+"gp_67464; Similar to peptidoglycan-associated proteinhistidine kinase response regulator, glycine zipper domain",note,1,1,0,0
+"gp_73014; Similar to peptidoglycan-associated proteinhistidine kinase response regulator, glycine zipper domain",note,1,1,0,0
+"gp_75521; Similar to peptidoglycan-associated proteinhistidine kinase response regulator, glycine zipper domain",note,1,1,0,0
+"hypothetical novel protein; Signal peptide, transmembrane domain containing protein",note,1,1,0,0
+hypothetical protein with signal peptide,note,1,1,0,0
+hypothetical protein; tm or signal peptide,note,1,1,0,0
+"identical to hypothetical protein T5.038 [Escherichia virus T5], conserved domain PP2C_C pfam07830 Protein serine/threonine phosphatase 2C",note,1,1,0,0
+has transmembrane domain at the N terminus with a cytoplasmic domain and a signal peptide. No blast hits were found that showed homology to any other phage protein,note,1,1,0,0
+high affinity phosphate transporter,product,1,0,0,1
+high-affinity branched-chain amino acid ABC transporter ATP-binding protein LivG,product,1,0,1,0
+high-affinity branched-chain amino acid ABC transporter permease LivH,product,1,0,1,0
+nuclear transport protein,product,1,0,0,1
+nucleoside transporter,product,1,1,0,0
+osmosensitive K+ channel histidine kinase KdpD,note,1,1,0,0
+outer membrane porin,product,1,0,0,1
+outer membrane porin GjpA,product,1,1,0,0
+molybdenum ABC transporter periplasmic molybdenum-binding protein,product,1,1,0,0
+G-protein coupled receptor Mth2-like,product,1,0,0,1
+GGDEF motif diguanylate cyclase,note,1,1,0,0
+peptide ABC transporter substrate-binding protein,product,1,1,0,0
+peptidoglycan-associated proteinhistidine kinase response regulator-like protein,product,1,1,0,0
+phage hypothetical protein with signal peptide and DUF1514,note,1,1,0,0
+phage hypothetical protein with signal peptide and TM domain,note,1,1,0,0
+phosphate ABC transporter ATP-binding protein PstB,product,1,0,1,0
+phosphate ABC transporter permease PstA,product,1,0,1,0
+phosphate ABC transporter permease subunit PstC,product,1,0,1,0
+phosphate ABC transporter substrate-binding protein,product,1,1,0,0
+iron ABC transporter permease,product,1,1,0,0
+iron chelate uptake ABC transporter family permease subunit,product,1,0,1,0
+late 100Kd hexon transport protein,product,1,0,0,1
+lipid A export ATP-binding/permease protein Msb,product,1,1,0,0
+phosphate ABC transporter substrate-binding protein PstS,product,1,0,1,0
+phosphate regulon sensor histidine kinase PhoR,product,1,0,1,0
+phosphatidylinositol 4-phosphate 5-kinase 5-like protein,product,1,1,0,0
+phospholipid-transporting ATPase 1,product,1,1,0,0
+lipoprotein-releasing ABC transporter permease subunit,product,1,0,1,0
+lysogeny pheromone peptide AimP,product,1,1,0,0
+magnesium-transporting ATPase,product,1,0,0,1
+"matches Pfam SSF sodium:solute symporter family E=1.6e-34; similar to sp P13866, P96169 sodium/glucose cotransporter",note,1,1,0,0
+member of ORF46 gene family; similar to RaHV-2 ORF71; predicted signal peptide,note,1,0,0,1
+inorganic phosphate transporter,product,1,0,1,0
+integral membrane sensor hybrid histidine kinase,product,1,1,0,0
+ion transporter,product,1,1,0,0
+ORF034; gp64 (formerly ORF124); Signal peptide and 1 probable transmembrane helix predicted by Phobius with cleavage site between residues and; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 17 and 18; Phobius:1.01; TMHMM:2.0; SignalP:4.0,note,1,0,0,1
+ORF038; ac124-like (formerly ORF121); Signal peptide and 5 probable transmembrane helices predicted by Phobius with cleavage site between residues and; 5 probable transmembrane helices predicted by TMHMM; Phobius:1.01; TMHMM:2.0,note,1,0,0,1
+ORF039; ac122-like (formerly ORF120); Signal peptide predicted by Phobius with cleavage site between residues 16 and 17; 5 probable transmembrane helices predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 21 and 22; Phobius:1.01; SignalP:4.0,note,1,0,0,1
+ORF043; pif-1 (formerly ORF117); Signal peptide predicted by Phobius with cleavage site between residues 20 and 21; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 20 and 21; Phobius:1.01; TMHMM:2.0; SignalP:4.0,note,1,0,0,1
+"molybdenum ABC transporter, periplasmic molybdenum-binding protein",product,1,1,0,0
+molybdopterin-guanine dinucleotide biosynthesis protein B,product,1,0,1,0
+multiple transmembrane protein; chloride channel,note,1,0,0,1
+nicotinamide mononucleotide transporter PnuC,product,1,1,0,0
+ORF071; odv-e25 (formerly ORF91); Signal peptide predicted by Phobius with cleavage site between residues 36 and 37; 1 probable transmembrane helix predicted by TMHMM; Phobius:1.01; TMHMM:2.0,note,1,0,0,1
+ORF072; p18 (formerly ORF90); Signal peptide predicted by Phobius with cleavage site between residues 26 and 27; 1 probable transmembrane helix predicted by TMHMM; Phobius:1.01,note,1,0,0,1
+ORF079; ag79 (formerly ORF83); 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 6 and 7; SignalP:4.0,note,1,0,0,1
+ORF087; ac76-like (formerly ORF75); Signal peptide and 1 probable transmembrane helix predicted by Phobius with cleavage site between residues and; 1 probable transmembrane helix predicted by TMHMM; Phobius:1.01; TMHMM:2.0,note,1,0,0,1
+ORF016; ac145-like (formerly ORF141); Signal peptide predicted by Phobius with cleavage site between residues 16 and 17; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 15 and 16; Phobius:1.01; SignalP:4.0,note,1,0,0,1
+ORF030; putative signal peptide present,note,1,1,0,0
+ORF031; putative signal peptide and transmembrane domain present,note,1,1,0,0
+ORF032; gp16 (formerly ORF126); Signal peptide predicted by Phobius with cleavage site between residues 18 and 19; 3 probable transmembrane helices predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 19 and 20; Phobius:1.01; SignalP:4.0,note,1,0,0,1
+ORF133; ctl-2 (formerly ORF30); Signal peptide predicted by Phobius with cleavage site between residues 35 and 36; 1 probable transmembrane helix predicted by TMHMM; Phobius:1.01; TMHMM:2.0,note,1,0,0,1
+ORF134; fgf (formerly ORF29); Signal peptide predicted by Phobius with cleavage site between residues 17 and 18; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 17 and 18; Phobius:1.01; SignalP:4.0; eggNOG:biNOG03321; eggNOG:KOG3885; eggNOG:meNOG03342; eggNOG:NOG21273,note,1,0,0,1
+ORF143; f-protein (formerly ORF22); Signal peptide and 1 probable transmembrane helix predicted by Phobius with cleavage site between residues and; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 16 and 17; Phobius:1.01; TMHMM:2.0; SignalP:4.0; eggNOG:artNOG09393; eggNOG:biNOG35813; eggNOG:euNOG26915; eggNOG:inNOG08779; eggNOG:meNOG36792; eggNOG:NOG112601; eggNOG:opiNOG46214,note,1,0,0,1
+ORF149; egt (formerly ORF18); Signal peptide predicted by Phobius with cleavage site between residues 17 and 18; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 17 and 18; Phobius:1.01; SignalP:4.0; eggNOG:artNOG01683; eggNOG:biNOG04339; eggNOG:KOG1192; eggNOG:inNOG01854; eggNOG:meNOG04346; eggNOG:COG1819; eggNOG:opiNOG04068; KEGG:K00699,note,1,0,0,1
+ORF046; pif-3 (formerly ORF114); Signal peptide predicted by Phobius with cleavage site between residues 21 and 22; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 21 and 22; Phobius:1.01; TMHMM:2.0; SignalP:4.0,note,1,0,0,1
+ORF048; ag48 (formerly ORF112); Signal peptide predicted by Phobius with cleavage site between residues 42 and 43; 1 probable transmembrane helix predicted by TMHMM; Phobius:1.01; TMHMM:2.0,note,1,0,0,1
+ORF052; ac150-like (formerly ORF108); Signal peptide predicted by Phobius with cleavage site between residues 22 and 23; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 22 and 23; Phobius:1.01; TMHMM:2.0; SignalP:4.0,note,1,0,0,1
+ORF069; pif-4 (formerly ORF93); Signal peptide predicted by Phobius with cleavage site between residues 17 and 18; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 17 and 18; Phobius:1.01; SignalP:4.0,note,1,0,0,1
+GTP pyrophosphokinase,note,1,1,0,0
+"Gp57; signal peptide, transmembrane domain; orf57",note,1,1,0,0
+Gp62; signal peptide; orf62,note,1,1,0,0
+"Gp6; signal-peptide, transmembrane regions; orf6",note,1,1,0,0
+ORF100; putative signal peptide and coiled coil present,note,1,1,0,0
+ORF114; odv-e66 (formerly ORF49); Signal peptide predicted by Phobius with cleavage site between residues 23 and 24; 1 probable transmembrane helix predicted by TMHMM Signal peptide predicted by SignalP 4.0 (Signal peptide probability) with cleavage site probability between residues 23 and 24; Phobius:1.01; TMHMM:2.0; SignalP:4.0,note,1,0,0,1
+ORF128; putative signal peptide present,note,1,1,0,0
+ORF132; Aerobic respiration control sensor protein ArcB,note,1,1,0,0
+putative virion membrane protein; contains a predicted signal peptide; Description: homolog of vaccinia A14L and variola A15L,note,1,0,0,1
+rhomboid membrane protein,product,1,1,0,0
+sec signal-containing phage protein,product,1,1,0,0
+sensor protein,product,1,1,0,0
+putative selenium delivery protein YdfZ,product,1,1,0,0
+putative signal peptide,note,1,1,0,0
+putative signal peptide protein,product,1,1,0,0
+putative t-SNARE coiled-coil homology domain-containing protein,product,1,0,0,1
+putative 2-aminoethylphosphonate ABC transporter substrate-binding protein,product,1,0,1,0
+phosphonate ABC transporter substrate-binding protein,product,1,0,1,0
+porin OmpC,product,1,1,0,0
+positional similar to BZLF2; structural similarities to ORF51; contains predicted signal peptide cleavage site,note,1,0,0,1
+predicted signal peptide (Phobius),note,1,1,0,0
+predicted signal peptide; originally called cos54_1,note,1,0,0,1
+preprotein translocase subunit SecA,product,1,0,1,0
+putative virion membrane protein; contains a predicted signal peptide; Description: homolog of vaccinia A13L and variola A14L,note,1,0,0,1
+putative ABC-type amino acid transporter,product,1,0,0,1
+putative GTP pyrophosphokinase,product,1,1,0,0
+preprotein translocase subunit SecE,product,1,0,1,0
+preprotein translocase subunit SecG,product,1,0,1,0
+preprotein translocase subunit SecY,product,1,0,1,0
+preprotein translocase subunit YajC,product,1,0,1,0
+processing and transport protein,product,1,0,0,1
+putative 2-aminoethylphosphonate ABC transporter permease subunit,product,1,0,1,0
+nitrate ABC transporter permease,product,1,0,1,0
+"putative K+ transporting ATPase, KdpC subunit",product,1,1,0,0
+putative RyR domain-containing protein,product,1,1,0,0
+putative TolA protein,product,1,1,0,0
+putative bifunctional (p)ppGpp synthetase/guanosine-3' 5'-bis diphosphate 3'-pyrophosphohydrolase protein,product,1,1,0,0
+putative 7-transmembrane-G-protein-coupled-receptor-like; similar to VARV-BSH75-banu-202,note,1,0,0,1
+putative ABC transporter ATP binding protein,product,1,1,0,0
+putative ABC transporter permease protein YphD,product,1,0,0,1
+LPS export ABC transporter ATP-binding protein,product,1,0,1,0
+LPS export ABC transporter permease LptF,product,1,0,1,0
+LPS export ABC transporter permease LptG,product,1,0,1,0
+M4; contains a signal peptide; secreted protein; M1 family; involved in immune regulation,note,1,0,0,1
+putative chloride channel,product,1,0,0,1
+putative cobalt transport protein,product,1,1,0,0
+putative family 2C serine/threonine phosphatase,product,1,0,0,1
+putative iron outer membrane receptor,product,1,1,0,0
+Na+/H+ antiporter subunit E,product,1,0,1,0
+Na+/H+ antiporter-like protein,product,1,1,0,0
+Mg2+/Co2+ transport protein,product,1,1,0,0
+Mg2+/Co2+ transport protein CorA,product,1,1,0,0
+Mitochondrial carrier protein,product,1,0,0,1
+MlaC/ttg2D family ABC transporter substrate-binding protein,product,1,0,1,0
+N-acyl-L-homoserine lactone synthetase,product,1,1,0,0
+"Gp72; signal peptide, transmembrane domain, DUF165 superfamilly domain; orf72",note,1,1,0,0
+DHA2 family efflux MFS transporter permease subunit,product,1,0,1,0
+DctP family TRAP transporter solute-binding subunit,product,1,0,1,0
+EF hand domain/PKD domain protein,product,1,1,0,0
+N-terminal signal peptide,note,1,1,0,0
+Na+ symporter family protein,product,1,1,0,0
+Na+/H+ antiporter,product,1,1,0,0
+Na+/H+ antiporter NhaA,product,1,0,1,0
+Na+/H+ antiporter subunit C,product,1,0,1,0
+putative transport protein,note,1,0,0,1
+putative mitochondrial carrier protein-like protein,note,1,0,0,1
+putative preprotein translocase,product,1,1,0,0
+putative secreted protein; contains a predicted signal peptide; Description: homolog of vaccinia and variola E10R,note,1,0,0,1
+putative selenate ABC transporter substrate-binding protein,product,1,0,1,0
+Contains an N terminus transmembrane domain and signal peptides. No known homology to any phage protein shown in blast results,note,1,1,0,0
+Cyanothece histidine kinase,product,1,1,0,0
+DASS family sodium-coupled anion symporter,product,1,0,1,0
+type 1 membrane protein; contains a signal peptide; lacks membrane anchor; gD family; chemokine-binding protein,note,1,0,0,1
+ABC-like transporter permease,note,1,1,0,0
+7 transmembrane receptor,product,1,0,0,1
+ABCB family ABC transporter ATP-binding protein/permease,product,1,0,1,0
+ACH96141.1 mitochondrial carrier protein-like protein,product,1,0,0,1
+ATP binding cassette transporter,product,1,1,0,0
+ATP-binding cassette transporter nucleotide-binding domain; Region: ABC_ATPase; cl17201;ABC transporter signature motif; other site,note,1,1,0,0
+"Contains a predicted signal peptide, a C-terminal transmembrane helix, and an immunoglobulin domain; similar to human signaling lymphocytic activating molecule, GenBank HSU33017_1; also similar to MCV proteins MC161Rh and MC162R; putative membrane receptor",note,1,0,0,1
+viral G-protein coupled receptor; vGPCR; betaherpesvirus specific; envelope glycoprotein; 7xTM domain; chemokine receptor family; similar to MCMV M33 and HCMV UL33,note,1,0,0,1
+"ABC transporter, permease protein",product,1,1,0,0
+uracil permease,product,1,1,0,0
+urea ABC transporter ATP-binding protein UrtD,product,1,0,1,0
+urea ABC transporter ATP-binding subunit UrtE,product,1,0,1,0
+urea ABC transporter permease subunit UrtB,product,1,0,1,0
+type 1 membrane protein; contains a signal peptide; involved in cell-to-cell spread; involved in apical spread; gD family,note,1,0,0,1
+type 1 membrane protein; contains a signal peptide; lacks membrane anchor in this case; gD family,note,1,0,0,1
+signal peptide containing protein,product,1,1,0,0
+"signal peptide found with Phobious, transmembrane domain found with Phobious and TMHMM",note,1,1,0,0
+signal peptide found with Phobious; DUF4884 (pfam16225) domain found,note,1,1,0,0
+urea ABC transporter permease subunit UrtC,product,1,0,1,0
+urea ABC transporter substrate-binding protein,product,1,0,1,0
+vCCR8; G protein-coupled chemokine receptor-like protein; G-protein-coupled receptors constitute a large family of transmembrane proteins that adopt a similar structural framework comprised of 7 transmembrane helices; they typically transduce extracellular signals; poxviruses might use the G protein-coupled chemokine receptor-like protein to facilitate immune evasion; The poxviridae are enveloped unsegmented dsDNA viruses; unlike many dsDNA viruses that replicate in the host nucleus poxviruses encode their own replication machinery and therefore replicate in the cytoplasm; viral genes are expressed in a bi-phasic manner with early genes encoding non-structural proteins involved in genome replication and late genes encoding the viral structural proteins,note,1,0,0,1
+"vCCR8; chemokine receptor-like protein; G-protein-coupled receptors constitute a large family of transmembrane proteins that adopt a similar structural framework comprised of 7 transmembrane helices; they typically transduce extracellular signals; poxviruses likely use the G protein-coupled chemokine receptor-like proteins to facilitate immune evasion; The poxviridae are enveloped unsegmented dsDNA viruses; unlike many dsDNA viruses that replicate in the host nucleus poxviruses encode their own replication machinery and therefore replicate in the cytoplasm; viral genes are expressed in a bi-phasic manner with early genes genes encoding non-structural proteins involved in genome replication and late genes encoding the viral structural proteins; Members of the genus Yatapoxvirus, which include Tanapox virus (TPV) and Yaba monkey tumor virus, infect primates including humans",note,1,0,0,1
+viral G-protein coupled receptor; vGPCR; betaherpesvirus specific; chemokine receptor family; envelope glycoprotein; 7xTM domains; similar to MCMV M78 and HCMV UL7,note,1,0,0,1
+G protein-coupled receptor; type 3 membrane protein; contains 7 transmembrane domains,note,1,0,0,1
+G protein-coupled receptor homologue,product,1,0,0,1
+G protein-coupled receptor protein,product,1,0,0,1
+Fe(3+) ABC transporter substrate-binding protein,product,1,0,1,0
+Fe2+-enterobactin ABC transporter substrate-binding protein,product,1,0,1,0
+G protein-coupled receptor,note,1,0,0,1
+"Contains a signal peptide at the N terminus and a long non-transmembrane domain, however no blast results shown any homology to a protein function",note,1,1,0,0
+siderophore ABC transporter substrate-binding protein,product,1,0,1,0
+contains a signal peptide; related to IL-8,note,1,0,0,1
+contains a signal peptide; secreted protein; M1 family,note,1,0,0,1
+contains a predicted signal peptide; Description: homolog of vaccinia A21L and variola A22L,note,1,0,0,1
+contains a predicted signal peptide; Description: homolog of vaccinia A28L and variola A31.5L,note,1,0,0,1
+contains a predicted signal peptide; putative virion membrane protein,note,1,0,0,1
+contains a signal peptide; complexed with envelope glycoprotein H; putative initiation codon is GTG,note,1,0,0,1
+cobalt ABC transporter domain-containing protein,product,1,1,0,0
+cobalt ABC transporter permease,product,1,1,0,0
+TRAP transporter solute receptor like protein,product,1,1,0,0
+TolA-TolQ-TolR complex; inner membrane protein TolA,product,1,1,0,0
+VC_2705 family sodium/solute symporter,product,1,0,1,0
+YbfB/YjiJ family MFS transporter,product,1,0,1,0
+contains a signal peptide; contains a fibronectin type 3 domain; possibly involved in immune regulation; TNFR family,note,1,0,0,1
+contains a signal peptide; contains an Ig domain,note,1,0,0,1
+contains a signal peptide; derived from TNFR but lacks TNFR domain; TNFR family,note,1,0,0,1
+contains a signal peptide; involved in immune regulation,note,1,0,0,1
+ATP-binding/permease protein; ABC transporter,note,1,1,0,0
+AmpG family muropeptide MFS transporter,product,1,0,1,0
+BRCT domain-containing protein,product,1,1,0,0
+C4-dicarboxylate ABC transporter substrate-binding protein,product,1,1,0,0
+CNPV039 G protein-coupled receptor-like protein,product,1,0,0,1
+CNPV045 G protein-coupled receptor-like protein,product,1,0,0,1
+ABC transporter ATP-binding protein/permease,product,1,0,1,0
+TRAP transporter solute receptor,product,1,1,0,0
+CNPV315 G protein-coupled receptor-like protein,product,1,0,0,1
+COG0341 Preprotein translocase subunit SecF,note,1,1,0,0
+COG0342 preprotein translocase subunit SecD,note,1,1,0,0
+"COG1108 ABC-type Mn2+/Zn2+ transport systems, permease components",note,1,1,0,0
+"COG1120 ABC-type cobalamin/Fe3+-siderophores transport systems, ATPase components",note,1,1,0,0
+Ca2+ transporting ATPase,note,1,0,0,1
+Cation transporter protein A,product,1,0,0,1
+Cation transporter protein B,product,1,0,0,1

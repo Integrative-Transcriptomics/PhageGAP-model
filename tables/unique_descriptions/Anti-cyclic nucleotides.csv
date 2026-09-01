@@ -1,0 +1,12 @@
+description,source,count,phg,bac,vir
+Anti_CBASS,AD_genes_type (DefenseFinder),142,142,0,0
+cAMP phosphodiesterase,annot (Pharokka),25,25,0,0
+Anti_Pycsar,AD_genes_type (DefenseFinder),22,22,0,0
+phosphodiesterase,annot (Pharokka),16,16,0,0
+cAMP phosphodiesterase protein,product,1,1,0,0
+diguanylate phosphodiesterase,product,1,1,0,0
+diguanylate cyclase/phosphodiesterase (GGDEF & EAL domains) with PAS/PAC sensor(s),product,1,1,0,0
+glycerophosphodiester phosphodiesterase,product,1,1,0,0
+phosphodiesterase,product,1,1,0,0
+putative glycophosphodiester phosphodiesterase,note,1,1,0,0
+sphingomyelin phosphodiesterase,product,1,1,0,0

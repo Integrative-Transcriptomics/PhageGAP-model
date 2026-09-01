@@ -1,0 +1,78 @@
+description,source,count,phg,bac,vir
+portal protein,annot (Pharokka),1444,1444,0,0
+internal virion protein,annot (Pharokka),444,444,0,0
+internal virion protein with endolysin domain,annot (Pharokka),165,165,0,0
+internal head protein,annot (Pharokka),159,159,0,0
+portal protein,product,80,80,0,0
+internal virion lysozyme motif,annot (Pharokka),35,35,0,0
+pilot protein for DNA ejection,annot (Pharokka),29,29,0,0
+nuclear shell protein,annot (Pharokka),23,23,0,0
+DNA ejection,annot (Pharokka),22,22,0,0
+minor head protein and DNA pilot,annot (Pharokka),18,18,0,0
+putative portal protein,product,15,15,0,0
+GP16.7-like replication protein,annot (Pharokka),12,12,0,0
+nuclear pore complex-like protein,product,12,12,0,0
+DNA ejection protein,annot (Pharokka),9,9,0,0
+nuclear pore complex protein-like protein,product,7,7,0,0
+putative internal virion protein,product,3,3,0,0
+DNA delivery protein,product,3,3,0,0
+nuclear pore complex-type fold protein,product,3,3,0,0
+internal virion protein D,product,3,3,0,0
+membrane DNA delivery,annot (Pharokka),3,3,0,0
+N4 gp14-like protein,note,3,3,0,0
+DNA delivery,product,3,3,0,0
+putative DNA delivery protein,product,3,3,0,0
+internal virion protein,product,2,2,0,0
+internal virion protein B,product,2,2,0,0
+portal (connector) protein,product,2,2,0,0
+N4 gp14-like protein,product,2,2,0,0
+DNA pilot protein VP2,product,2,2,0,0
+"hypothetical protein, N4 gp14-like protein",note,2,2,0,0
+internal head protein,product,2,2,0,0
+"xkdM-like PBSX phage portal protein, DUF2001",note,2,2,0,0
+ORF329; portal vertex protein,note,1,1,0,0
+Mu portal protein gp28TerL,note,1,1,0,0
+HHPred match to PDB 3JA7_E Portal protein gp20 of phage T4 with 96 probability; BLAST hit e-64 to phiKZ129 found in PMID 22429790 to be in tailless heads,note,1,1,0,0
+"ORF 2; Proteins from this cluster may be analogous to the Microvirus DNA pilot protein (protein H). This is based on (1) the number of VP2 molecules per virion and (2) the glycine rich sequence of VP2. However, no sequence similarity was detected. This protein may not be part of the mature virion in SpV4",note,1,1,0,0
+Ip10 internal head protein,product,1,1,0,0
+gp_64693; similar to nuclear pore complex,note,1,1,0,0
+gp_67469; Similar to a nuclear pore complex protein,note,1,1,0,0
+gp_67339; Similar to a nuclear pore complex protein,note,1,1,0,0
+gp_67143; Similar to a nuclear pore complex protein,note,1,1,0,0
+PVOGs: VOG2198; putative portal vertex of the head [Escherichia phage HY03],note,1,1,0,0
+capsid vertex protein,product,1,1,0,0
+Portal protein,product,1,1,0,0
+T7-like internal core protein,product,1,1,0,0
+capsid protein gpB,product,1,1,0,0
+membrane DNA delivery protein,product,1,1,0,0
+gp_76993; Similar to a nuclear pore complex protein,note,1,1,0,0
+gp_75686; Similar to a nuclear pore complex protein,note,1,1,0,0
+internal capsid vertex protein (mango) subunit 1,note,1,1,0,0
+gp_77296; Similar to a nuclear pore complex protein,note,1,1,0,0
+gp14-like protein,product,1,1,0,0
+gp15 (N4 gp14-like protein); ORF15; similar to YP_003358412.1 gp15 from Pseudomonas phage LIT1 and YP_950492.1 gp14 from Enterobacteria phage N4 -Transcribed in early infection (RNA-Seq data),note,1,1,0,0
+gp17; putative N4 gp14-like protein,note,1,1,0,0
+gpB,product,1,1,0,0
+gp_23356; Contains nuclear pore complex-type fold [phiCrAss001],note,1,1,0,0
+gp_24245; Contains nuclear pore complex-type fold [phiCrAss001],note,1,1,0,0
+gp_24952; Contains nuclear pore complex-type fold [phiCrAss001],note,1,1,0,0
+penton,product,1,1,0,0
+orf38; N4 gp14-like protein,note,1,1,0,0
+nucleoporin,product,1,1,0,0
+nuclear pore complex-type fold containing protein,product,1,1,0,0
+portal vertex protein of head,product,1,1,0,0
+portal protein [Klebsiella phage KP36],note,1,1,0,0
+portal,note,1,1,0,0
+portal Gp-6 family-like protein,product,1,1,0,0
+putative internal head protein Ip10,product,1,1,0,0
+putative internal core protein,product,1,1,0,0
+putative phage portal protein,product,1,1,0,0
+putative homolog of WP_007779913 phage portal protein [Brevibacillus sp. CF112] and phage portal protein [Exiguobacterium sp. AT1b]; Phage-like element PBSX protein XkdM,note,1,1,0,0
+putative portal vertex protein of head (T4 gp20-like),product,1,1,0,0
+putative prophage portal protein,product,1,1,0,0
+"similar to gp14 [Escherichia phage N4], YP_950492.1; N4 gp14-like protein",note,1,1,0,0
+"similar to YP_006994028.2 phage portal protein, HK97 family [Carnobacterium maltaromaticum LMA28]",note,1,1,0,0
+similar to portal protein [Shigella phage SH6],note,1,1,0,0
+similar to portal vertex protein [PHAGE_Escher_WG01]#,note,1,1,0,0
+similar to protein YP_003893.1 putative portal protein Enterobacteria phage T1,note,1,1,0,0
+similar to putative portal protein [Shigella virus Shfl1],note,1,1,0,0

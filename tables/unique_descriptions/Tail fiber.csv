@@ -1,0 +1,43 @@
+description,source,count,phg,bac,vir
+tail spike protein,annot (Pharokka),192,192,0,0
+tail needle protein,annot (Pharokka),17,17,0,0
+tail needle knob,annot (Pharokka),17,17,0,0
+major spike protein,annot (Pharokka),14,14,0,0
+tail appendage,annot (Pharokka),12,12,0,0
+tail spike protein,product,9,9,0,0
+spike protein/glycoprotein,product,8,8,0,0
+tailspike protein,product,4,4,0,0
+putative tail spike protein,product,3,3,0,0
+tail needle protein,product,2,2,0,0
+gene_102; part of putative tailspike protein,note,1,1,0,0
+gene_101; part of putative tailspike protein,note,1,1,0,0
+"Vi01_173, Vi01_171; similar to Det7 tail spike (Det7_206)",note,1,1,0,0
+Share homology to N-terminal region of tail spike protein in phage Det7 and Vi01,note,1,1,0,0
+ORF531w; similar to Shigella phage phiSboM-AG3 ORF00210 tailspike protein,note,1,1,0,0
+P2 gpV-like protein,product,1,1,0,0
+N-terminal domain similar to several phage tailspike proteins,note,1,1,0,0
+BLASTp similarity to UniProtKB entry AUG87753 tail spike protein of Klebsiella phage Menlow,note,1,1,0,0
+BLASTp similarity to UniProtKB entry AUG87748 tail spike protein of Klebsiella phage Menlow,note,1,1,0,0
+major spike protein,product,1,1,0,0
+partially similar to phage tailspike protein,note,1,1,0,0
+outer capsid protein tail-needle protein,product,1,1,0,0
+putative Sf6-type phage tail needle knob or tip of some Caudovirales,note,1,1,0,0
+putative coiled coil fibrinogen or tail needle protein; PRK05771 superfamily,note,1,1,0,0
+putative outer capsid protein tail needle protein,product,1,1,0,0
+polygalacturonase/tailspike protein,product,1,1,0,0
+similar to putative tail-spike protein [Erwinia phage EaP-8],note,1,1,0,0
+similar to CAO78738.1| tailspike protein [Salmonella phage Det7] and YP_002003781.1| gp17 [Enterobacteria phage EcoDS1],note,1,1,0,0
+putative trimeric spike protein,product,1,1,0,0
+putative tailspike protein,product,1,1,0,0
+putative tail-needle protein,product,1,1,0,0
+putative tail spike protein,note,1,1,0,0
+"putative tail needle protein, P22_gp26-like",product,1,1,0,0
+putative spike protein,product,1,1,0,0
+tail spike,product,1,1,0,0
+similar to tailspike protein [Klebsiella virus vB_KpnM_KpS110],note,1,1,0,0
+spike protein P1,product,1,1,0,0
+tail spike N-terminal domain containing protein,note,1,1,0,0
+tail-needle protein,product,1,1,0,0
+trimeric spike protein,product,1,1,0,0
+user locus_tag: CR44b_50; no significant sequence database hits but matches in mass spectrometry analysis; structural similarities with adsoption protein p2 of phage prd1 and tail spike protein of phage P22,note,1,1,0,0
+user locus_tag: CR8_49; no significant sequence database hits but matches in mass spectrometry analysis; structural similarities with adsoption protein p2 of phage prd1 and tail spike protein of phage sf6,note,1,1,0,0

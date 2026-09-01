@@ -1,0 +1,140 @@
+description,source,count,phg,bac,vir
+outer membrane protein assembly factor BamA,product,64,0,64,0
+outer membrane protein assembly factor BamD,product,58,0,58,0
+outer membrane protein assembly factor BamE,product,50,1,49,0
+outer membrane protein assembly factor BamC,product,41,0,41,0
+translocation/assembly module TamB domain-containing protein,product,37,0,37,0
+outer membrane protein assembly factor BamB,product,37,0,37,0
+SusD/RagB family nutrient-binding outer membrane lipoprotein,product,34,0,34,0
+outer membrane lipoprotein,product,27,3,23,1
+antimicrobial peptide resistance and lipid A acylation protein PagP,annot (Pharokka),26,26,0,0
+outer membrane lipoprotein carrier protein LolA,product,17,0,17,0
+outer membrane protein assembly factor BamB family protein,product,14,0,14,0
+YadA family autotransporter adhesin,product,13,0,13,0
+Lom outer membrane protein,annot (Pharokka),13,13,0,0
+serpin,product,11,0,0,11
+outer membrane lipoprotein SlyB,product,10,0,10,0
+serpin family protein,product,10,0,2,8
+outer membrane lipoprotein-sorting protein,product,10,0,10,0
+phosphoporin PhoE,product,8,0,8,0
+translocation/assembly module TamB,product,8,1,7,0
+membrane lipoprotein lipid attachment site-containing protein,product,7,1,6,0
+major outer membrane lipoprotein,product,7,0,7,0
+outer membrane protein assembly factor BamE domain-containing protein,product,7,0,7,0
+Serpin gene family protein,product,5,0,0,5
+autotransporter adhesin,product,5,2,1,2
+outer membrane protein assembly factor,product,5,1,3,1
+Serpin,product,5,0,0,5
+IgA FC receptor precursor,product,4,4,0,0
+outer membrane lipoprotein Blc,product,4,0,4,0
+outer membrane lipoprotein YfiB,product,4,0,4,0
+autotransporter adhesin EhaB,product,4,0,4,0
+IgA FC receptor,product,3,2,0,1
+putative autotransporter adhesin,product,3,0,0,3
+Serpin-like protein,product,3,0,0,3
+Pmp family polymorphic membrane protein autotransporter adhesin,product,3,0,3,0
+eae-like protein,product,2,2,0,0
+Serpin 123,product,2,0,0,2
+autotransporter adhesin YapJ,product,2,0,2,0
+Bor-like outer membrane protein,annot (Pharokka),2,2,0,0
+nmpC,vfdb_short_name (VFDB),2,2,0,0
+YrIlm family inverse autotransporter adhesin,product,2,0,2,0
+autotransporter adhesin YapE,product,2,0,2,0
+autotransporter adhesin YapN,product,2,0,2,0
+cell surface glycoprotein,product,2,2,0,0
+inverse autotransporter adhesin Ilp,product,2,0,2,0
+EaE,product,2,2,0,0
+Eae protein,product,2,2,0,0
+serine protease inhibitor-like protein; belongs to a group of proteins known as Serpins (SERine Proteinase INhibitors) that irreversibly inhibit specific peptidases; the poxviridae are enveloped unsegmented dsDNA viruses; unlike many dsDNA viruses that replicate in the host nucleus poxviruses encode their own replication machinery and therefore replicate in the cytoplasm; viral genes are expressed in a bi-phasic manner with early genes encoding non-structural proteins involved in genome replication and late genes encoding the viral structural proteins,note,2,0,0,2
+"Cytokine response modifier A, a serpin inhbitor of caspase-1 and granzyme B.",note,1,0,0,1
+COG5295 Autotransporter adhesin; Gp11,note,1,1,0,0
+CNPV057 putative serpin,product,1,0,0,1
+CNPV022 putative serpin,product,1,0,0,1
+Ag43/Cah family autotransporter adhesin,product,1,0,1,0
+AIDA-I family autotransporter adhesin YfaL/EhaC,product,1,0,1,0
+COG5295 Autotransporter adhesin,note,1,1,0,0
+CNPV275 putative serpin,product,1,0,0,1
+CNPV062 putative serpin,product,1,0,0,1
+CNPV059 putative serpin,product,1,0,0,1
+S-layer protein Sap,product,1,0,1,0
+S-layer protein EA1,product,1,0,1,0
+SusD family outer membrane lipoprotein NanU,product,1,0,1,0
+"Similar to Vibrio cholerae outer membrane lipoprotein precursor Blc or Vlp or VlpA or VCA0317 SWALL:BLC_VIBCH (SWALL:Q08790) (171 aa) fasta scores: E(): 2.8, 29.19 25d in 161 aa",note,1,0,0,1
+Serpin/SPI-2 ortholog,note,1,0,0,1
+Serpin 2/CrmA,product,1,0,0,1
+Serpin 1,product,1,0,0,1
+S-layer protein SlpA,product,1,0,1,0
+"SERPIN, SERine Proteinase INhibitor",product,1,0,0,1
+SPV145 putative serpin,product,1,0,0,1
+PmgA,product,1,1,0,0
+PblB-type protein,product,1,1,0,0
+NVP1097O_61; Prokaryotic membrane lipoprotein lipid attachment site profile,note,1,1,0,0
+NVP1026O_106; Prokaryotic membrane lipoprotein lipid attachment site profile,note,1,1,0,0
+LSDV149 serpin-like protein,product,1,0,0,1
+Eae,product,1,1,0,0
+Eae-like protein,product,1,1,0,0
+EaE protein,product,1,1,0,0
+orf12; Prokaryotic membrane lipoprotein lipid attachment site profile,note,1,1,0,0
+membrane lipoprotein lipid attachment site protein,product,1,0,0,1
+inverse autotransporter adhesin FdeC,product,1,0,1,0
+intestinal colonization autotransporter adhesin MisL,product,1,0,1,0
+"fragmentary homology to myxoma virus MAP1 (serpin), probably inactive",note,1,0,0,1
+function unknown; similar to phage P22 eaE,note,1,1,0,0
+gp_72971; Similar to antichymotrypsin/corticosteroid binding globulin/serpin,note,1,1,0,0
+gp_75580; Similar to antichymotrypsin/corticosteroid binding globulin/serpin,note,1,1,0,0
+eae protein,product,1,1,0,0
+contains serpin domain/related to MYX SERP-1 and vaccinia virus strain Copenhagen K2L/SPI-3,note,1,0,0,1
+chp,vfdb_short_name (VFDB),1,1,0,0
+VirK family antimicrobial peptide resistance protein,product,1,0,1,0
+autotransporter adhesin YapH,product,1,0,1,0
+autotransporter adhesin YapC,product,1,0,1,0
+autotransporter adhesin YapK,product,1,0,1,0
+autotransporter adhesin YapV,product,1,0,1,0
+antichymotrypsin/corticosteroid binding globulin/serpin-like protein,product,1,1,0,0
+PE_PGRS family protein,product,1,1,0,0
+PAGK virulence factor,annot (Pharokka),1,1,0,0
+OmpA family outer membrane lipoprotein Loa22,product,1,0,1,0
+ORF377; Prokaryotic membrane lipoprotein lipid attachment site,note,1,1,0,0
+outer membrane lipoprotein LolB,product,1,0,1,0
+outer membrane lipoprotein Slp,product,1,0,1,0
+outer membrane assembly factor BamE-like protein,product,1,1,0,0
+putative eae protein,product,1,1,0,0
+putative major outer membrane lipoprotein,product,1,1,0,0
+putative phage eae protein; ECRM12581_13405,note,1,1,0,0
+outer membrane lipoprotein MapA,product,1,0,1,0
+pblB,vfdb_short_name (VFDB),1,1,0,0
+pblA,vfdb_short_name (VFDB),1,1,0,0
+putative S-layer protein,product,1,1,0,0
+putative Trimeric autotransporter adhesin,note,1,1,0,0
+scn,vfdb_short_name (VFDB),1,1,0,0
+sak,vfdb_short_name (VFDB),1,1,0,0
+related to vaccinia virus strain Western Reserve B13R/SPI-2/caspase 1 inhibitor and myxoma virus serpin,note,1,0,0,1
+putative serpin-like protein,product,1,0,0,1
+putative platelet-binding protein,product,1,1,0,0
+serpin (SERP-2),note,1,0,0,1
+sdn,vfdb_short_name (VFDB),1,1,0,0
+secreted serpin; duplicated in TIR,note,1,0,0,1
+serpin signature; Serp-3,note,1,0,0,1
+serpin-like SPI-3,product,1,0,0,1
+serpin-like protein,product,1,0,0,1
+serpin; similar to CPXV-AUS1999-867-204; similar to VACV-COP C12L,note,1,0,0,1
+serpin; similar to CPXV-GER1980-EP4-205; similar to VACV-COP C13L; C14L,note,1,0,0,1
+serpin; similar to CPXV-GER91-3-195; similar to VACV-COP B13R/B14R,note,1,0,0,1
+serpin C14R,product,1,0,0,1
+serpin C7R,product,1,0,0,1
+similar to NP_059592 EaE [Enterobacteria phage P22]; similar to C-terminus NP_059592.1 EaE [Enterobacteria phage P22],note,1,1,0,0
+similar to Eae protein,product,1,1,0,0
+similar to P1 gene pmgA; orf39 protein,note,1,1,0,0
+"similar to vaccinia virus strain Copenhagen C12L, variola major virus strain Bangladesh B21R and cowpox virus B20R; putative serpin I-1 protein",note,1,0,0,1
+surface-exposed outer membrane lipoprotein YaiW,product,1,0,1,0
+staphylokinase,product,1,1,0,0
+trimeric autotransporter adhesin,product,1,0,1,0
+trimeric autotransporter adhesin BpaB,product,1,0,1,0
+trimeric autotransporter adhesin BpaC,product,1,0,1,0
+trimeric autotransporter adhesin BpaE,product,1,0,1,0
+trimeric autotransporter adhesin EmaA,product,1,0,1,0
+trimeric autotransporter adhesin YadA,product,1,0,1,0
+trimeric autotransporter adhesin/peptidogylcan-associated protein TpgA,product,1,0,1,0
+uncharacterized serpin-like protein,product,1,0,0,1
+virion-associated: yes; expression pattern: Late; COG best hit: COG5295 [Autotransporter adhesin] [4e-12]; Pfam hit: PF06598.4 [Chlorovirus glycoprotein repeat] [3.6e-11]; Pfam hit: PF11962.1 [Domain of unknown function (DUF3476)] [8.2e-66]; Refseq best hit: YP_001426596 [hypothetical protein ATCV1_Z115L (Acanthocystis turfacea Chlorella virus 1)] [1e-140],note,1,0,0,1
+"with hemagglutinin prevents syncytia, host range, host defense modulator; serine protease inhibitor-like protein; belongs to a group of proteins known as Serpins (SERine Proteinase INhibitors) that irreversibly inhibit specific peptidases; the poxviridae are enveloped unsegmented dsDNA viruses; unlike many dsDNA viruses that replicate in the host nucleus poxviruses encode their own replication machinery and therefore replicate in the cytoplasm; viral genes are expressed in a bi-phasic manner with early genes encoding non-structural proteins involved in genome replication and late genes encoding the viral structural proteins",note,1,0,0,1

@@ -1,0 +1,89 @@
+description,source,count,phg,bac,vir
+DNA helicase,annot (Pharokka),966,966,0,0
+DnaB-like replicative helicase,annot (Pharokka),536,536,0,0
+Dda-like helicase,annot (Pharokka),169,169,0,0
+DNA topoisomerase II,annot (Pharokka),131,131,0,0
+DNA topoisomerase II large subunit,annot (Pharokka),120,120,0,0
+helicase,annot (Pharokka),69,69,0,0
+DNA helicase,product,30,30,0,0
+DNA topoisomerase,annot (Pharokka),25,25,0,0
+helicase,product,18,18,0,0
+replicative DNA helicase,product,14,14,0,0
+ATP-dependent helicase,product,13,13,0,0
+topoisomerase,product,8,8,0,0
+helicase subunit of the DNA excision repair complex,annot (Pharokka),7,7,0,0
+putative ATP-dependent helicase,product,7,7,0,0
+putative replicative DNA helicase,product,5,5,0,0
+protelomerase,product,4,4,0,0
+DNA topoisomerase,product,4,4,0,0
+replication helicase,annot (Pharokka),3,3,0,0
+toprim domain-containing protein,product,3,3,0,0
+topoisomerase histone-like DNA-binding superfamily protein,product,3,3,0,0
+putative helicase,product,3,3,0,0
+HIRAN domain-containing protein,product,3,3,0,0
+ATP-dependent DNA helicase RecQ,product,2,2,0,0
+DNA/RNA helicase,product,2,2,0,0
+putative HIRAN domain-containing protein,product,2,2,0,0
+topoisomerase DNA binding protein,product,2,2,0,0
+replicative helicase,product,2,2,0,0
+topoisomerase IV subunit A,product,2,2,0,0
+"putative DNA repair protein, helicase",product,2,2,0,0
+DnaB-like helicase,product,2,2,0,0
+helicase,note,2,2,0,0
+DEAD-like helicases superfamily; ORF295,note,1,1,0,0
+ATP-dependent DNA helicase RecQ-like protein,product,1,1,0,0
+CD: gyrB PRK05644 DNA gyrase subunit B,note,1,1,0,0
+ATP-dependent DNA helicase,product,1,1,0,0
+2.5; helix-destabilizing protein,note,1,1,0,0
+COG0550 Topoisomerase IA,note,1,1,0,0
+COG1061 DNA or RNA helicases of superfamily II,note,1,1,0,0
+DEAD type helicase,product,1,1,0,0
+DNA topoisomerase I,product,1,1,0,0
+DnaB-like helicase,note,1,1,0,0
+DnaB replicative DNA helicase,product,1,1,0,0
+Dda helicase-like protein,product,1,1,0,0
+DNA/RNA helicase-like protein,product,1,1,0,0
+DNA gyrase subunit A,product,1,1,0,0
+"contains partial domain parC_Gneg[TIGR01062], DNA topoisomerase IV, A subunit, proteobacterial",note,1,1,0,0
+UvrD-helicase domain-containing protein,product,1,1,0,0
+Similar to superfamily II DNA helicase in Vibrio sp,note,1,1,0,0
+cyanobacterial ssDNAbp,product,1,1,0,0
+RNA-DNA + DNA-DNA helicase; equivalent to T4-GC_138; metaG-MbCM1_061,note,1,1,0,0
+RNA helicase domain protein,product,1,1,0,0
+Helicase,note,1,1,0,0
+Holliday junction branch migration helicase,annot (Pharokka),1,1,0,0
+"Homologous to COG0188: Type IIA topoisomerase (DNA gyrase/topoII, topoisomerase IV), A subunit of E. coli E22",note,1,1,0,0
+MCM domain family protein,product,1,1,0,0
+RNA helicase,product,1,1,0,0
+putative DNA gyrase,product,1,1,0,0
+putative DEAD-like helicase N superfamily protein,product,1,1,0,0
+"putative ATP-dependent RNA helicase; provided by Dr. Andrew M. Kropinski (Queen's University, Ontario)",note,1,1,0,0
+hypothetical helicase-related protein,product,1,1,0,0
+helix destabilizing protein; similar to T7 group 2.5 proteins; binds single-stranded DNA. In phage T7 gp2.5 is essential for DNA replication and recombination. Other names: gp2.5; SSB,note,1,1,0,0
+helix-destabilizing protein; Gp32,note,1,1,0,0
+helicase c2,product,1,1,0,0
+helicase superfamily c-terminal domain like protein,product,1,1,0,0
+helicase IV,product,1,1,0,0
+"gp_75750; Holliday junction DNA helicase, RuvA/RuvB",note,1,1,0,0
+RNA-DNA and DNA-DNA helicase/ATPase,product,1,1,0,0
+Similar to helix-destabilizing protein from Escherichia phage IMM-002,note,1,1,0,0
+putative DNA topoisomerase IA,product,1,1,0,0
+putative DNA topoisomerase,product,1,1,0,0
+putative DNA/RNA helicase,product,1,1,0,0
+putative DNA helicase,product,1,1,0,0
+putative terminase large subunit; ATP-dependent DNA-helicase,product,1,1,0,0
+putative superfamily II helicase,product,1,1,0,0
+putative superfamily I helicase,product,1,1,0,0
+putative protelomerase; similar to gi:18072976,note,1,1,0,0
+putative phage-related helix-destabilizing protein; pfam10991 superfamily,note,1,1,0,0
+putative protelomerase,product,1,1,0,0
+putative hexameric replicative helicase RepA,product,1,1,0,0
+putative RNA-DNA and DNA-DNA helicase ATPase,product,1,1,0,0
+"superfamily II DNA or RNA helicase, SNF2 family [transcription, replication, recombination and repair]",note,1,1,0,0
+similar to T5orf172; smart00974; This entry represents the putative helicase A859L.,note,1,1,0,0
+putative topoisomerase,product,1,1,0,0
+putative topoisomerase type IA,product,1,1,0,0
+putative topoisomerasae I protein,product,1,1,0,0
+topoisomerase IB,product,1,1,0,0
+type IIA DNA topoisomerase subunit B,product,1,1,0,0
+type IIA topoisomerase,product,1,1,0,0

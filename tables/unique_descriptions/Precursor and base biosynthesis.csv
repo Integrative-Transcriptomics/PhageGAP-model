@@ -1,0 +1,29 @@
+description,source,count,phg,bac,vir
+nucleoside 2-deoxyribosyltransferase,annot (Pharokka),81,81,0,0
+QueC-like queuosine biosynthesis,annot (Pharokka),33,33,0,0
+QueE-like  radical SAM domain,annot (Pharokka),27,27,0,0
+phosphoribosylaminoimidazole synthetase,annot (Pharokka),14,14,0,0
+nucleoside deoxyribosyltransferase,annot (Pharokka),13,13,0,0
+phosphoribosylaminoimidazole-succinocarboxamide synthase,annot (Pharokka),9,9,0,0
+5-phosphoribosylformylglycinamide amidotransferase,annot (Pharokka),6,6,0,0
+ribose-phosphate pyrophosphokinase,annot (Pharokka),5,5,0,0
+cyanobacterial phosphoribosylglycinamide formyltransferase,annot (Pharokka),5,5,0,0
+phosphoribosylpyrophosphate synthetase,product,4,4,0,0
+nucleoside deoxyribosyltransferase,product,4,4,0,0
+phosphoribosylformylglycinamidine synthase,product,4,4,0,0
+dihydroorotase,product,2,2,0,0
+nucleoside 2-deoxyribosyltransferase,product,2,2,0,0
+tRNA pseudouridine synthase D,product,2,2,0,0
+PurB-like adenylosuccinate lyase,product,2,2,0,0
+PurH2,product,2,2,0,0
+5-aminoimidazole-4-carboxamide ribonucleotide formyltransferase/IMP cyclohydrolase,product,1,1,0,0
+CTP synthetase,product,1,1,0,0
+N-deoxyribosyltransferase-like protein,product,1,1,0,0
+aspartate carbamoyltransferase,product,1,1,0,0
+adenylosuccinate lyase,product,1,1,0,0
+RNA pseudouridine synthase,product,1,1,0,0
+deoxyribose-phosphate aldolase,product,1,1,0,0
+putative pyrimidine nucleoside phosphorylase,product,1,1,0,0
+putative nucleoside 2-deoxyribosyltransferase,product,1,1,0,0
+ribose-phosphate pyrophosphokinase,product,1,1,0,0
+similar to phosphoribosylpyrophosphate synthetase [Escherichia phage Av-05],note,1,1,0,0

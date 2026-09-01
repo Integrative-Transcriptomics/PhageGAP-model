@@ -1,0 +1,17 @@
+description,source,count,phg,bac,vir
+metallo-phosphoesterase,annot (Pharokka),193,193,0,0
+phosphoesterase,annot (Pharokka),133,133,0,0
+metal-dependent phosphohydrolase,annot (Pharokka),75,75,0,0
+DHH phosphoesterase,annot (Pharokka),29,29,0,0
+metallophosphoesterase,product,6,6,0,0
+phosphoesterase,product,3,3,0,0
+putative metal dependent phosphohydrolase,product,3,3,0,0
+calcineurin-like phosphoesterase superfamily domain protein,product,2,2,0,0
+putative metal-dependent phosphohydrolase,product,2,2,0,0
+putative calcineurin-like phosphoesterase,product,2,2,0,0
+Putative virion protein with calcineurin-like phosphoesterase domain,product,1,1,0,0
+calcineurin-like phosphoesterase,product,1,1,0,0
+metallophosphoesterase,note,1,1,0,0
+phosphoesterase or phosphohydrolase,note,1,1,0,0
+similar to Salmonella phage PVP-SE1 conserved hypothetical protein from ADP02616.1 and Aeromonas phage 65 putative metal dependent phosphohydrolase from YP_004301226.1,note,1,1,0,0
+similar to metallophosphoesterase in ZP_01462790.1,note,1,1,0,0

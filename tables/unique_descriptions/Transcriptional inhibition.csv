@@ -1,0 +1,14 @@
+description,source,count,phg,bac,vir
+RNA polymerase inhibitor,annot (Pharokka),63,63,0,0
+Alt-like RNA polymerase ADP-ribosyltransferase,annot (Pharokka),57,57,0,0
+RNA polymerase ADP-ribosylase,annot (Pharokka),52,52,0,0
+inhibitor of host transcription,annot (Pharokka),43,43,0,0
+Rho termination factor N-terminal domain-containing protein,product,4,4,0,0
+host shutoff,note,3,3,0,0
+Nun-like transcription termination factor,annot (Pharokka),2,2,0,0
+RNA polymerase-ADP-ribosyltransferase Alt,product,1,1,0,0
+"hypothetical novel protein; Rho termination factor, N-terminal domain; Coil-containing protein",note,1,1,0,0
+putative host RNA-polymerase inhibitor,product,1,1,0,0
+putative host stationary phase sigma S inhibitor,product,1,1,0,0
+serotype conversion: alpha polymerase inhibitor,product,1,1,0,0
+similar to PHAGE_Escher_UFV_AREG1_NC_031030: inhibitor of host transcription,note,1,1,0,0

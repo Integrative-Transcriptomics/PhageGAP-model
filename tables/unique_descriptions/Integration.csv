@@ -1,0 +1,142 @@
+description,source,count,phg,bac,vir
+HNH endonuclease,annot (Pharokka),3012,3012,0,0
+integrase,annot (Pharokka),674,674,0,0
+homing endonuclease,annot (Pharokka),515,515,0,0
+transposase,annot (Pharokka),195,195,0,0
+HNH endonuclease,product,88,88,0,0
+DNA invertase,annot (Pharokka),34,34,0,0
+Reverse transcriptase,annot (Pharokka),29,29,0,0
+transposase,product,22,22,0,0
+site-specific integrase,product,18,18,0,0
+DNA transposition protein,annot (Pharokka),18,18,0,0
+putative HNH endonuclease,product,15,15,0,0
+homing endonuclease with GIY-YIG motif,annot (Pharokka),14,14,0,0
+integrase,product,14,14,0,0
+GIY-YIG nuclease family protein,product,12,12,0,0
+intron encoded nuclease,annot (Pharokka),11,11,0,0
+tyrosine-type recombinase/integrase,product,10,10,0,0
+homing endonuclease,product,9,9,0,0
+Avd protein of DGR,annot (Pharokka),7,7,0,0
+resolvase,product,7,7,0,0
+putative homing endonuclease,product,6,6,0,0
+intron-like DNA endonuclease,annot (Pharokka),6,6,0,0
+integrase arm-type DNA-binding domain-containing protein,product,5,5,0,0
+putative transposase-like protein,product,5,5,0,0
+HNH endonuclease,note,5,5,0,0
+homing endonuclease with LAGLIDADG motif,annot (Pharokka),5,5,0,0
+transposase-like protein,product,4,4,0,0
+Mu transposase C-terminal domain-containing protein,product,4,4,0,0
+transfer protein,annot (Pharokka),4,4,0,0
+transposase domain containing protein,product,4,4,0,0
+HNH homing endonuclease,product,3,3,0,0
+IS3 family transposase,product,3,3,0,0
+recombinase/integrase,product,3,3,0,0
+putative transposase,product,3,3,0,0
+homing endonuclease EDxHD,product,2,2,0,0
+Transposase,note,2,2,0,0
+HNH endonuclease domain protein,product,2,2,0,0
+HNH domain protein,product,2,2,0,0
+DexA.1 hypothetical protein,note,2,2,0,0
+DexA.1 hypothetical protein,product,2,2,0,0
+dexA.-2; motB.1,note,2,2,0,0
+putative integrase,product,2,2,0,0
+"integrase, (S-int)",note,2,2,0,0
+transposase domain-containing protein,product,2,2,0,0
+COG2452 Predicted site-specific integrase-resolvase,note,1,1,0,0
+DNA-binding domain-containing integrase,product,1,1,0,0
+GIY-YIG nuclease domain,product,1,1,0,0
+GIY-YIG homing endonuclease,product,1,1,0,0
+DexA.2 conserved hypothetical protein,product,1,1,0,0
+DexA.1 conserved hypothetical protein,note,1,1,0,0
+DNA-binding integrase domain protein,product,1,1,0,0
+DexA.1,note,1,1,0,0
+IS21-like element IS21 family transposase,product,1,1,0,0
+IS3-like element IS911 family transposase,product,1,1,0,0
+HNHc protein,product,1,1,0,0
+IS1182-like element ISSau3 family transposase,product,1,1,0,0
+IS110-like element ISEc20 family transposase,product,1,1,0,0
+ISCaje4 transposase TnpB,product,1,1,0,0
+NUMOD1 domain protein,product,1,1,0,0
+IS21-like element IS100 family transposase,product,1,1,0,0
+IS21 family transposase,product,1,1,0,0
+IS1634 family transposase,product,1,1,0,0
+IS6-like element IS26 family transposase,product,1,1,0,0
+IS5 family transposase,product,1,1,0,0
+IS4-like element ISSfl9 family transposase,product,1,1,0,0
+HNH homing endonuclease III,product,1,1,0,0
+I-BasI,product,1,1,0,0
+HNH homing endonuclease-like protein,product,1,1,0,0
+HNHc endonuclease,product,1,1,0,0
+HNHc,product,1,1,0,0
+GIY-YIG nuclease superfamily protein,product,1,1,0,0
+GIY-YIG nuclease superfamily,note,1,1,0,0
+HNH endonuclease domain,note,1,1,0,0
+HNH endonuclease III,product,1,1,0,0
+HNH endonuclease domain; label: orf71,note,1,1,0,0
+HNH endonuclease family protein,product,1,1,0,0
+HNH endonuclease signature,note,1,1,0,0
+HNH DNAse,product,1,1,0,0
+iSH4-type transposase domain protein,product,1,1,0,0
+homing endonuclease HNH,product,1,1,0,0
+dexA.-1; motB.2,note,1,1,0,0
+conjugal transfer protein,product,1,1,0,0
+dexA.1 gene product,note,1,1,0,0
+gene transfer agent (GTA) like protein gp15,note,1,1,0,0
+gene transfer agent orf15 like protein,note,1,1,0,0
+holiday junction resolvase,product,1,1,0,0
+ORF31; reverse transcriptase,note,1,1,0,0
+"ORF27; COG2842: Uncharacterized ATPase, putative transposase [General function prediction only]",note,1,1,0,0
+SegD homing endonuclease,product,1,1,0,0
+Putative HNHc nuclease. Member of HNHc_6 superfamily.,note,1,1,0,0
+TC3 transposase,note,1,1,0,0
+Transposase,product,1,1,0,0
+bacteriophage integrase protein,product,1,1,0,0
+competence-specific nuclease,product,1,1,0,0
+Many blast hits to other hypothetical phage proteins. Additional blast hits were found through UniProt and there was 45% homology to an integrase found in a brevibacillus phage,note,1,1,0,0
+Integrase,product,1,1,0,0
+ORF17; putative IS3 family transposase A protein,note,1,1,0,0
+phage integrase family site-specific recombinase,product,1,1,0,0
+"orf1; putative integrase, truncated",note,1,1,0,0
+putative GIY-YIG nuclease,product,1,1,0,0
+phage integrase,product,1,1,0,0
+phage DNA transposition protein,product,1,1,0,0
+predicted HNH endonuclease-like fold,note,1,1,0,0
+integrating conjugative element protein (PFL_4705 family),product,1,1,0,0
+major tropism determinant; Mtd; receptor binding protein of a group of closely related Bordetella phages. Part of the tropism switching cassette which uses reverse transcriptase (RT) to introduced targeted mutations in variable region 1 at the C-terminus of Mtd. The RT employs a template sequence that is also part of the tropism switching cassette. Other names: Mtd,note,1,1,0,0
+intron-encoded nuclease,product,1,1,0,0
+integrase/recombinase,product,1,1,0,0
+integrase; Based on the location and size of these proteins they may be analogous to the pV (ssDNA binding protein) of Ff phages,note,1,1,0,0
+integrase; Y-Int; HTH DNA binding,note,1,1,0,0
+integrase (t-int),note,1,1,0,0
+"putative transposase, IS607 family",product,1,1,0,0
+putative transposase like protein,product,1,1,0,0
+putative transposase ISCaje4 family,product,1,1,0,0
+putative resolvase/integrase,product,1,1,0,0
+putative phage integrase,product,1,1,0,0
+putative HNH homing endonuclease,product,1,1,0,0
+putative HNH nuclease,product,1,1,0,0
+putative Seg-like homing endonuclease,product,1,1,0,0
+prointegrase IntS,product,1,1,0,0
+putative GIY-YIG catalytic domain protein,product,1,1,0,0
+reverse transcriptase; similar to Burkholderia multivorans ATCC 17616 chromosome 2 BMULJ_03683 (YP_001948091.1),note,1,1,0,0
+similar to Enterobacteria phage phiP27 putative serine protease in NP_543057.1 and to Burkholderia phage phi644-2 gp36 bacteriophage/transposase fusion protein in YP_001111115.1,note,1,1,0,0
+similar to Staphylococcus phage G1 ORF058 putative HNH nuclease,note,1,1,0,0
+similar to T4 accession AAD42610; T4 gene synonym: dexA.-2,note,1,1,0,0
+similar to T4 accession AAD42611; T4 gene synonym: dexA.-1,note,1,1,0,0
+similar to YP_007883575.1 transposase [Mannheimia haemolytica M42548],note,1,1,0,0
+similar to transposase fusion protein of Pseudomonas phage UFV-P2,note,1,1,0,0
+similar to transposase,note,1,1,0,0
+similar to protein of unknown function DUF262 and HNH endonuclease domain protein,note,1,1,0,0
+similar to phage T4 DexA.1; gp13,note,1,1,0,0
+"similar to phage Kp2, gene ID 940325958; putative HNH nuclease",note,1,1,0,0
+similar to conjugal transfer protein,note,1,1,0,0
+similar to bacteriophage T4 DexA.2,note,1,1,0,0
+similar to YP_007884468.1 transposase [Mannheimia haemolytica M42548] and WP_015587120.1 transposase [Mannheimia haemolytica],note,1,1,0,0
+transposase,note,1,1,0,0
+"sulfur transfer protein, DsrC",product,1,1,0,0
+site-specific recombinase phage integrase,product,1,1,0,0
+site-specific recombinase phage integrase family,product,1,1,0,0
+site-specific integrase,note,1,1,0,0
+tyrosine integrase,product,1,1,0,0
+viral integrase family 4,product,1,1,0,0
+zinc-ribbon transposase,product,1,1,0,0

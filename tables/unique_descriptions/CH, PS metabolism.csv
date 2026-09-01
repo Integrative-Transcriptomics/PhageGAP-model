@@ -1,0 +1,37 @@
+description,source,count,phg,bac,vir
+phosphofructokinase,annot (Pharokka),176,176,0,0
+phosphoheptose isomerase,annot (Pharokka),58,58,0,0
+transaldolase,annot (Pharokka),51,51,0,0
+bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase,annot (Pharokka),18,18,0,0
+arabinose 5-phosphate isomerase,annot (Pharokka),15,15,0,0
+putative carbohydrate kinase,product,4,4,0,0
+beta-galactosidase,product,3,3,0,0
+6-phosphogluconate dehydrogenase,annot (Pharokka),3,3,0,0
+phosphomannomutase,product,3,3,0,0
+phosphoheptose isomerase,product,2,2,0,0
+6-phosphofructokinase,annot (Pharokka),2,2,0,0
+putative phosphomannomutase,product,2,2,0,0
+aldolase,product,2,2,0,0
+putative transketolase,product,2,2,0,0
+phosphofructokinase,product,2,2,0,0
+L-ribulose-5-phosphate 3-epimerase,product,2,2,0,0
+6-phosphofructokinase,product,1,1,0,0
+1-phosphofructokinase,product,1,1,0,0
+COG3957 Phosphoketolase,note,1,1,0,0
+COG0191 Fructose/tagatose bisphosphate aldolase,note,1,1,0,0
+inositol-3-phosphate synthase,product,1,1,0,0
+glucose-6-phosphate isomerase,product,1,1,0,0
+gluconate kinase,product,1,1,0,0
+galactose-1-epimerase,product,1,1,0,0
+four-carbon acid sugar kinase family protein,product,1,1,0,0
+class II aldolase/adducin family protein,product,1,1,0,0
+"ORF333; Fibritin/6-phosphogluconate dehydrogenase, C-terminal extension",note,1,1,0,0
+best blastp hit: gb|AAK76459.1| (AY045785) putative ribose 5-phosphate isomerase [Arabidopsis thaliana],note,1,1,0,0
+ADP-heptose synthase / D-glycero-beta-D-manno-heptose 7-phosphate kinase,product,1,1,0,0
+phosphoglycerate mutase family protein,product,1,1,0,0
+phosphoglycerate mutase,product,1,1,0,0
+"putative fructose-1,6-bisphosphate aldolase",product,1,1,0,0
+putative transketolase central region-containing protein,product,1,1,0,0
+"similar to phage Michonne gp25; CATH superfamily, 6-phosphogluconate dehydrogenase domain 3",note,1,1,0,0
+transketolase central region-containing protein,product,1,1,0,0
+transketolase protein,product,1,1,0,0

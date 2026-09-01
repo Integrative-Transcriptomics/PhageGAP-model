@@ -1,0 +1,402 @@
+description,source,count,phg,bac,vir
+transcriptional regulator,annot (Pharokka),999,999,0,0
+transcriptional repressor,annot (Pharokka),776,776,0,0
+LysR family transcriptional regulator,product,160,2,158,0
+transcriptional regulator,product,158,93,0,65
+late promoter transcriptional regulator,annot (Pharokka),106,106,0,0
+Arc-like repressor,annot (Pharokka),105,105,0,0
+helix-turn-helix transcriptional regulator,product,88,61,26,1
+anti-sigma factor,annot (Pharokka),82,82,0,0
+MotB-like transcriptional regulator,annot (Pharokka),70,70,0,0
+Mrh transcription modulator under heat shock,annot (Pharokka),64,64,0,0
+CII-like transcriptional activator,annot (Pharokka),61,61,0,0
+transcriptional activator,annot (Pharokka),57,57,0,0
+starvation-inducible transcriptional regulator,annot (Pharokka),55,55,0,0
+nucloid associated Lsr2-like,annot (Pharokka),54,54,0,0
+ead/Ea22-like family protein,product,45,45,0,0
+"transcriptional regulator, D5-like",annot (Pharokka),41,41,0,0
+TetR/AcrR family transcriptional regulator,product,38,0,38,0
+Srd anti-sigma factor,annot (Pharokka),38,38,0,0
+putative transcriptional regulator,product,36,24,0,12
+MotA-like activator of middle period transcription,annot (Pharokka),33,33,0,0
+transcriptional regulator ICP4,product,33,0,0,33
+Rha-like transcriptional regulator,annot (Pharokka),32,32,0,0
+late transcriptional activator,annot (Pharokka),31,31,0,0
+MarR family winged helix-turn-helix transcriptional regulator,product,30,1,29,0
+Lsr2-like DNA bridging protein,annot (Pharokka),29,29,0,0
+MerR-like transcriptional regulator,annot (Pharokka),28,28,0,0
+GntR family transcriptional regulator,product,28,2,26,0
+FmdB-like transcriptional regulator,annot (Pharokka),28,28,0,0
+CI-like repressor,annot (Pharokka),27,27,0,0
+AraC family transcriptional regulator,product,24,1,23,0
+IclR family transcriptional regulator,product,18,0,18,0
+antirepressor KilAC domain-containing protein,product,16,16,0,0
+XRE family transcriptional regulator,product,16,16,0,0
+Crp/Fnr family transcriptional regulator,product,15,0,15,0
+transcriptional repressor,product,15,4,0,11
+regulatory protein GemA,product,15,15,0,0
+CII-like regulator,annot (Pharokka),14,14,0,0
+CP12,product,13,13,0,0
+MerR family transcriptional regulator,product,12,2,10,0
+decoy of host sigma32,annot (Pharokka),12,12,0,0
+NinH family protein,product,12,12,0,0
+repressor,product,11,11,0,0
+MerR-like helix-turn-helix DNA binding domain protein,product,11,11,0,0
+decoy of host sigma70,annot (Pharokka),11,11,0,0
+Lrp/AsnC family transcriptional regulator,product,10,0,10,0
+LexA family transcriptional regulator,product,9,9,0,0
+Rha family transcriptional regulator,product,9,8,0,1
+LacI family DNA-binding transcriptional regulator,product,9,0,9,0
+Alt-like transcription activator,annot (Pharokka),8,8,0,0
+transcription regulator,product,8,3,0,5
+sigma-54-dependent transcriptional regulator,product,8,0,8,0
+MarR family transcriptional regulator,product,8,6,0,2
+transcription initiation factor TFIIB,product,7,0,0,7
+winged helix-turn-helix transcriptional regulator,product,7,1,6,0
+CP12 protein,product,7,7,0,0
+FadR/GntR family transcriptional regulator,product,7,0,7,0
+TetR family transcriptional regulator,product,7,5,2,0
+putative GntR-family transcriptional regulator,product,6,6,0,0
+MurR/RpiR family transcriptional regulator,product,6,0,6,0
+VpsT-like putative transcriptional regulator,product,6,5,0,1
+MarR family transcrition regulator,annot (Pharokka),6,6,0,0
+transcriptional activator rinB,note,6,6,0,0
+Bro-N domain-containing protein,product,5,5,0,0
+transcriptional regulator/repressor,product,5,5,0,0
+transcription initiation factor IIB,product,5,0,0,5
+anti-sigma factor,product,5,5,0,0
+carbon metabolic regulator,product,5,5,0,0
+Arc-like transcriptional regulator,annot (Pharokka),5,5,0,0
+LuxR C-terminal-related transcriptional regulator,product,5,0,5,0
+transcriptional regulator protein,product,5,1,0,4
+repressor protein,product,4,4,0,0
+GlxA family transcriptional regulator,product,4,0,4,0
+sporulation stage III protein D,annot (Pharokka),4,4,0,0
+putative transcription initiation factor TFIIB,product,4,0,0,4
+putative repressor,product,4,4,0,0
+YebC/PmpR family DNA-binding transcriptional regulator,product,4,0,4,0
+ferric iron uptake transcriptional regulator,product,4,0,4,0
+Fur-regulated basic protein FbpA,product,4,4,0,0
+transcriptional regulator NrdR,product,4,2,2,0
+transcriptional activator,product,4,4,0,0
+repressor protein CI,product,3,3,0,0
+DeoR/GlpR family DNA-binding transcription regulator,product,3,0,3,0
+"CbbQ/nirQ/norQ carboxysome domain, transcriptional regulator",product,3,3,0,0
+AbrB family transcriptional regulator,product,3,2,1,0
+IclR family transcriptional regulator domain-containing protein,product,3,0,3,0
+ANR family transcriptional regulator,product,3,3,0,0
+stringent starvation protein Sspb-like,annot (Pharokka),3,3,0,0
+CopG-like transcriptional repressor,product,3,0,0,3
+D5 protein,product,3,3,0,0
+"putative transcriptional regulator, VpsT-like",product,3,3,0,0
+putative response regulator,product,3,3,0,0
+Fur family transcriptional regulator,product,3,0,3,0
+WhiB family transcriptional regulator,product,3,3,0,0
+PadR family transcriptional regulator,product,3,0,3,0
+MerR-like HTH DNA binding protein,product,3,3,0,0
+helix-turn-helix domain-containing transcriptional regulator,product,3,3,0,0
+Cd(II)/Pb(II)-responsive transcriptional regulator,product,2,0,2,0
+transcriptional repressor LexA,product,2,0,2,0
+repressor,note,2,2,0,0
+ASC-1 transcription coactivator,note,2,2,0,0
+putative GcrA-like cell cycle regulator,product,2,2,0,0
+response regulator transcription factor,product,2,2,0,0
+putative transcription initiation factor IIb-like protein,product,2,0,0,2
+putative HTH-type transcriptional regulator,product,2,0,0,2
+putative transcriptional repressor,product,2,2,0,0
+pyruvate dehydrogenase complex transcriptional repressor PdhR,product,2,0,2,0
+putative transcription regulator,note,2,2,0,0
+putative transcription regulator,product,2,2,0,0
+Lpa-like transcriptional activator,annot (Pharokka),2,2,0,0
+Transcriptional regulator,note,2,2,0,0
+Transcriptional regulator,product,2,2,0,0
+Rrf2 family transcriptional regulator,product,2,0,2,0
+putative transcription initiation factor B,product,2,0,0,2
+putative repressor-like protein,product,2,2,0,0
+TATA-binding transcription initiation protein-like protein,product,2,2,0,0
+LexA-like protein,product,2,2,0,0
+FmdB family regulatory protein,product,2,2,0,0
+Fe-S cluster assembly transcriptional regulator IscR,product,2,0,2,0
+NinH,product,2,2,0,0
+"helix-turn-helix DNA binding domain, MerR-like",note,2,2,0,0
+metal/formaldehyde-sensitive transcriptional repressor,product,2,0,2,0
+met regulon transcriptional regulator MetJ,product,2,0,2,0
+nitric oxide reductase transcriptional regulator NorR,product,2,0,2,0
+potential transcription regulator,note,2,2,0,0
+immediate-early transcriptional regulatory protein 0,product,2,0,0,2
+NinH protein,product,2,2,0,0
+helix-turn-helix domain XRE family transcriptional regulator,product,2,2,0,0
+phosphate regulon transcriptional regulator PhoB,product,2,0,2,0
+bifunctional helix-turn-helix transcriptional regulator/GNAT family N-acetyltransferase,product,2,0,2,0
+CysB family HTH-type transcriptional regulator,product,2,0,2,0
+RinA family transcriptional activator,product,2,2,0,0
+GbsR/MarR family transcriptional regulator,product,2,0,2,0
+cAMP-activated global transcriptional regulator CRP,product,2,0,2,0
+cI-like putative transcriptional regulator,product,2,2,0,0
+division/cell wall cluster transcriptional repressor MraZ,product,2,0,2,0
+transcriptional activator RinB,note,2,2,0,0
+transcription initiation factor TFIIIB,product,2,0,0,2
+AlpA-like transcriptional regulator,product,2,2,0,0
+transcriptional regulator (global nitrogen),product,2,2,0,0
+transcriptional regulator ArgR,product,2,0,2,0
+DNA-binding transcriptional regulator Fis,product,2,0,2,0
+DNA-binding HTH domain-containing protein;transcriptional regulator,note,2,2,0,0
+transcriptional regulator TetR family,product,2,2,0,0
+transcription regulator,note,2,2,0,0
+HTH-type transcriptional regulator,product,2,1,0,1
+HTH-type transcriptional regulator HdfR,product,2,0,2,0
+sigma 54-interacting transcriptional regulator,product,2,0,2,0
+sigma-54-dependent Fis family transcriptional regulator,product,2,0,2,0
+GcrA cell cycle regulator,product,1,1,0,0
+"HHPred matches to various RHH-containing proteins, including PDB 2GPE_D Bifunctional protein putA from E. coli with 89 probability and 1BAZ_C ARC REPRESSOR of phage P22 with 81 probability",note,1,1,0,0
+serotype conversion: transacetylase repressor,product,1,1,0,0
+sigma-54 dependent transcriptional regulator,product,1,0,1,0
+regulatory protein FmdB family,product,1,1,0,0
+"regulatory, FmdB family domain protein",product,1,1,0,0
+HTH-type transcriptional regulator ArgP,product,1,0,1,0
+HTH-type transcriptional repressor FabR,product,1,0,1,0
+HTH_XRE family transcriptional regulator,product,1,1,0,0
+Helix-turn-helix XRE-family like proteins. Prokaryotic DNA binding proteins belonging to the xenobiotic response element family of transcriptional regulators; Region: HTH_XRE; cd00093;Predicted transcriptional regulators [Transcription]; Region: HipB; COG1396,note,1,1,0,0
+Helix-turn-helix XRE-family like proteins. Prokaryotic DNA binding proteins belonging to the xenobiotic response element family of transcriptional regulators; cd00093; gene_55,note,1,0,0,1
+Hg(II)-responsive transcriptional regulator,product,1,0,1,0
+sugar-binding transcriptional regulator,product,1,0,1,0
+IclR-like transcriptional regulator,note,1,1,0,0
+Initiation-control protein YabA,product,1,1,0,0
+"Initiation-control protein YabA, DnaA, DnaN, Zinc finger.7A",product,1,1,0,0
+KEGG: aoe:Clos_1287 XRE family transcriptional regulator; PFAM: Helix-turn-helix type 3; SMART: Helix-turn-helix type 3,note,1,0,0,1
+LacI family transcriptional regulator-like protein,product,1,1,0,0
+transcription modulator under heat shock,product,1,1,0,0
+transcription regulation,note,1,1,0,0
+transcription regulation protein,product,1,0,0,1
+"similar to transcriptional regulator [Cronobacter phage vB_CsaM_GAP32], YP_006987602.1; PF13744.3 HTH_37",note,1,1,0,0
+"similar to vacD10R (MutT-like protein, transcriptional regulator)",note,1,0,0,1
+starvation-inducible transcriptional regulator,product,1,0,0,1
+unspliced ORF57A;post-transcriptional regulator; herpesvirus core gene UL54 family,note,1,0,0,1
+transcriptional regulator NanR,product,1,0,1,0
+transcriptional regulator SlyA,product,1,0,1,0
+DNA-binding transcriptional regulator,product,1,0,0,1
+DNA-binding transcriptional regulator OxyR,product,1,0,1,0
+DNA-binding transcriptional repressor LacI,product,1,0,1,0
+transcriptional activator RinB superfamily; P954orf38,note,1,1,0,0
+superoxide response transcriptional regulator SoxS,product,1,0,1,0
+transcriptional regulator protein,note,1,0,0,1
+"transcriptional regulator, HTH cro/C1 type",product,1,0,0,1
+transcriptional regulator GcvA,product,1,0,1,0
+transcriptional regulator LldR,product,1,0,1,0
+transcriptional regulator MarR family,product,1,0,0,1
+transcriptional regulator AC4,product,1,0,0,1
+transcriptional regulator AlpA,product,1,0,0,1
+transcription regulator P47,product,1,0,0,1
+transcriptional activator FtrA domain-containing protein,product,1,1,0,0
+transcriptional activator RinA,note,1,1,0,0
+AlpA family transcriptional regulator,product,1,1,0,0
+AlpA-like transcriptional regulator,note,1,1,0,0
+ArV1_ORF031c; similar to MarR family transcriptional regulator from Streptomyces griseoaurantiacu,note,1,1,0,0
+Arc family DNA-binding protein,product,1,1,0,0
+Arc-like DNA binding domain,annot (Pharokka),1,1,0,0
+ArpU family transcriptional regulator,product,1,1,0,0
+HTH transcriptional regulator (LrpA-like),note,1,1,0,0
+late gene regulatory protein,product,1,1,0,0
+late transcriptional activator,product,1,0,0,1
+late-transcription coactivator,product,1,1,0,0
+leucine-responsive transcriptional regulator Lrp,product,1,0,1,0
+helix-turn-helix domain transcriptional regulator MerR,note,1,1,0,0
+hypothetical protein with low hpmology to LysR family transcriptional regulator [Bacillus sp. J33],note,1,1,0,0
+hypothetical protein;transcriptional regulator ICP4,note,1,0,0,1
+"best non-GAS blastp hit: emb|CAA64933.1| (X95646) homology to cI-like repressor [Streptococcus thermophilus bacteriophage Sfi21], and gb|AAC03456.1| (AF020798) putative metallo-proteinase [Streptococcus thermophilus bacteriophage TP-J34]",note,1,1,0,0
+XRE-family transcriptional regulator,product,1,1,0,0
+Zn(2+)-responsive transcriptional regulator,product,1,0,1,0
+acrEF/envCD operon transcriptional regulator,product,1,0,1,0
+anti-adapter protein IraM,product,1,1,0,0
+lambda phage Ead-Ea22-like protein,note,1,1,0,0
+late control protein ogr,note,1,1,0,0
+c1 repressor protein fragment,product,1,1,0,0
+"cl17451 - homeodomain-like domain, COG1438 - arginine repressor",note,1,1,0,0
+anti-adapter protein IraP,product,1,1,0,0
+best blastp hit: gb|AAF30832.1|AE002139_5 (AE002139) heat-inducible transcription repressor [Ureaplasma urealyticum],note,1,1,0,0
+best blastp hit: gb|AAL97905.1| (AE010051) hypothetical phage protein [Streptococcus pyogenes MGAS8232]; similar to transcriptional regulatory proteins,note,1,1,0,0
+best blastp hit: sp|P38781|YHL6_YEAST Putative 101.3 kDa transcriptional regulatory protein in CUP1-CPR2 intergenic region,note,1,1,0,0
+control of repressor's operator,note,1,1,0,0
+electron transport transcriptional regulator EtrA,product,1,0,1,0
+"establishment of lysogeny, putative",note,1,1,0,0
+fatty acid metabolism transcriptional regulator FadR,product,1,0,1,0
+bifunctional DNA-binding transcriptional regulator/O6-methylguanine-DNA methyltransferase Ada,product,1,0,1,0
+bifunctional pyr operon transcriptional regulator/uracil phosphoribosyltransferase PyrR,product,1,0,1,0
+prophage repressor,note,1,1,0,0
+prophage repressor,product,1,1,0,0
+phage repressor,note,1,1,0,0
+"phage transcriptional regulator protein with IrrE domain, putative metalloprotease",note,1,1,0,0
+"phage transcriptional regulator, ArpU family",note,1,1,0,0
+possible repressor; homolog of Xre; region of aa 23-80 28 pct identical to region of aa 2-80 of Xre phage repressor of Bacillus subtilis prophage PBSX (XRE_BACSU; 113 aa); 100 pct identical to hypothetical product of orfVIII of lydA region of P1 PID:g2462946,note,1,1,0,0
+post-transcriptional regulator; MTA,note,1,0,0,1
+gp103; transcriptional regulator (AlpA-like),note,1,1,0,0
+"gp13, phage transcriptional activator, Ogr/Delta",product,1,1,0,0
+predicted transcription regulator,note,1,1,0,0
+predicted transcription regulator,product,1,1,0,0
+primary repressor Imm,product,1,1,0,0
+primary repressor of lytic function,product,1,1,0,0
+proline utilization transcription activator,product,1,1,0,0
+"prophage LambdaCh01, RinA family protein phage transcriptional regulator",product,1,0,0,1
+helix-turn-helix XRE family transcriptional regulator,product,1,1,0,0
+helix-turn-helix domain transcription regulator,note,1,1,0,0
+flagellar transcriptional regulator FlhC,product,1,0,1,0
+flagellar transcriptional regulator FlhD,product,1,0,1,0
+fumarate/nitrate reduction transcriptional regulator Fnr,product,1,0,1,0
+"gene_33; similar to Phage transcriptional regulator, ArpU family of Geobacillus UniRef RepID=C9S1C6_GEOSY",note,1,0,0,1
+glyoxylate bypass operon transcriptional repressor IclR,product,1,0,1,0
+immediate-early transcriptional regulatory protein 1,product,1,0,0,1
+immediate-early transcriptional regulatory protein-1,product,1,0,0,1
+gp28; transcriptional regulator (AlpA-like),note,1,1,0,0
+gp40; HTH DNA binding domain/ Putative transcriptional regulator,note,1,1,0,0
+"gp_13128; intracellular signaling, bacterial PH domain, transcription activator",note,1,1,0,0
+heat-inducible transcriptional repressor HrcA,product,1,0,1,0
+ORF 5; MW 6293.50 Daltons; putative role in transcription regulation,note,1,0,0,1
+Orf35; viral transcription regulator,note,1,0,0,1
+PA2384,vfdb_short_name (VFDB),1,1,0,0
+PF06116:transcriptional activator RinB,note,1,1,0,0
+PadR-like family transcriptional regulator,product,1,1,0,0
+Phage anti-sigma factor,product,1,1,0,0
+MarRP,product,1,1,0,0
+MerR family DNA-binding transcriptional regulator,product,1,0,1,0
+MerR-like HTH DNA binding protein,note,1,1,0,0
+Lsr2 DNA bridging protein,note,1,1,0,0
+Ribbon-helix-helix protein; putative CopG family transcriptional regulator; orf34,note,1,0,0,1
+RrF2 family transcriptional regulator,product,1,0,1,0
+HTH type II transcriptional regulator,product,1,1,0,0
+Fis family transcriptional regulator,product,1,0,1,0
+MotB-like transcriptional regulator,product,1,0,0,1
+Taxonomic breadth: poxviridae; Old product: E12L; mRNA capping enzyme small subunit; mRNA (guanine-N7-)-methyl-transferase; transcription initiation factor; similar to VACV-WR E12L and VACV-Cop D12L,note,1,0,0,1
+TetR family transcription regulator,note,1,1,0,0
+Phage transcriptional regulator (ACLAME 866),note,1,1,0,0
+Putative lysogeny establishment protein,product,1,1,0,0
+Rha family regulatory protein,product,1,1,0,0
+HTH DNA binding domain transcriptional regulator,note,1,1,0,0
+"HTH DNA binding protein, MerR-like",note,1,1,0,0
+putative phage repressor; similar to gi:15802659 cI repressor of prophage CP-933V,note,1,1,0,0
+"putative LysR family transcriptional regulator; similar to NP_522096, ZP_00028008 and ZP_00128013",note,1,1,0,0
+putative MOR transcription regulator,product,1,1,0,0
+putative MarR family transcriptional regulator,product,1,1,0,0
+putative MerR transcription regulator,product,1,1,0,0
+putative NinH-like protein,product,1,1,0,0
+putative SpoVG protein,product,1,1,0,0
+putative TetR transcriptional regulator,product,1,1,0,0
+multifunctional transcriptional regulator/nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase NadR,product,1,0,1,0
+putative VpsT-like transcriptional regulator,product,1,1,0,0
+putative XRE family transcriptional regulator,product,1,1,0,0
+putative bacterial stringent starvation protein,product,1,1,0,0
+"putative cI-like repressor, metallo-prtoeinase motif",product,1,1,0,0
+putative lambda repressor-like DNA-binding protein,product,1,1,0,0
+putative paratox,product,1,1,0,0
+putative phage repressor,product,1,1,0,0
+pfam07417 - transcriptional regulator Crl,note,1,1,0,0
+luxR family protein,product,1,1,0,0
+lysogenic conversion protein,product,1,1,0,0
+mercury resistance transcriptional regulator MerR,product,1,0,1,0
+modifier of transcription,product,1,1,0,0
+modulator of repressor,note,1,1,0,0
+"post-transcriptional regulator; similar to HSV UL54 (ICP27), EBV BSLF2/BMLF1 (MTA; SM protein)",note,1,0,0,1
+nickel-responsive transcriptional regulator NikR,product,1,0,1,0
+nitric oxide-sensing transcriptional repressor NsrR,product,1,0,1,0
+ogr/Delta-like zinc finger family protein,product,1,1,0,0
+"orf 30; PF06116: RinB, transcriptional activator",note,1,1,0,0
+"orf3; putative cI-like repressor, metallo-proteinase motif",note,1,1,0,0
+putative transcription initiation factor TFIIIB subunit Brf1/transcription initiation factor TFIIB,product,1,0,0,1
+putative transcriptional activator,product,1,1,0,0
+putative transcriptional co-activator,product,1,1,0,0
+putative transcriptional regulator,note,1,1,0,0
+putative repressor; maintenance of lysogeny,note,1,1,0,0
+"putative transcriptional regulator, GntR family protein",product,1,1,0,0
+"putative transcriptional regulator, Zn-ribbon, ATP-cone family",product,1,1,0,0
+"rasttk_feature_creation_tool=prodigal; DNA binding domain-containing protein, putative repressor",note,1,1,0,0
+regulatory protein CII,product,1,1,0,0
+protein ninH,product,1,1,0,0
+putative AraC family transcriptional regulator,product,1,1,0,0
+putative AraC transcriptional regulator,note,1,1,0,0
+putative CI repressor,product,1,1,0,0
+putative D5 protein,product,1,1,0,0
+putative DNA binding transcriptional regulator,product,1,1,0,0
+putative DNA binding transcriptional regulator MarR family,product,1,1,0,0
+putative DNA binding/transcriptional regulator,product,1,1,0,0
+putative Transcription initiation factor B,product,1,0,0,1
+putative DNA-binding response regulator,product,1,1,0,0
+putative Ead/Ea22-like protein,product,1,1,0,0
+putative Fur-regulated protein,product,1,1,0,0
+putative GcrA-like protein,product,1,1,0,0
+putative HTH_XRE-like protein,product,1,1,0,0
+"similar to MULTISPECIES: transcriptional regulator [Leuconostoc], WP_010385704.1",note,1,1,0,0
+similar to NP_112053 repressor protein cI [Enterobacteria phage HK620],note,1,1,0,0
+similar to PHAGE_Shigel_SHFML_11_NC_030953: XRE family transcriptional regulator,note,1,1,0,0
+similar to SIRV2 ORF59b; putative CopG family transcriptional regulator; orf05,note,1,0,0,1
+repressor-like protein,product,1,1,0,0
+response regulator,note,1,1,0,0
+response regulator,product,1,1,0,0
+similar to putative transcription initiation factor IIB,note,1,0,0,1
+"similar to putative transcription initiation factor and seryl t-RNA synthetase; identified in VT2-Sa, 933W, Stx2 converting phages 1, 2 and 86, Min27",note,1,1,0,0
+similar to several XRE family transcriptional regulators,note,1,1,0,0
+similar to stringent starvation protein B in Marinomonas sp. MWYL1,note,1,1,0,0
+similar to transcription initiation factor IIB,note,1,0,0,1
+similar to AHN66583.1 putative transcriptional regulator [Bacillus phage Bcp1] Bcp1_108,note,1,1,0,0
+similar to HCMVA UL69 and MCMVS M69; possible transcriptional regulator,note,1,0,0,1
+"similar to MEX-5 XRE family transcriptional regulator found in Burkholderia ambifaria, with HTH_31 (Helix-turn-helix) domain architecture match",note,1,1,0,0
+putative prophage repressor CI,product,1,1,0,0
+putative repressor of ComK,product,1,1,0,0
+putative repressor protein,product,1,1,0,0
+putative repressor protein Hxr,product,1,1,0,0
+"similar to conserved domain PRK15482, transcriptional regulator MurR",note,1,1,0,0
+"similar to lambda repressor-like, DNA-binding domain (IPR010982) and helix-turn-helix type 3 domain (IPR001387)",note,1,1,0,0
+similar to phage SHFML-11 gp125; putative transcriptional regulator; gp10,note,1,1,0,0
+putative sigma-54-dependent transcriptional regulator,product,1,1,0,0
+putative small subunit of mRNA capping enzyme and transcription initiation factor; Description: homolog of vaccinia D12L and variola N2L,note,1,0,0,1
+putative transcription activator protein hfaB,product,1,1,0,0
+putative transcription initiation factor IIB-like protein,product,1,0,0,1
+putative transcription initiation factor IIB; similar to Acanthamoeba polyphaga mimivirus E=2e-18,note,1,0,0,1
+putative positive regulator of sigma,product,1,1,0,0
+stringent starvation protein B family protein,product,1,1,0,0
+Transcriptional regulator ICP22,product,1,0,0,1
+TrmB family transcriptional regulator,product,1,1,0,0
+SPBc2 prophage-derived transcriptional regulator YosT,product,1,1,0,0
+Spx-family transcriptional regulator,note,1,1,0,0
+LexA regulated function,note,1,1,0,0
+LexA repressor,product,1,1,0,0
+Lsr2,product,1,1,0,0
+TetR-family transcriptional regulator,note,1,1,0,0
+Transcription regulatory protein SNF5,product,1,0,0,1
+"Transcriptional Regulator, AlpA-like",note,1,1,0,0
+D5 protein/DNA-binding protein,product,1,1,0,0
+CP12,note,1,1,0,0
+CP12 carbon metabolic regulator,product,1,1,0,0
+LysR family transcriptional regulator LldR,product,1,0,1,0
+MarR family protein,product,1,1,0,0
+MarR family transcription regulator,product,1,1,0,0
+LacI-like regulatory protein,product,1,1,0,0
+Ead/Ea22-like protein,product,1,1,0,0
+FMN-binding negative transcriptional regulator,product,1,0,1,0
+Com family DNA-binding transcriptional regulator,product,1,0,1,0
+Cro/CI family transcriptional regulator,product,1,0,1,0
+Cu(I)-responsive transcriptional regulator,product,1,0,1,0
+putative post-transcriptional regulator; herpesvirus core gene UL54 family,note,1,0,0,1
+ArsR family transcriptional regulator protein,product,1,0,0,1
+B122_39; transcriptional activator rinB,note,1,1,0,0
+ASC-1 transcription coactivator,product,1,1,0,0
+C1 repressor inactivator,note,1,1,0,0
+CI-like repressor,product,1,1,0,0
+CII family transcriptional regulator,product,1,0,1,0
+AbrB family transcriptional regulator-like protein,product,1,1,0,0
+transcriptional regulator TyrR,product,1,0,1,0
+transcriptional regulator WhiB-like,product,1,0,0,1
+transcriptional regulator [Shigella phage SHBML-50-1],note,1,1,0,0
+transcriptional regulator of late genes; silencing supressor,note,1,0,0,1
+"CUN073 putative p47 transcription regulator factor, similar to AcMNPV ORF40",product,1,0,0,1
+weakly similar to transcriptional regulator [Streptococcus phage EJ-1],note,1,1,0,0
+ArsR family transcriptional regulator,product,1,1,0,0
+"transcriptional regulator, HTH motif",product,1,0,0,1
+"transcriptional regulator, TetR family",product,1,0,0,1
+"transcriptional regulator, XRE family",product,1,0,0,1
+"transcriptional regulator, biotin repressor family",product,1,1,0,0
+transcriptional regulator-like motif protein,product,1,0,0,1
+transcriptional regulatory protein,product,1,0,0,1
+repressor-like domain protein,product,1,1,0,0
+trifunctional transcriptional regulator/proline dehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase,product,1,0,1,0
+"two helix-turn-helix motifs (Pfam Accession Number PF01381); similar to putative repressor epsilon15p38 from Enterobacteria phage epsilon15, Accession Number NP_848246",note,1,1,0,0
+uncharacterized HTH-type transcriptional regulator,product,1,0,0,1
+"transcriptional activator rinB, phage associated",note,1,1,0,0

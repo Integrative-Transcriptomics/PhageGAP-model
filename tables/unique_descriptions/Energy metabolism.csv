@@ -1,0 +1,112 @@
+description,source,count,phg,bac,vir
+2OG-Fe(II) oxygenase,annot (Pharokka),416,416,0,0
+ferredoxin,annot (Pharokka),53,53,0,0
+photosystem II D1,annot (Pharokka),48,48,0,0
+acetyl-CoA acetyltransferase,annot (Pharokka),43,43,0,0
+dehydrogenase,annot (Pharokka),41,41,0,0
+CpeT-like antenna protein,annot (Pharokka),37,37,0,0
+PetE plastocyanine,annot (Pharokka),35,35,0,0
+exopolyphosphatase,annot (Pharokka),33,33,0,0
+plastoquinol terminal oxidase,annot (Pharokka),23,23,0,0
+GNAT family N-acetyltransferase,product,18,18,0,0
+ferredoxin oxidoreductase,annot (Pharokka),15,15,0,0
+Rnf-Nqr,product,8,8,0,0
+muconolactone isomerase,product,8,8,0,0
+putative GCN5-related N-acetyltransferase,product,8,8,0,0
+autonomous glycyl radical cofactor GrcA,product,7,7,0,0
+"ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit",annot (Pharokka),7,7,0,0
+pyruvate formate-lyase,product,5,5,0,0
+radical SAM protein,product,4,4,0,0
+putative ammonia monooxygenase,product,3,3,0,0
+putative radical SAM protein,product,2,2,0,0
+putative GNAT N-acetyltransferase,product,2,2,0,0
+putative GNAT family N-acetyltransferase,product,2,2,0,0
+photosystem I psaA/psaB protein,annot (Pharokka),2,2,0,0
+fumarate hydratase FumD,product,2,2,0,0
+glycyl radical cofactor,product,2,2,0,0
+ATP synthase-like protein,product,2,2,0,0
+carboxylase,product,2,2,0,0
+zinc containing alcohol dehydrogenase superfamily,annot (Pharokka),2,2,0,0
+putative pyridine nucleotide-disulfide oxidoreductase,product,2,2,0,0
+acetyl-CoA acetyltransferase,product,1,1,0,0
+NADH dehydrogenase domain protein,product,1,1,0,0
+GNAT family acetyltransferase,product,1,1,0,0
+GNAT family acetyltransferase,note,1,1,0,0
+"COG0567 2-oxoglutarate dehydrogenase complex, dehydrogenase (E1) component, and related enzymes",note,1,1,0,0
+CoA ester lyase,product,1,1,0,0
+"COG0374 Ni,Fe-hydrogenase I large subunit",note,1,1,0,0
+B12-binding domain-containing radical SAM protein,product,1,1,0,0
+ATP synthase,product,1,1,0,0
+PufA cytochrome subunit,annot (Pharokka),1,1,0,0
+Pyruvate formate-lyase,product,1,1,0,0
+PufC cytochrome,annot (Pharokka),1,1,0,0
+PufB cytochrome subunit,annot (Pharokka),1,1,0,0
+UDPglucose 6-dehydrogenase,product,1,1,0,0
+Autonomous glycyl radical cofactor,product,1,1,0,0
+3-beta hydroxysteroid dehydrogenase,product,1,1,0,0
+2OG-Fe(II) oxygenase family like protein,product,1,1,0,0
+2OG-Fe(II) oxygenase,product,1,1,0,0
+dimethyl sulfoxide reductase anchor subunit,product,1,1,0,0
+dimethyl sulfoxide reductase DmsA,annot (Pharokka),1,1,0,0
+dihydrolipoyl dehydrogenase,product,1,1,0,0
+cytochrome c-type biogenesis protein CcmH,product,1,1,0,0
+cytochrome c family protein,product,1,1,0,0
+cytochrome c oxidase subunit I,product,1,1,0,0
+cytochrome P450,product,1,1,0,0
+cytochrome c biogenesis protein,product,1,1,0,0
+carbon monoxide dehydrogenase large subunit,product,1,1,0,0
+"best blastp hit: sp|O54749|CPJ5_MOUSE Cytochrome P450 2J5 (CYPIIJ5) (Arachidonic acid epoxygenase), and gb|AAB87635.1| (U62294) cytochrome P450 monooxygenase [Mus musculus]",note,1,1,0,0
+contains haloacid dehydrogenase (HAD)-like domain,note,1,1,0,0
+contains adenylate kinase domain,note,1,1,0,0
+best blastp hit: emb|CAA80559.1| (Z23023) malate dehydrogenase [Solanum tuberosum],note,1,1,0,0
+alcohol dehydrogenase-like quinonprotein,product,1,1,0,0
+aldehyde dehydrogenase,product,1,1,0,0
+aspartate dehydrogenase,product,1,1,0,0
+PsaA,product,1,1,0,0
+NADH dehydrogenase subunit 2,product,1,1,0,0
+iron-containing alcohol dehydrogenase,product,1,1,0,0
+isocitrate dehydrogenase,product,1,1,0,0
+phage-related hydrogenase,product,1,1,0,0
+multiheme cytochrome,product,1,1,0,0
+orf2; 4Fe-4S ferredoxin-type iron-sulfur binding region signature PS00198,note,1,1,0,0
+hydroxylamine reductase-like protein,product,1,1,0,0
+isovaleryl-CoA dehydrogenase,product,1,1,0,0
+haloacid dehydrogenase (HAD)-like domain,note,1,1,0,0
+hydroxyacid dehydrogenase,product,1,1,0,0
+hydrogenase,product,1,1,0,0
+glycerate kinase,product,1,1,0,0
+ferredoxin,product,1,1,0,0
+glycerate dehydrogenase-like protein,product,1,1,0,0
+glutamate dehydrogenase,product,1,1,0,0
+putative GCN5-related N-acetyltransferase 1,product,1,1,0,0
+photosystem II reaction center protein PsbN,product,1,1,0,0
+photosystem I reaction center subunit IV,product,1,1,0,0
+photosystem II D2,annot (Pharokka),1,1,0,0
+photosystem I reaction center subunit II,product,1,1,0,0
+phosphoglycerate kinase,product,1,1,0,0
+photosystem I iron-sulfur center protein PsaC,product,1,1,0,0
+photosystem I reaction center subunit,product,1,1,0,0
+note the threonine-phosphate decarboxylase domain,note,1,1,0,0
+putative autonomous glycyl radical cofactor GrcA,product,1,1,0,0
+putative ferredoxin-thioredoxin reductase,product,1,1,0,0
+putative iron-only hydrogenase system regulator,product,1,1,0,0
+putative dihydroorotate dehydrogenase,product,1,1,0,0
+putative autonomous glycyl radical cofactor,product,1,1,0,0
+putative NADH dehydrogenase subunit P,product,1,1,0,0
+putative GCN5-related N-acetyltransferase 2,product,1,1,0,0
+putative photosystem II protein,product,1,1,0,0
+putative polyphosphate kinase,product,1,1,0,0
+putative phage-related hydrogenase,product,1,1,0,0
+putative photosystem I reaction center subunit X,product,1,1,0,0
+pyruvate ferredoxin/flavodoxin oxidoreductase,product,1,1,0,0
+pyruvate ferredoxin,product,1,1,0,0
+shikimate dehydrogenase-like protein,product,1,1,0,0
+pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha,product,1,1,0,0
+similar to ABY40532.1| putative anaerobic dehydrogenase [Burkholderia phage Bups phi1],note,1,1,0,0
+similar to ATP synthase-coupling factor,note,1,1,0,0
+similar to bacterial autonomous glycyl radical cofactor GrcA,note,1,1,0,0
+similar to WP_005148789.1 acyl-CoA dehydrogenase [Mycobacterium rhodesiae],note,1,1,0,0
+similar to glycyl radical cofactor GrcA,note,1,1,0,0
+thiolase,product,1,1,0,0
+"weakly similar to Ferredoxin-thioredoxin reductase, catalytic chain [Methanosarcina mazei Goe1] (gi|21226159|ref|NP_632081.1|) percent identity 34 in 55 aa",note,1,1,0,0
+"weakly similar to putative phosphohydrolase [Erwinia phage vB_EamM_RisingSun], conserved domain GppA COG0248 Exopolyphosphatase/pppGpp-phosphohydrolase [Nucleotide transport and metabolism, Signal",note,1,1,0,0

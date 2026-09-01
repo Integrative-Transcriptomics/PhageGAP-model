@@ -1,0 +1,320 @@
+description,source,count,phg,bac,vir
+response regulator transcription factor,product,226,0,226,0
+RNA polymerase sigma factor,annot (Pharokka),206,206,0,0
+late sigma transcription factor,annot (Pharokka),106,106,0,0
+ArsR/SmtB family transcription factor,product,95,0,95,0
+sigma-K factor,annot (Pharokka),95,95,0,0
+WhiB transcriptional factor,annot (Pharokka),93,93,0,0
+transcriptional regulator WhiB-like,annot (Pharokka),63,63,0,0
+sigma factor,annot (Pharokka),53,53,0,0
+WhiB family transcription factor,product,31,31,0,0
+LytR/AlgR family response regulator transcription factor,product,30,0,30,0
+MocR-like pyridoxine biosynthesis transcription factor PdxR,product,29,0,29,0
+RNA polymerase sigma factor,product,21,21,0,0
+putative sigma factor,product,19,19,0,0
+late transcription factor VLTF-4,product,17,0,0,17
+sigma factor-binding protein Crl,product,13,0,13,0
+WhiB,product,12,12,0,0
+putative transcription factor,product,11,4,0,7
+transcription factor,annot (Pharokka),11,11,0,0
+transcription factor,product,11,6,0,5
+late transcription factor VLTF-3,product,10,0,0,10
+heavy metal response regulator transcription factor,product,10,0,10,0
+late transcription factor VLTF-1,product,10,0,0,10
+UvrY/SirA/GacA family response regulator transcription factor,product,10,0,10,0
+HU/IHF-like protein,product,9,9,0,0
+response regulator transcription factor RcsB,product,8,0,8,0
+protein HU,product,8,8,0,0
+envelope stress response regulator transcription factor CpxR,product,7,0,7,0
+sigma factor for late transcription,annot (Pharokka),7,7,0,0
+"integration host factor IHF subunit, histone-like protein",product,7,7,0,0
+sigma-70 family RNA polymerase sigma factor,product,7,7,0,0
+putative early transcription factor large subunit,product,6,0,0,6
+metalloregulator ArsR/SmtB family transcription factor,product,6,0,6,0
+FNR family transcription factor,product,6,0,6,0
+Poxvirus Late Transcription Factor VLTF3 like protein,product,5,0,0,5
+quorum sensing response regulator transcription factor QseB,product,5,0,5,0
+intermediate transcription factor VITF-3,product,5,0,0,5
+enhances activation by IE2; interacts with basal transcriptional machinery and cellular transcription factor; disrupts ND10; involved in gene regulation,note,5,0,0,5
+late transcription factor,product,5,0,0,5
+involved in papillomavirus genome replication; transcription factor,note,5,0,0,5
+intermediate transcription factor,product,5,0,0,5
+RNA polymerase sigma factor/ubiquitin-like protein,product,5,5,0,0
+RpbA RNA polymerase binding protein,annot (Pharokka),5,5,0,0
+phosphate response regulator transcription factor PhoB,product,4,0,4,0
+sigma factor-like helix-turn-helix DNA-binding protein,product,4,0,4,0
+putative viral transcription factor,product,4,0,0,4
+"putative transcription factor, zinc-finger fold",product,4,4,0,0
+ScbR family autoregulator-binding transcription factor,product,4,0,4,0
+interacts with basal transcriptional machinery and cellular transcription factors; specific DNA-binding protein; involved in gene regulation,note,4,0,0,4
+viral late transcription factor,product,4,0,0,4
+early transcription factor,product,4,0,0,4
+late transcription factor 4,note,4,0,0,4
+Intermediate transcription factor VITF-3,product,4,0,0,4
+pca operon transcription factor PcaQ,product,4,0,4,0
+ferric citrate uptake sigma factor regulator FecR,product,3,0,3,0
+early gene transcription factor,product,3,0,0,3
+transcription factor; involved in viral replication,note,3,0,0,3
+bZIP transcription factor,product,3,0,1,2
+transcription factor TFIIB,note,3,0,0,3
+ferric citrate uptake sigma factor FecI,product,3,0,3,0
+early transcription factor large subunit,product,3,0,0,3
+RsfA family transcription factor,note,3,3,0,0
+late transcription factor VLTF3,product,3,0,0,3
+poxvirus late transcription factor VLTF3-like protein,product,3,0,0,3
+response regulator transcription factor HprR,product,3,0,3,0
+putative late transcription factor,product,3,0,0,3
+putative transcription factor A2-like protein,product,3,0,0,3
+MocR-like transcription factor YczR,product,3,0,3,0
+transcription factor,note,3,1,0,2
+transcription factor A2-like protein,product,3,0,0,3
+VLTF2-type transcription factor,note,3,0,0,3
+late transcription factor VLTF3-like protein,product,3,0,0,3
+putative intermediate transcription factor VITF-3,product,2,0,0,2
+response regulator transcription factor RqpR,product,2,0,2,0
+sigma factor accessory,product,2,2,0,0
+sigma factor,product,2,1,1,0
+putative late transcription factor VLTF-3,product,2,0,0,2
+putative late transcription factor VLTF-2,product,2,0,0,2
+sigma factor like,note,2,2,0,0
+putative early transcription factor small subunit,product,2,0,0,2
+TFII-like transcription factor,product,2,0,0,2
+VLTF-2 late transcription factor 2,product,2,0,0,2
+VETF-L early transcription factor large,product,2,0,0,2
+VLTF2-like late transcription factor,product,2,0,0,2
+putative WhiB family regulatory protein,product,2,2,0,0
+osmolarity response regulator transcription factor OmpR,product,2,0,2,0
+VLTF-3 late transcription factor 3,product,2,0,0,2
+heavy metal response regulator transcription factor IrlR,product,2,0,2,0
+late transcription factor VLTF-2,product,2,0,0,2
+"morph, VETF-s early transcription factor small",product,2,0,0,2
+RNA polymerase sigma factor,note,2,2,0,0
+RNA polymerase sigma factor/Ubiquitin-like protein,product,2,2,0,0
+late sigma transcription factor,product,2,0,0,2
+late gene transcription factor,product,2,0,0,2
+late transcription factor VLTF4,product,2,0,0,2
+late transcription factor VLTF2,product,2,0,0,2
+integration host factor,product,2,2,0,0
+intermediate transcription factor VITF-3-like protein,product,2,0,0,2
+intermediate transcription factor; VITF-3,note,2,0,0,2
+bZIP transcription factor,note,2,0,0,2
+early transcription factor large subunit VETF-L,product,2,0,0,2
+"bacterial DNA-binding protein, integration host factor, IHF",product,2,2,0,0
+beta-lactam response regulator transcription factor BlrA,product,2,0,2,0
+conserved transcription factor S-II-domain-containing protein,product,2,0,0,2
+transcription factor TFIIS,note,2,0,0,2
+transcription factor TFIID,note,2,0,0,2
+viral intermediate transcription factor VITF-3,product,2,0,0,2
+transcription factor S-II-related protein,product,2,0,0,2
+DUF6597 domain-containing transcriptional factor,product,2,0,2,0
+response regulator transcription factor EsaR,product,2,0,2,0
+32kDa small subunit of transcription factor VITF-3,product,2,0,0,2
+A1L transcription factor,product,2,0,0,2
+"022R; Yabby-like transcription factor; closest orthologs: HVAv3e ORF130, TnAV2c ORF059, SfAV1a ORF091 CIV401R, MIV068R",note,1,0,0,1
+"103L; Late Transcription Factor VLTF3-like; closest orthologs: HvAV3e ORF033, TnAV2c ORF017, SfAV1a ORF029, CIV 282R, MIV 079L",note,1,0,0,1
+45kDa large subunit of intermediate gene transcription factor VITF-3,product,1,0,0,1
+82kDa large subunit of early gene transcription factor VETF,product,1,0,0,1
+CNPV080 early transcription factor small subunit VETFS,product,1,0,0,1
+CNPV244 early transcription factor large subunit VETFL,product,1,0,0,1
+CNPV245 intermediate transcription factor VITF-3,product,1,0,0,1
+CNPV262 intermediate transcription factor VITF-3,product,1,0,0,1
+COG4941 predicted RNA polymerase sigma factor containing TPR repeat domain (transcription); similar to hypothetical protein COK_0571 from Mannheimia haemolytica serotype A2 str. BOVINE,note,1,1,0,0
+"CUN026 putative lef-8 late transcription factor, Rna_Pol_Beta motif, similar to AcMNPV ORF50",product,1,0,0,1
+"CUN059 putative lef-9 transcription factor, RNApol motif, similar to AcMNPV ORF62",product,1,0,0,1
+"CUN096 putative lef-4 transcription factor, similar to AcMNPV ORF90",product,1,0,0,1
+DNA binding protein HU-beta,note,1,1,0,0
+DNA binding protein transcription factor,product,1,1,0,0
+DNA-binding protein HU-beta,note,1,1,0,0
+Early transcription factor VETFL,product,1,0,0,1
+Early transcription factor VETFs,product,1,0,0,1
+Early transcription factor large subunit (VETF-L),product,1,0,0,1
+Early transcription factor small subunit (VETF-s),product,1,0,0,1
+"FocB protein-alpha, helix-turn-helix",product,1,1,0,0
+GrgA family transcription factor,product,1,0,1,0
+HHPred match to PDB 2K9L_A RNA polymerase sigma factor RpoN of Aquifex aeolicus with 89 probability over 58 of 76 residues in the DNA-binding domain,note,1,1,0,0
+related to vaccinia virus strain Copenhagen G8R/vaccinia late transcription factor-1 (VLTF-1),note,1,0,0,1
+related to vaccinia virus strain Copenhagen H5R/vaccinia late transcription factor-4(VLTF-4),note,1,0,0,1
+response regulator transcription factor GacA,product,1,0,1,0
+transcription factor (NtrC-like),note,1,1,0,0
+transcription factor IIS-like protein,product,1,1,0,0
+transcription factor S-II,product,1,0,0,1
+transcription factor S-II (TFIIS) E4L,product,1,0,0,1
+transcription factor SII homolog,product,1,0,0,1
+transcription factor TFIID,product,1,0,0,1
+transcription factor activity,note,1,1,0,0
+transcription factor; ssRNA and dsRNA binding; muA,note,1,0,0,1
+transcriptional factor WhiB-like protein,product,1,0,0,1
+viral early transcription factor large subunit,product,1,0,0,1
+viral early transcription factor small subunit,product,1,0,0,1
+viral late gene transcription factor 2,product,1,0,0,1
+viral late transcription factor VLTF-1,product,1,0,0,1
+viral late transcription factor VLTF-2,product,1,0,0,1
+viral late transcription factor VLTF-3,product,1,0,0,1
+viral late transcription factor VLTF-4,product,1,0,0,1
+Intermediate transcription factor (VITF-3L),product,1,0,0,1
+Intermediate transcription factor (VITF-3s),product,1,0,0,1
+Intermediate transcription factor VITF-3 (2),product,1,0,0,1
+"Intermediate transcription factor, VITF-3",product,1,0,0,1
+L-proline-binding transcription factor PsrA,product,1,0,1,0
+WhiB transcriptional factor,product,1,1,0,0
+WhiB-like protein,product,1,1,0,0
+anti-TRAP protein (transcription factor),note,1,1,0,0
+autorepressor SdpR family transcription factor,product,1,0,1,0
+bZIP transcription factor fragment,product,1,0,0,1
+cd00591 - integration host factor,note,1,1,0,0
+conserved putative early transcription factor large subunit,product,1,0,0,1
+copper response regulator transcription factor CusR,product,1,0,1,0
+copper response regulator transcription factor PcoR,product,1,0,1,0
+copper/silver response regulator transcription factor,product,1,0,1,0
+copper/silver response regulator transcription factor SilR,product,1,0,1,0
+early gene transcription factor 70 kDA small subunit,note,1,0,0,1
+early transcription factor (VETF) large subunit,product,1,0,0,1
+early transcription factor 82 kDa subunit,product,1,0,0,1
+early transcription factor 82K subunit/VETF; similar to vacA7L,note,1,0,0,1
+early transcription factor VETF,product,1,0,0,1
+early transcription factor VETF-S,product,1,0,0,1
+early transcription factor VETFL-like protein,product,1,0,0,1
+early transcription factor large; EKPV-SC-111,note,1,0,0,1
+early transcription factor small subunit,product,1,0,0,1
+early transcription factor small; EKPV-SC-097,note,1,0,0,1
+early transcription factor; VETF-1,note,1,0,0,1
+expression pattern: Early-Late; Pfam hit: PF08792.3 [A2L zinc ribbon domain] [5.9e-12]; Pfam hit: PF04947.7 [Poxvirus Late Transcription Factor VLTF3 like ] [4.2e-57]; Refseq best hit: YP_001426246 [hypothetical protein FR483_N614R (Paramecium bursaria Chlorella virus FR483)] [1e-102],note,1,0,0,1
+expression pattern: Early; Pfam hit: PF00352.14 [Transcription factor TFIID (or TATA-binding protein TBP)] [3.1e-07]; Refseq best hit: YP_001425903 [hypothetical protein FR483_N271R (Paramecium bursaria Chlorella virus FR483)] [8e-42],note,1,0,0,1
+expression pattern: Early; Pfam hit: PF00382.12 [Transcription factor TFIIB repeat] [4.6e-06]; Refseq best hit: YP_001425767 [hypothetical protein FR483_N135L (Paramecium bursaria Chlorella virus FR483)] [2e-57],note,1,0,0,1
+histone-like transcription factor CBF/NF-Y,product,1,0,0,1
+"integration host factor IHF, DNA-binding protein HU",product,1,1,0,0
+integration host factor-like DNA binding domain,note,1,1,0,0
+interacts with basal transcriptional machinery and cellular transcription factors; specific DNA-binding protein; involved in gene regulation; beta gene; immediate early gene,note,1,0,0,1
+intermediate transcription factor 3 large subunit,product,1,0,0,1
+intermediate transcription factor 3 small subunit,product,1,0,0,1
+intermediate transcription factor VITF3,product,1,0,0,1
+intermediate transcription factor/VITF-3subunit; similar to vacA23R,note,1,0,0,1
+involved in genome replication; transcription factor,note,1,0,0,1
+involved in viral replication; transcription factor,note,1,0,0,1
+large subunit viral early transcription factor,product,1,0,0,1
+large subunit viral intermediate transcription factor,product,1,0,0,1
+late expression/transcription factor; ORF80; lef-5; similar to AcMNPV-C6 ORF ac99,note,1,0,0,1
+late gene transcription factor VLTF-3,product,1,0,0,1
+late transcription factor 1,product,1,0,0,1
+late transcription factor 1; EKPV-SC-070,note,1,0,0,1
+late transcription factor 2,note,1,0,0,1
+late transcription factor 2,product,1,0,0,1
+late transcription factor 2; EKPV-SC-104,note,1,0,0,1
+late transcription factor 3,product,1,0,0,1
+late transcription factor 3; EKPV-SC-105,note,1,0,0,1
+late transcription factor 4,product,1,0,0,1
+late transcription factor 4; EKPV-SC-088,note,1,0,0,1
+late transcription factor 4; WKPV-WA-089,note,1,0,0,1
+late transcription factor VLTF-1-like protein,product,1,0,0,1
+late transcription factor VLTF-3-like protein,product,1,0,0,1
+late transcription factor VLTF-4-like protein,product,1,0,0,1
+late transcription factor VLTF2-like protein,product,1,0,0,1
+late transcription gp55 sigma factor,product,1,1,0,0
+late transcriptional factor,product,1,0,0,1
+lateral flagellar response regulator transcription factor LafK,product,1,0,1,0
+middle-gene-specific sigma factor,product,1,1,0,0
+Putative transcription factor,note,1,1,0,0
+SPV073 putative late transcription factor VLTF-4,product,1,0,0,1
+SPV081 putative early transcription factor VETFS,product,1,0,0,1
+SPV095 putative early transcription factor VETFL,product,1,0,0,1
+SPV096 putative intermediate transcription factor VITF-3,product,1,0,0,1
+SPV112 putative intermediate transcription factor VITF-3,product,1,0,0,1
+Transcription factor IIB,product,1,0,0,1
+Transcription factor IIS,product,1,0,0,1
+Transcription factor S-II-related protein,product,1,0,0,1
+Transcription factor SII homolog,product,1,0,0,1
+VETF-like early transcription factor large subunit,product,1,0,0,1
+VETFL early gene transcription factor 82kDa large subunit,product,1,0,0,1
+VLTF3 late transcription factor protein,product,1,0,0,1
+Vltf3-like transcription factor,product,1,0,0,1
+WhiB family transcription factor,note,1,1,0,0
+most similar poxvirus protein: gi|21492529|ref|NP_659648.1| - Late transcription factor VLTF-4 [Sheeppox virus] (96.25% identity over 80/240 aa),note,1,0,0,1
+potential sigma factor,note,1,1,0,0
+poxvirus early transcription factor-like protein,product,1,0,0,1
+putative DNA replication/transcription factor IE-1,product,1,0,0,1
+putative RNA polymerase sigma factor,product,1,1,0,0
+putative VLTF-2 transcription factor,product,1,0,0,1
+putative VLTF-3-like transcription factor,product,1,1,0,0
+putative VLTF2-like transcription factor,product,1,1,0,0
+putative VV A7-like early transcription factor large subunit,product,1,0,0,1
+putative bZIP transcription factor,product,1,1,0,0
+putative bZIP transcription factor; similar to HHV8 K8a,note,1,0,0,1
+putative early transcription factor VETF,product,1,0,0,1
+putative early transcription factor VETF-like protein,product,1,0,0,1
+putative early transcription factor VETFL,product,1,0,0,1
+putative early transcription factor subunit; Description: homolog of vaccinia A7L and variola A8L,note,1,0,0,1
+putative integration host factor,product,1,1,0,0
+putative integration host factor IHF subunit,product,1,1,0,0
+putative late promoter transcription factor,product,1,0,0,1
+putative late transcription factor VLTF-1,product,1,0,0,1
+putative late transcription factor VLTF-4,product,1,0,0,1
+sequence-specific DNA binding RNA polymerase II transcription factor,product,1,1,0,0
+sigma factor accessory,note,1,1,0,0
+sigma-54-dependent response regulator transcription factor ZraR,product,1,0,1,0
+similar to CIV349L deposited in GenBank Accession Number AF303741; transcription factor SII,note,1,0,0,1
+similar to CIV350L deposited in GenBank Accession Number AF303741; VV A1L-like transcription factor,note,1,0,0,1
+"similar to YP_001504169.1 putative integration host factor [Enterococcus phage phiEF24C] and YP_024515.1 putative integration host factor [Staphylococcus phage K; motifs: Bac_DNA_binding [pfam00216], bacterial DNA-binding protein and HU_IHF [cd00591], integration host factor (IHF) and HU",note,1,1,0,0
+similar to archaeal transcription factor IIB,note,1,1,0,0
+similar to histone-like transcription factor CBF/NF-Y LCDV-China,note,1,0,0,1
+similar to possible sigma factor of Clostridium acetobutylicum,note,1,1,0,0
+similar to poxvirus late transcription factor A1; putative transcription factor,note,1,0,0,1
+similar to putative RNA polymerase sigma factor protein from Sinorhizobium,note,1,1,0,0
+similar to the homologues to the transcription factor TFIIB of mimivirus and large unclassified DNA viruses; putative transcription factor TFIIB-like,note,1,0,0,1
+similar to vacA23R (intermediate transcription factor [VITF-3]),note,1,0,0,1
+similar to vacA7L (large subunit of early transcription factor [VETF]),note,1,0,0,1
+IHF protein,product,1,1,0,0
+Poxvirus related late transcription factor VLTF3,product,1,0,0,1
+Putative DNA-binding protein HU-beta (ACLAME 290),note,1,1,0,0
+Putative VV A8L-like transcription factor,product,1,0,0,1
+Putative VV VLTF2-like transcription factor,product,1,0,0,1
+putative late transcription factor VLTF3-like protein,product,1,0,0,1
+putative late transcription factor; Description: homolog of vaccinia H5R and variola I5R,note,1,0,0,1
+putative polymerase sigma factor,product,1,1,0,0
+"putative product contains ATP- or GTP-binding motif; similar to poxvirus early transcription factor (VETF), large subunit; putative transcription factor",note,1,0,0,1
+putative product contains Zn finger C2H2; similar to the vaccinia virus late transcription factor A2; putative transcription factor,note,1,0,0,1
+putative replication/transcription factor,note,1,0,0,1
+putative sigma factor,note,1,1,0,0
+putative sigma factor protein,product,1,1,0,0
+putative transcription factor TF IIB,product,1,1,0,0
+putative transcription factor VLTF3,product,1,0,0,1
+putative transcriptional factor,product,1,1,0,0
+putative viral early transcription factor large subunit,product,1,0,0,1
+putative viral intermediate transcription factor 3 large subunit,product,1,0,0,1
+putative viral late transcription factor 3,product,1,0,0,1
+ref|XP_004057449.1| PREDICTED: general transcription factor 3C polypeptide 1 [Gorilla gorilla gorilla],note,1,0,0,1
+related to vaccinia virus strain Copenhagen A1L/vaccinia late gene transcription factor-2(VLTF-2),note,1,0,0,1
+related to vaccinia virus strain Copenhagen A23R/intermediate gene transcription factor-3(VITF-3),note,1,0,0,1
+related to vaccinia virus strain Copenhagen A2L/vaccinia late gene transcription factor-3(VLTF-3),note,1,0,0,1
+related to vaccinia virus strain Copenhagen A7L/vaccinia early transcription factor 82-kDa subunit,note,1,0,0,1
+related to vaccinia virus strain Copenhagen A8R/vaccinia intermediate gene transcription factor-3(VITF-3),note,1,0,0,1
+related to vaccinia virus strain Copenhagen D6R/vaccinia early transcription factor 70-kDa subunit,note,1,0,0,1
+similar to vacD6R (early transcription factor [VETF-1]),note,1,0,0,1
+small subunit viral early transcription factor,product,1,0,0,1
+small subunit viral intermediate transcription factor,product,1,0,0,1
+LSDV084 putative early transcription factor small subunit,product,1,0,0,1
+LSDV098 putative early transcription factor large subunit,product,1,0,0,1
+IHF subunit,product,1,1,0,0
+Late transcription factor (VLTF-2),product,1,0,0,1
+Late transcription factor (VLTF-3),product,1,0,0,1
+Late transcription factor VLTF-1,product,1,0,0,1
+Late transcription factor VLTF-2,product,1,0,0,1
+Late transcription factor VLTF-2 (2),product,1,0,0,1
+Late transcription factor VLTF-3,product,1,0,0,1
+Late transcription factor VLTF-4,product,1,0,0,1
+Late transcription factor VLTF-4 (1),product,1,0,0,1
+viral transcription factor 2,product,1,0,0,1
+"MYM-type zinc finger with FCS sequencing motif, VLTF2 type transcription factor",product,1,0,0,1
+MadR family response regulator transcription factor,product,1,0,1,0
+Major viral transcription factor,product,1,0,0,1
+Major viral transcription factor ICP4,product,1,0,0,1
+Late transcription factor,product,1,0,0,1
+similar to vacA8R (intermediate transcription factor [VITF-3]),note,1,0,0,1
+"ORF MSV063 putative early transcription factor large subunit homolog VETF-L (vaccinia A7L), similar to GB:X76265",product,1,0,0,1
+"ORF MSV113 putative early transcription factor small subunit VETF-S homolog (vaccinia D6R), similar to SW:P04308",product,1,0,0,1
+"ORF MSV187 putative late transcription factor VLTF-2 homolog (vaccinia A1L), similar to SW:P33814",product,1,0,0,1
+ORF061 late transcription factor VLTF-4,product,1,0,0,1
+ORF084 intermediate transcription factor VITF-3,product,1,0,0,1
+Orf XIV; regulates expression of phage structural components with transcription factor P13; similar to the C-terminal domain of archaeal RNA polymerase subunit M,note,1,1,0,0
+PEP-CTERM-box response regulator transcription factor,product,1,0,1,0
+Pox VLTF3 late transcription factor,product,1,0,0,1
+Pox-VLTF3-like transcription factor,product,1,0,0,1

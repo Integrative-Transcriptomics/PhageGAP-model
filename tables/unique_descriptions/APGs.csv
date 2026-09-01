@@ -1,0 +1,125 @@
+description,source,count,phg,bac,vir
+YjcZ family sporulation protein,product,25,0,25,0
+SpoVR family protein,product,24,0,24,0
+alpha/beta-type small acid-soluble spore protein,product,22,0,22,0
+stage II sporulation protein M,product,20,0,20,0
+spore coat protein,product,13,0,13,0
+YlmC/YmxH family sporulation protein,product,13,0,13,0
+sporulation protein,product,10,1,9,0
+GerW family sporulation protein,product,10,0,10,0
+YhcN/YlaJ family sporulation lipoprotein,product,9,0,9,0
+sporulation protein,annot (Pharokka),9,9,0,0
+CotS family spore coat protein,product,9,0,9,0
+SpoIIIAH-like family protein,product,8,0,8,0
+spore protease YyaC,product,8,0,8,0
+sporulation integral membrane protein YtvI,product,8,0,8,0
+stage V sporulation protein AD,product,8,0,8,0
+stage II sporulation protein P,product,8,0,8,0
+sporulation protein YqfD,product,7,0,7,0
+stage III sporulation protein AE,product,7,0,7,0
+stage V sporulation protein D,product,7,0,7,0
+stage III sporulation protein AC,product,7,0,7,0
+stage IV sporulation protein A,product,7,0,7,0
+"small, acid-soluble spore protein, alpha/beta type",product,7,0,7,0
+spore coat protein U domain-containing protein,product,7,0,7,0
+stage II sporulation protein R,product,7,0,7,0
+spore coat protein CotJB,product,7,0,7,0
+polysaccharide deacetylase family sporulation protein PdaB,product,6,0,6,0
+H-type small acid-soluble spore protein,product,6,0,6,0
+putative sporulation protein YtxC,product,6,0,6,0
+sporulation protein YqfC,product,6,0,6,0
+sporulation protein YunB,product,6,0,6,0
+sporulation peptidase YabG,product,6,0,6,0
+stage V sporulation protein T,product,6,0,6,0
+stage V sporulation protein AC,product,6,0,6,0
+stage V sporulation protein AE,product,6,0,6,0
+stage II sporulation protein E,product,6,0,6,0
+stage V sporulation protein S,product,6,0,6,0
+stage III sporulation protein AG,product,6,0,6,0
+stage III sporulation protein AD,product,6,0,6,0
+stage III sporulation protein AF,product,6,0,6,0
+stage III sporulation protein AA,product,6,0,6,0
+stage II sporulation protein D,product,5,0,5,0
+sporulation integral membrane protein YlbJ,product,5,0,5,0
+sporulation protein YabP,product,5,0,5,0
+stage V sporulation protein E,product,5,0,5,0
+stage V sporulation protein SpoVM,product,5,0,5,0
+sporulation membrane protein YtaF,product,5,0,5,0
+sporulation protein YpjB,product,4,0,4,0
+spore coat protein GerQ,product,4,0,4,0
+YtrH family sporulation protein,product,4,0,4,0
+YabP/YqfC family sporulation protein,product,4,0,4,0
+SsgA family sporulation/cell division regulator,product,4,0,4,0
+stage III sporulation protein SpoIIIAB,product,4,0,4,0
+stage V sporulation protein B,product,4,0,4,0
+sporulation protein YhbH,product,4,0,4,0
+stage VI sporulation protein F,product,4,0,4,0
+CotD family spore coat protein,product,3,0,3,0
+outer spore coat protein CotE,product,3,0,3,0
+small acid-soluble spore protein Tlp,product,3,0,3,0
+small acid-soluble spore protein SspI,product,3,0,3,0
+small acid-soluble spore protein P,product,3,0,3,0
+stage VI sporulation protein D,product,3,0,3,0
+sporulation protein Cse60,product,3,1,2,0
+stage V sporulation protein SpoVS,product,3,0,3,0
+stage V sporulation protein AA,product,3,0,3,0
+ice nucleation protein,product,2,1,1,0
+Spo0E family sporulation regulatory protein-aspartic acid phosphatase,product,2,0,2,0
+SpoVA/SpoVAEb family sporulation membrane protein,product,2,0,2,0
+YidC family membrane integrase SpoIIIJ,product,2,0,2,0
+sporulation inhibitor of replication protein SirA,product,2,0,2,0
+stage V sporulation protein K,product,2,0,1,1
+stage II sporulation protein SB,product,2,0,2,0
+stage V sporulation protein AB,product,2,0,2,0
+sporulation membrane protein YtrI,product,2,0,2,0
+spore protease,annot (Pharokka),2,2,0,0
+sporulation YhaL family protein,product,2,0,2,0
+sporulation protein YjcZ,product,2,0,2,0
+gamma-type small acid-soluble spore protein,product,2,0,2,0
+spore coat protein CotJC,product,2,0,2,0
+spore coat protein CotY,product,2,0,2,0
+"small acid-soluble spore protein, SasP family",product,2,0,2,0
+"small, acid-soluble spore protein K",product,2,0,2,0
+SpoIIIAC/SpoIIIAD family protein,product,1,0,1,0
+SpoVR,product,1,1,0,0
+V sporulation protein K,product,1,0,0,1
+YhzE/YjcZ family sporulation protein YosA,product,1,1,0,0
+YtxC-like sporulation protein,note,1,1,0,0
+Spore coat protein CotH,note,1,1,0,0
+SafA/ExsA family spore coat assembly protein,product,1,0,1,0
+CotA family spore coat protein,product,1,0,1,0
+CD1290 family small acid-soluble spore protein,product,1,0,1,0
+SCO2102 family sporulation regulator,product,1,0,1,0
+CotO family spore coat protein,product,1,0,1,0
+spore coat protein W,product,1,0,1,0
+spore coat protein CotS,product,1,0,1,0
+spore coat protein CotF,product,1,0,1,0
+small acid-soluble spore protein; SASP superfamily,note,1,1,0,0
+spore coat assembly,product,1,1,0,0
+spore coat protein,annot (Pharokka),1,1,0,0
+spore coat protein C,product,1,0,1,0
+spore coat protein CotB,product,1,0,1,0
+insect antifreeze protein,product,1,1,0,0
+acid-soluble spore protein SspC,product,1,1,0,0
+acid-soluble spore protein SspF,product,1,0,1,0
+acid-soluble spore protein SspO,product,1,0,1,0
+small acid-soluble spore protein,product,1,1,0,0
+"putative stage V sporulation protein K, AAA ATPase superfamily",product,1,0,0,1
+acid-soluble spore protein H,product,1,0,1,0
+acid-soluble spore protein N,product,1,0,1,0
+sporulation-delaying protein SdpB family protein,product,1,0,1,0
+sporulation protein SpoIID,product,1,0,1,0
+sporulation phosphorelay system protein KapB,product,1,0,1,0
+sporulation initiation phosphotransferase Spo0F,product,1,0,1,0
+sporulation initiation phosphotransferase B,product,1,0,1,0
+sporulation killing factor,product,1,0,1,0
+sporulation killing factor system integral membrane protein,product,1,0,1,0
+spore coat protein YsxE,product,1,0,1,0
+sporulation initiation inhibitor protein Soj,product,1,0,1,0
+sporulation initiation factor Spo0A C-terminal domain-containing protein,product,1,0,1,0
+spore coat protein/internalin/CotH kinase-like protein,product,1,1,0,0
+sporulation killing factor system radical SAM maturase,product,1,0,1,0
+stage V sporulation T C-terminal domain-containing protein,product,1,0,1,0
+stage III sporulation protein AB,product,1,0,1,0
+stage V sporulation protein SpoVR,product,1,0,1,0
+stage V sporulation protein SpoVAB,product,1,0,1,0

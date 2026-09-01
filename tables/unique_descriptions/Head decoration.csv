@@ -1,0 +1,35 @@
+description,source,count,phg,bac,vir
+Hoc-like head decoration,annot (Pharokka),217,217,0,0
+head decoration,annot (Pharokka),136,136,0,0
+head decoration protein,product,11,11,0,0
+outer capsid protein/viral fiber,product,6,6,0,0
+similar to bacteriophage T4 Soc small outer capsid protein,note,4,4,0,0
+capsid decoration protein,product,4,4,0,0
+outer capsid protein,product,4,4,0,0
+putative head decoration protein,product,3,3,0,0
+capsid accessory protein,product,3,3,0,0
+head decoration protein,annot (Pharokka),3,3,0,0
+head outer capsid protein,product,2,2,0,0
+head decoration protein (Soc),note,2,2,0,0
+putative outer capsid protein,product,2,2,0,0
+Bacteriophage lambda head decoration protein D; Region: HDPD; pfam02924,note,1,1,0,0
+Soc; coliphage T4 Soc small outer capsid protein homolog,note,1,1,0,0
+Hoc-like head decoration protein,product,1,1,0,0
+"Sequence similarity to Vibriophage VP2 putative outer capsid protein (YP_024425); provided by Dr. Andrew M. Kropinski (Queen's University, Ontario)",note,1,1,0,0
+PVOGs: VOG5405; putative small outer capsid protein soc.2 [Shigella phage Shfl2],note,1,1,0,0
+capsid protein gpD,product,1,1,0,0
+"gp232; putative capsid decoration, structural",note,1,1,0,0
+capsid decoration protein,note,1,1,0,0
+capsid decoration protein (banana),note,1,1,0,0
+capsid decoration,note,1,1,0,0
+Soc; similar to Enterobacteria phage RB69 Soc small outer capsid protein oin NP_861717.1,note,1,1,0,0
+T4 Soc small outer capsid protein-like,note,1,1,0,0
+best matched to putative small outer capsid protein in Escherichia phage HY01,note,1,1,0,0
+putative capsid decoration protein,product,1,1,0,0
+outer capsid protein-like protein,product,1,1,0,0
+similar to Soc small outer capsid protein [Escherichia phage JS98],note,1,1,0,0
+putative small outer capsid protein soc.2,note,1,1,0,0
+similar to Soc small outer capsid protein of Enterobacteria phage RB69,note,1,1,0,0
+"similar to small outer capsid protein [Yersinia phage PST], conserved domain Soc pfam16855",note,1,1,0,0
+"similar to small outer capsid protein from Escherichia phage wV7 (AEM00691.1), Enterobacteria phage RB69 (NP_861717.1), Enterobacteria phage T4 (NP_049644.1)",note,1,1,0,0
+soc - small outer capsid protein,note,1,1,0,0

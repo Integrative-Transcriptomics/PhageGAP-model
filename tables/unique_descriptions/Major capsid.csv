@@ -1,0 +1,44 @@
+description,source,count,phg,bac,vir
+major head protein,annot (Pharokka),1786,1786,0,0
+major capsid protein,product,51,51,0,0
+"major capsid protein, P2 family",product,20,20,0,0
+major capsid protein,note,8,8,0,0
+putative major capsid protein,product,8,8,0,0
+major virion structural protein,product,4,4,0,0
+major coat protein,product,4,4,0,0
+major capsid pentamer protein,product,4,4,0,0
+major head protein,product,4,4,0,0
+major coat protein,annot (Pharokka),3,3,0,0
+putative major virion structural protein,product,2,2,0,0
+major capsid domain-containing protein,product,2,2,0,0
+putative major head protein,product,2,2,0,0
+homolog of phiCh1_ORF11 and of Nmag_4260; major capsid protein HP32,note,1,1,0,0
+large major capsid protein; ORF 17,note,1,1,0,0
+main capsid protein,product,1,1,0,0
+ORF243; Major capsid protein Gp23,note,1,1,0,0
+N4-gp56 family major capsid protein,product,1,1,0,0
+Major capsid protein (gp35),note,1,1,0,0
+Major capsid,note,1,1,0,0
+BLASTp similarity to phage T4 NP_049649.1 gene_23 major capsid protein,note,1,1,0,0
+A0A2I7RQD1 Major capsid protein [Vibrio phage 1.214.O._10N.222.54.F11],note,1,1,0,0
+best blastp hit: gb|AAB50027.1| (U01899) major capsid protein [Leishmania RNA virus 1-4],note,1,1,0,0
+bacteriophage major capsid protein; Lambda gpE homolog,product,1,1,0,0
+major capsid protein N,product,1,1,0,0
+major capsid protein gpE; corresponds to phiCh1 ORF11 and to Nmag_4260; homolog of PhiH1_045,note,1,1,0,0
+major capsid protein,annot (Pharokka),1,1,0,0
+major capsid-like protein,product,1,1,0,0
+major capsid/head protein,product,1,1,0,0
+major capsid protein; gp39,note,1,1,0,0
+major capsid protein; region of aa 1..179 identical to region of aa 24..202 of previously predicted product of orf61 of P1 Swissprot:INCB_ECOLI,note,1,1,0,0
+major capsid protein-like protein,product,1,1,0,0
+major capsid,note,1,1,0,0
+major head protein,note,1,1,0,0
+mp4; orf37; major head protein,note,1,1,0,0
+phage major capsid protein,product,1,1,0,0
+orf4; similar to N of P2:major capsid protein,note,1,1,0,0
+putative major coat protein,note,1,1,0,0
+putative major capsid protein; similar to Sf11_gp39,note,1,1,0,0
+similar to YP_001956757.1 major virion structural protein [Pseudomonas phage 201phi2-1],note,1,1,0,0
+small major capsid protein; ORF 16,note,1,1,0,0
+structural protein /major capsid protein (VirFam),note,1,1,0,0
+translation confirmed by N-terminal sequencing; putative major head protein,note,1,1,0,0

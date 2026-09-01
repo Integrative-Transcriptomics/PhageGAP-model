@@ -1,0 +1,144 @@
+description,source,count,phg,bac,vir
+host range and adsorption protein,annot (Pharokka),126,126,0,0
+tail fiber protein host specificity,annot (Pharokka),80,80,0,0
+receptor binding tail protein,annot (Pharokka),78,78,0,0
+structural protein with Ig domain,annot (Pharokka),51,51,0,0
+Ig domain containing protein,annot (Pharokka),45,45,0,0
+major tail protein with Ig-like domain,annot (Pharokka),39,39,0,0
+lectin,annot (Pharokka),32,32,0,0
+tail fiber adhesin,annot (Pharokka),24,24,0,0
+tail fiber protein and host specificity,annot (Pharokka),18,18,0,0
+protein with Ig domain,annot (Pharokka),15,15,0,0
+PblB-type receptor binding,annot (Pharokka),12,12,0,0
+adhesin,annot (Pharokka),11,11,0,0
+hemagglutinin,annot (Pharokka),11,11,0,0
+Ig-like domain-containing protein,product,7,7,0,0
+tail protein and host specificity,annot (Pharokka),7,7,0,0
+Adhesion protein B (AdpB),note,6,6,0,0
+putative lectin-like domain protein,product,5,5,0,0
+internalin receptor-binding protein-like protein,product,4,4,0,0
+putative adsorption associated tail protein,product,4,4,0,0
+adhesion protein A,product,3,3,0,0
+tail fiber protein Ig-domain containing,annot (Pharokka),3,3,0,0
+"putative membrane protein, contains peptidoglycan-binding domain",product,3,3,0,0
+putative carbohydrate binding protein,product,3,3,0,0
+putative lectin,product,3,3,0,0
+YadA domain-containing protein,product,3,3,0,0
+LPXTG cell wall anchor domain-containing protein,product,3,3,0,0
+ConA-like lectin/glucanase,product,3,3,0,0
+von Willebrand factor type A domain protein,product,3,3,0,0
+InterProScan IPR013320 concanavalin A-like lectin/glucanase domain superfamily,note,2,2,0,0
+putative adhesin,product,2,2,0,0
+putative RNA ligase and tail attachment protein,product,2,2,0,0
+receptor binding,product,2,2,0,0
+similar by BLASTp to phage lambda tip attachment protein J (SwissProt P03749) and to phage T1 gp33 (NCBI YP_003912.1),note,2,2,0,0
+putative vWa containing protein,product,2,2,0,0
+contains Ig-like domain,note,2,2,0,0
+adhesin,product,2,2,0,0
+Pfam:pfam13385 Concanavalin A-like lectin/glucanases superfamily,note,2,2,0,0
+carbohydrate binding domain protein,product,2,2,0,0
+attachment protein,annot (Pharokka),2,2,0,0
+host specificity protein,product,2,2,0,0
+concanavalin A-like lectin/glucanase superfamily protein,product,2,2,0,0
+BACON (bacteroidetes-Associated Carbohydrate-binding) domain containing protein,product,1,1,0,0
+Ig-like domain-containing structural protein,product,1,1,0,0
+Bacterial Ig-like domain (group 2) (PF02368) found,note,1,1,0,0
+COG5492 bacterial surface proteins containing Ig-like domains,note,1,1,0,0
+Contains immunoglobulin-like domain,note,1,1,0,0
+DUF303-containing protein; maturation/adhesion protein,note,1,1,0,0
+ORF127; host specificity protein,note,1,1,0,0
+LPXTG cell wall anchor domain containing protein,product,1,1,0,0
+Ig domain-containing protein,product,1,1,0,0
+"contains von Willebrand factor, type A",note,1,1,0,0
+containing Bacteroidetes-associated carbohydrate-binding often N-terminal domain; PF13004,note,1,1,0,0
+contains immunoglobulin-like fold and fibronectin type III,note,1,1,0,0
+"contains immunoglobulin subtype 2, immunoglobulin subtype, immunoglobulin-like and immunoglobulin-like fold domains",note,1,1,0,0
+containing voncanavalin A-like lectin/glucanases superfamily; cl0010,note,1,1,0,0
+"gp_13152; similar to internalin, receptor-binding protein",note,1,1,0,0
+"gp_19845; putative membrane protein, contains peptidoglycan-binding domain [crAssphage_NC_024711]",note,1,1,0,0
+gp163; contains fibronectin type III domains; identified as virion protein by mass spectrometry,note,1,1,0,0
+gp164; contains bacterial von Willebrand domain; identified as virion protein by mass spectrometry,note,1,1,0,0
+gp165; contains fibronectin type III domains; identified as virion protein by mass spectrometry,note,1,1,0,0
+containing carbohydrate binding domain; pfam02839,note,1,1,0,0
+"contains von Willebrand factor, type A domain and domain of unknown function DUF2828",note,1,1,0,0
+fibronectin type III domain containing protein,product,1,1,0,0
+antireceptor,product,1,1,0,0
+adsorption protein,product,1,1,0,0
+adsorption associated protein,product,1,1,0,0
+YadA domain structural protein,product,1,1,0,0
+carbohydrate-binding protein CenC,product,1,1,0,0
+cell adhesion protein,product,1,1,0,0
+bacterial Ig-like domain family protein,product,1,1,0,0
+c-type lectin precursor,product,1,1,0,0
+cell-wall binding protein,product,1,1,0,0
+cell wall anchor protein,product,1,1,0,0
+Von Willebrand factor type A domain,product,1,1,0,0
+Von Willebrand factor A-like domain,note,1,1,0,0
+YP_007011007.1 host specificity protein J [Salmonella phage SPN3UB]; CDs: COG4733; Phage-tail_3 pfam13550,note,1,1,0,0
+Von Willebrand-like domain,note,1,1,0,0
+ORF128; host specificity protein,note,1,1,0,0
+Von Willebrand Factot-like,note,1,1,0,0
+outer membrane adhesin like protein,product,1,1,0,0
+lectin-like sugar binding domain,product,1,1,0,0
+lectin C-type domain-containing protein,product,1,1,0,0
+"immunoglobulin-like domain, IPR007110; putative tail protein",note,1,1,0,0
+immunoglobulin-like domain; IPR07110; putative tail protein,note,1,1,0,0
+hemagglutinin protein,product,1,1,0,0
+host specificity protein J; phage phiE125 gp21-like,note,1,1,0,0
+immunoglobulin domain-containing protein,product,1,1,0,0
+hemagglutinin,product,1,1,0,0
+host attachment protein,product,1,1,0,0
+"gp_22975; putative membrane protein, contains peptidoglycan-binding domain [crAssphage_NC_024711]",note,1,1,0,0
+gp_23357; Contains von Willebrand factor type A-likedomain [phiCrAss001],note,1,1,0,0
+gp_25421; Contains von Willebrand factor type A-likedomain [phiCrAss001],note,1,1,0,0
+gp_25422; Contains von Willebrand factor type A-likedomain [phiCrAss001],note,1,1,0,0
+"gp_67120; similar to internalin, receptor-binding protein",note,1,1,0,0
+"gp_76688; similar to internalin, receptor-binding protein",note,1,1,0,0
+gp26; found by mass spectrometry in mature virions; similar to Enterobacteria phage lambda gpJ; the end of the protein would be the host antireceptor; in more closely related phages (for example YuA) the N-terminal domain is encoded in a separate gene,note,1,1,0,0
+gp198; contains fibronectin type III domain; low copy number virion structural protein detected by mass spectrometry,note,1,1,0,0
+gp166; contains fibronectin type III domains; identified as virion protein by mass spectrometry,note,1,1,0,0
+putative adsorption associated tail protein,note,1,1,0,0
+putative Ig domain-containing protein,product,1,1,0,0
+putative LPXTG cell wall anchor protein,product,1,1,0,0
+putative Ig-domain containing protein,product,1,1,0,0
+putative LPXTG cell wall anchor,product,1,1,0,0
+"protein motif: RicinB_lectin_2[pfam14200],Ricin-type beta-trefoil lectin domain-like",note,1,1,0,0
+possible peptidoglycan binding domain,note,1,1,0,0
+putative C-type lectin,product,1,1,0,0
+peptidoglycan-binding domain 1 protein,product,1,1,0,0
+possible carbohydrate binding protein,note,1,1,0,0
+possible host specificity factor,product,1,1,0,0
+plectin 1,product,1,1,0,0
+peptidoglycan-binding domain containing protein,product,1,1,0,0
+putative peptidoglycan-binding protein,product,1,1,0,0
+putative peptidoglycan binding domain comtaining protein,product,1,1,0,0
+putative hemagglutinin protein,product,1,1,0,0
+putative hydrolase with a peptidoglycan binding domain,product,1,1,0,0
+putative cell wall binding repeat domain protein,note,1,1,0,0
+putative carbohydrate binding family 25,product,1,1,0,0
+putative carbohydrate-binding CenC domain containing protein,product,1,1,0,0
+putative cell wall binding,note,1,1,0,0
+putative adsorption protein,product,1,1,0,0
+putative carbohydrate binding domain containing protein,product,1,1,0,0
+putative carbohydrate binding domain protein,product,1,1,0,0
+receptor binding protein,product,1,1,0,0
+putative von Willebrand A domain protein,product,1,1,0,0
+putative von Willebrand factor protein,product,1,1,0,0
+putative tail attachment protein,product,1,1,0,0
+putative receptor binding protein,product,1,1,0,0
+similar to YP_001504150.1 putative adsorption associated tail protein [Enterococcus phage phiEF24C] and AAY53340.1 gp37 [Listeria phage P100]; postulated structural protein by similarity with Listeria phage A511 structural proteins,note,1,1,0,0
+"similar to WP_006253544.1 phage-like protein, tail component [Mannheimia haemolytica] and less similar to YP_007883462.1 host specificity protein J [Mannheimia haemolytica M42548]; motifs: 2 transmembrane domains shown by Phobius and TMHMM2.0",note,1,1,0,0
+"similar to Frankia alni SGNH hydrolase domain containing protein, N-terminal domain similar to P-SSM4 tail fiber N-terminus, SGNA hydrolase domain, concanavalin A-like lectin/glucanase domain",note,1,1,0,0
+ricin-type beta-trefoil lectin domain protein,product,1,1,0,0
+receptor binding protein 1,product,1,1,0,0
+receptor recognizing protein Gp38,product,1,1,0,0
+putative von Willebrand factor type A domain-containing protein,product,1,1,0,0
+similar to YP_003347929.1 host specificity protein B in Vibrio phage N4,note,1,1,0,0
+structural protein with Ig domain,product,1,1,0,0
+"similar to YP_006382781.1 hypothetical protein Lu11_0246 [Pseudomonas phage Lu11]; Laminin_G_3[pfam13385], Concanavalin A-like lectin/glucanases superfamily",note,1,1,0,0
+similar to YP_008338593.1 host specificity protein J [Mannheimia haemolytica USMARC_2286] at N-terminus,note,1,1,0,0
+similar to YP_008338883.1 host specificity protein J [Mannheimia haemolytica USMARC_2286] and WP_021265443.1 host specificity protein J [Mannheimia haemolytica],note,1,1,0,0
+"tail tip attachment protein; gp28; phage lambda tip attachment protein GpJ-like, pfam13550; contains domain of unknown function DUF1983, pfam09327",note,1,1,0,0
+von Willebrand factor type A domain containing protein,product,1,1,0,0
+"von Willebrand factor type A, metal binding domain",note,1,1,0,0
+von Willebrand factor type A-like domain containing protein,product,1,1,0,0

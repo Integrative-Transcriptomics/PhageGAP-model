@@ -1,0 +1,29 @@
+description,source,count,phg,bac,vir
+queuine tRNA-ribosyltransferase,annot (Pharokka),56,56,0,0
+tRNA amidotransferase,annot (Pharokka),49,49,0,0
+tRNA nucleotidyltransferase,annot (Pharokka),46,46,0,0
+cef modifier of supressor tRNAs,annot (Pharokka),37,37,0,0
+tRNA-His guanylyltransferase,annot (Pharokka),24,24,0,0
+tRNA methyltransferase,annot (Pharokka),18,18,0,0
+queuine tRNA-ribosyltransferase,product,4,4,0,0
+putative polyA polymerase,product,3,3,0,0
+RNA chaperone Hfq,product,1,1,0,0
+16S rRNA (guanine(527)-N(7))-methyltransferase,product,1,1,0,0
+RNA (guanine-N1-)-methyltransferase,product,1,1,0,0
+"Additional blast search was run through Uniprot and found very low homology to glutamyl-tRNA amidotransferase against many bacillus phages, but not significant enough to associate that function with the protein this gene codes for",note,1,1,0,0
+putative mRNA capping enzyme,product,1,1,0,0
+putative glutamyl-tRNA amidotransferase subunit B,product,1,1,0,0
+putative RNA methyltransferase,product,1,1,0,0
+putative RNA chaperone,product,1,1,0,0
+probable poly A polymerase,product,1,1,0,0
+guanylyltransferase,product,1,1,0,0
+fibrillarin-like rRNA/tRNA 2'-O-methyltransferase,product,1,1,0,0
+putative poly A polymerase,product,1,1,0,0
+tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD,product,1,1,0,0
+similar to WP_018108780 Cysteinyl-tRNA(Pro) deacylase [Bacteroides propionicifacienaciens],note,1,1,0,0
+putative rRNA methyltransferase,product,1,1,0,0
+putative tRNA nucleotidyltransferase,product,1,1,0,0
+tRNA (cytosine34-2-O-)-methyltransferase,product,1,1,0,0
+tRNA(Ile2) C34 agmatinyltransferase,product,1,1,0,0
+tRNA(Met) cytidine acetyltransferase,product,1,1,0,0
+tRNA-specific adenosine deaminase,product,1,1,0,0

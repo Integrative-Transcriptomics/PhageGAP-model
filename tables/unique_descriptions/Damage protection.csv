@@ -1,0 +1,72 @@
+description,source,count,phg,bac,vir
+Hsp20 heat shock protein,annot (Pharokka),52,52,0,0
+RecA filament binding protein DinI,annot (Pharokka),20,20,0,0
+UmuD-like protein,annot (Pharokka),13,13,0,0
+cold shock protein,annot (Pharokka),8,8,0,0
+regulatory protein RecX,product,7,7,0,0
+peroxyredoxin antioxidant,annot (Pharokka),7,7,0,0
+Hsp70 heat shock protein,annot (Pharokka),6,6,0,0
+peptide methionine sulfoxide reductase,annot (Pharokka),6,6,0,0
+putative heat shock protein,product,6,6,0,0
+heme oxygenase,product,5,5,0,0
+SOS response-associated peptidase family protein,product,5,5,0,0
+heat shock protein,product,4,4,0,0
+quinone oxidoreductase TQO,annot (Pharokka),4,4,0,0
+SUMF1/EgtB/PvdO family nonheme iron enzyme,product,4,4,0,0
+prohibitin family protein,product,4,4,0,0
+SOS response-associated peptidase,product,3,3,0,0
+RecX-like filament modulator,annot (Pharokka),3,3,0,0
+stress protein,product,2,2,0,0
+putative heat shock protein 40,product,2,2,0,0
+stress response protein,product,2,2,0,0
+shock protein B,product,2,2,0,0
+"ATPase proteolipid family, phage shock protein B",product,2,2,0,0
+"COG0330 Membrane protease subunits, stomatin/prohibitin homologs",note,1,1,0,0
+DnaK suppressor protein,product,1,1,0,0
+"DivIVA protein motif; HflC protein motif; InterPro:IPR001107; SPFH like superfamily, Prohibitin family; SPFH superfamily Serine Protease",note,1,1,0,0
+DNA-damage-inducible protein D,product,1,1,0,0
+DNA damage inducible protein D-like protein,product,1,1,0,0
+COG0649 NADH:ubiquinone oxidoreductase 49 kD subunit 7,note,1,1,0,0
+SPBc2 prophage-derived stress response protein SCP1,product,1,1,0,0
+YgiW/YdeI family stress tolerance OB fold protein,product,1,1,0,0
+"domain: SPFH_prohibitin, (stomatin, prohibitin, flotillin, and HflK/C) superfamily; domain: Band 7, this family has been called SPFH, Band 7 or PHB domain.",note,1,1,0,0
+UV radiation resistance protein,product,1,1,0,0
+NADH-quinone oxidoreductase,product,1,1,0,0
+"ORF305; SPFH-like superfamily: core domain of stomatin, prohibitin, flotillin, HflK/C superfamily",note,1,1,0,0
+Lipocalin Blc,product,1,1,0,0
+Hsp20 heat shock protein,product,1,1,0,0
+PspA/IM30 family protein,product,1,1,0,0
+NAD(P)H-quinone oxidoreductase subunit I,product,1,1,0,0
+General stress protein 16U,product,1,1,0,0
+gp_78264; Regulatory protein RecX,note,1,1,0,0
+gp_77328; Regulatory protein RecX,note,1,1,0,0
+gp_76786; Regulatory protein RecX,note,1,1,0,0
+gp_75775; Regulatory protein RecX,note,1,1,0,0
+gp_75595; Regulatory protein RecX,note,1,1,0,0
+gp_72986; Regulatory protein RecX,note,1,1,0,0
+gp_67436; Regulatory protein RecX,note,1,1,0,0
+gp_67371; Regulatory protein RecX,note,1,1,0,0
+gp_67227; Regulatory protein RecX,note,1,1,0,0
+gp_67202; Regulatory protein RecX,note,1,1,0,0
+gp_05189; regulatory protein RecX,note,1,1,0,0
+general stress protein,product,1,1,0,0
+membrane protease subunit stomatin/prohibitin,product,1,1,0,0
+hydroperoxy fatty acid reductase,product,1,1,0,0
+heat shock protein ATPase subunit HslU domain-containing protein,product,1,1,0,0
+gp_91186; Regulatory protein RecX,note,1,1,0,0
+putative TerD-like bacterial stress protein,product,1,1,0,0
+phage shock protein B,product,1,1,0,0
+peptide-methionine (R)-S-oxide reductase MsrB,product,1,1,0,0
+gp_78355; Regulatory protein RecX,note,1,1,0,0
+heat shock ClpB-like protein,product,1,1,0,0
+putative shock protein A,product,1,1,0,0
+putative heat shock protein ATPase subunit HsIU domain-containing protein,product,1,1,0,0
+putative multiple stress resistance protein,product,1,1,0,0
+rubrerythrin family protein,product,1,1,0,0
+putative stress protein,product,1,1,0,0
+putative phage-shock protein,product,1,1,0,0
+shock protein C,product,1,1,0,0
+small heat shock-like protein,product,1,1,0,0
+small heat shock protein,product,1,1,0,0
+sodCI,vfdb_short_name (VFDB),1,1,0,0
+superoxide dismutase precursor,annot (Pharokka),1,1,0,0

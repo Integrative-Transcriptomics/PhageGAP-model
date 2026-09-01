@@ -1,0 +1,237 @@
+description,source,count,phg,bac,vir
+YopX family protein,product,66,63,2,1
+patatin-like phospholipase family protein,product,55,0,55,0
+ShlB/FhaC/HecB family hemolysin secretion/activation protein,product,41,0,41,0
+autotransporter outer membrane beta-barrel domain-containing protein,product,38,0,38,0
+hemolysin,annot (Pharokka),38,38,0,0
+Hcp family type VI secretion system effector,product,29,0,29,0
+Fic family protein,product,28,4,24,0
+hemolysin family protein,product,22,0,22,0
+phospholipase D family protein,product,19,0,19,0
+phospholipase D-like domain-containing protein,product,19,0,19,0
+type I secretion system permease/ATPase,product,18,1,17,0
+YopX protein,product,18,18,0,0
+autotransporter assembly complex protein TamA,product,16,0,16,0
+ADP-ribosyltransferase exoenzyme toxin,annot (Pharokka),16,16,0,0
+MazF-like growth inhibitor,annot (Pharokka),16,16,0,0
+Zot-like toxin,annot (Pharokka),15,15,0,0
+patatin-like phospholipase,product,13,0,0,13
+putative hemolysin,product,13,0,13,0
+autotransporter assembly complex protein TamB,product,13,0,13,0
+inverse autotransporter beta domain-containing protein,product,11,0,11,0
+phospholipase A,product,10,0,10,0
+lysophospholipase L2,product,9,0,9,0
+multifunctional acyl-CoA thioesterase I/protease I/lysophospholipase L1,product,8,0,8,0
+putative patatin-like phospholipase,product,8,0,0,8
+enolase C-terminal domain-like protein,product,8,0,8,0
+haemolysin-type calcium binding,annot (Pharokka),7,7,0,0
+phosphocholine-specific phospholipase C,product,7,0,7,0
+YopX-like protein,product,6,5,0,1
+phospholipase effector Tle1 domain-containing protein,product,6,0,6,0
+autotransporter domain-containing protein,product,6,0,6,0
+phospholipase,product,6,0,2,4
+putative zonula occludens toxin,product,6,6,0,0
+VIP2-like toxin,product,5,5,0,0
+hemolysin,product,5,5,0,0
+ShET2/EspL2 family type III secretion system effector toxin,product,5,0,5,0
+autotransporter family protein,product,4,0,4,0
+Patatin-like phospholipase,product,4,0,0,4
+AvrE-family type 3 secretion system effector,product,4,0,4,0
+phospholipase-D-like protein,product,4,0,0,4
+patatin-like phospholipase RssA,product,4,0,4,0
+enterotoxin type A / speL,annot (Pharokka),4,4,0,0
+XopAD/skwp family type III secretion system effector,product,4,0,4,0
+T6SS phospholipase effector Tle1-like catalytic domain-containing protein,product,4,0,4,0
+T3SS secreted effector Ibe,annot (Pharokka),4,4,0,0
+patatin-like phospholipase-like protein,product,3,0,0,3
+phospholipase D family nuclease,product,3,0,3,0
+cytolethal distending toxin B subunit,annot (Pharokka),3,3,0,0
+phosphatidylinositol-specific phospholipase C,product,3,0,3,0
+type III secretion system effector XopP,product,3,0,3,0
+zinc dependent phospholipase C family protein,product,3,0,3,0
+putative patatin phospholipase,product,3,0,0,3
+putative ADP-ribosyl transferase,product,3,3,0,0
+ESX secretion-associated protein EspG,product,3,1,2,0
+T3SS effector NleG family protein,product,3,1,2,0
+autotransporter serine protease,product,3,0,3,0
+nleG7,vfdb_short_name (VFDB),2,2,0,0
+phospholipase-D-like protein K4,product,2,0,0,2
+phospholipase D,product,2,0,2,0
+VolA/Pla-1 family phospholipase,product,2,0,2,0
+XopG/HopH/AvrPtoH family type III secretion system effector,product,2,0,2,0
+patatin-like phospholipase,note,2,0,0,2
+hemolysin-like protein,product,2,0,0,2
+glycohydrolase toxin TNT-related protein,product,2,1,1,0
+lukD,vfdb_short_name (VFDB),2,2,0,0
+lysophospholipase,note,2,0,0,2
+nleH2,vfdb_short_name (VFDB),2,2,0,0
+nleA/espI,vfdb_short_name (VFDB),2,2,0,0
+putative type VI secretion system effector,product,2,0,2,0
+stx2B,vfdb_short_name (VFDB),2,2,0,0
+putative inverse autotransporter beta-barrel domain-containing protein,product,2,2,0,0
+spherulation-specific family 4 protein,product,2,0,2,0
+type VI secretion system effector Hcp1,product,2,0,2,0
+type III secretion system effector XopQ,product,2,0,2,0
+slt-IIcA,vfdb_short_name (VFDB),2,2,0,0
+phosphatidylinositol-specific phospholipase C domain-containing protein,product,2,0,2,0
+putative YopX protein,product,2,2,0,0
+Patatin phospholipase,product,2,0,0,2
+Shiga toxin subunit A,annot (Pharokka),2,2,0,0
+autotransporter domain-containing esterase,product,2,0,2,0
+cdtC,vfdb_short_name (VFDB),2,2,0,0
+cdtA,vfdb_short_name (VFDB),2,2,0,0
+autotransporter,product,2,1,1,0
+YopX domain protein,note,2,2,0,0
+XopX family type III secretion system effector,product,2,0,2,0
+XopAG/AvrGf1 family type III secretion system effector,product,2,0,2,0
+autotransporter strand-loop-strand O-heptosyltransferase,product,2,0,2,0
+CBASS cGAMP-activated phospholipase,product,2,0,2,0
+HBL/NHE enterotoxin family protein,product,2,0,2,0
+ORF B41; similar to phagephi-C3208 enterohemolysin 2,note,1,1,0,0
+ORF C47; similar to enterohemolysin 2,note,1,1,0,0
+ORF b35; similar to phage lambda Ea22; similar to phagephi-C3208 enterohemolysin-associated protein,note,1,1,0,0
+ORF b47; similar to phagephi-C3208 enterohemolysin2,note,1,1,0,0
+T1SS secreted agglutinin RTX,product,1,1,0,0
+Shiga toxin subunit B,annot (Pharokka),1,1,0,0
+"Secreted protein Ear, superantigen-encoding pathogenicity islands SaPI",note,1,1,0,0
+RTX family hemolysin,product,1,0,1,0
+Palmytilated EEV envelope phospholipase-like protein,product,1,0,0,1
+Phage-encoded phospholipase (ACLAME 172),note,1,1,0,0
+Phospholipase-D-like protein,product,1,0,0,1
+Phospholipase/Carboxylesterase,product,1,0,0,1
+ORF011 putative EEV envelope phospholipase,product,1,0,0,1
+ORF52; similar to phospholipase B (Coprinopsis cinerea okayama7#130),note,1,1,0,0
+"Lysophospholipase, AB abhydrolase",product,1,0,0,1
+MazF-like growth inhibitor,product,1,0,0,1
+ADP-ribosyltransferase,annot (Pharokka),1,1,0,0
+33; similar to YP_002550344 phospholipase [Agrobacterium vitis S4] & NP_049763 gp5.4 Conserved hypothetical protein [Enterobacteria phage T4],note,1,1,0,0
+EEV envelope phospholipase-like protein,product,1,0,0,1
+ADP-ribosyl transferase,product,1,1,0,0
+enterotoxin CtxB,annot (Pharokka),1,1,0,0
+enterotoxin CtxA,annot (Pharokka),1,1,0,0
+eno,vfdb_short_name (VFDB),1,1,0,0
+eev envelope phospholipase,product,1,0,0,1
+cif,vfdb_short_name (VFDB),1,1,0,0
+botulinum neurotoxin hemagglutinin HA70 subunit,product,1,1,0,0
+calcium-binding hemolysin protein,product,1,1,0,0
+capsid protein with phospholipase A2 motif,note,1,0,0,1
+autotransporter-associated beta strand repeat-containing protein,product,1,0,1,0
+beta-hemolysin,product,1,1,0,0
+bont,vfdb_short_name (VFDB),1,1,0,0
+autophagy evasion T3SS effector BopA,product,1,0,1,0
+"Zot-like protein; ORF IX; Phage protein involved in morphogenesis. In the same position and same size as the gene encoding the pI protein of F+-specific phage M13 and other filamentous phages. All these proteins have a nucleotide triphosphate-binding site. pI is a inner membrane protein. The N-termini of members of this cluster share homology to the zonular occludens toxin (Zot) encoded by phage CTXphi. However, the toxin activity of Zot was mapped to the C terminus, which is divergent in the proteins in this cluster",note,1,1,0,0
+ace,vfdb_short_name (VFDB),1,1,0,0
+autotransporter BatA,product,1,0,1,0
+autotransporter YapG,product,1,0,1,0
+autotransporter BcaA,product,1,0,1,0
+autotransporter YapA,product,1,0,1,0
+Taxonomic breadth: chordopoxvirinae; Old product: C5L; lysophospholipase-like; Monoglyceride lipase; similar to VACV-WR C5L and VACV-Cop K5L,note,1,0,0,1
+VIP2-like actin-ADP-ribosylating toxin,product,1,0,0,1
+T3SS effector protein EspN,annot (Pharokka),1,1,0,0
+T3SS effector guanine nucleotide exchange factor EspM2,product,1,1,0,0
+XopE/AvrPphe family type III secretion system effector,product,1,0,1,0
+XopAP family type III secretion system effector,product,1,0,1,0
+YopX,product,1,1,0,0
+YopT family protein,product,1,1,0,0
+XopZ family type III secretion system effector,product,1,0,1,0
+XopV/AopV family type III secretion system effector,product,1,0,1,0
+YopX domain found (PF09643),note,1,1,0,0
+YopX-family protein,product,1,1,0,0
+"YopX[pfam09643], YopX protein",note,1,1,0,0
+Zot-like protein,product,1,1,0,0
+T3SS effector cysteine protease YopT,product,1,0,1,0
+T3SS effector cysteine hydrolase SpvD family protein,product,1,0,1,0
+T3SS effector protein Map,product,1,0,1,0
+T6SS effector phospholipase Tle3 domain-containing protein,product,1,0,1,0
+Taxonomic breadth: chordopoxvirinae; Old product: C19L; major envelope antigen of EEV; wrapping of IMV to form IEV; phospholipase D-like; Palmitylated EEV membrane glycoprotein; similar to VACV-WR C19L and VACV-Cop F13L,note,1,0,0,1
+VIP2; Actin-ADP-ribosylating toxin family protein,product,1,1,0,0
+ACH96187.1 patatin-like phospholipase-like protein,product,1,0,0,1
+ADP ribosyltransferase,product,1,1,0,0
+"087L; Patatin-like phospholipase; closest orthologs: HvAV3e ORF128, TnAV2c ORF067, SfAV1a ORF093, CIV 463L",note,1,0,0,1
+EEV envelope phospholipase,product,1,0,0,1
+C3bot1,vfdb_short_name (VFDB),1,1,0,0
+IpaC/SipC family type III secretion system effector BipC,product,1,0,1,0
+EspK/GogB family type III secretion system effector,product,1,0,1,0
+EspJ family T3SS effector ADP-ribosyltransferase,product,1,0,1,0
+ESAT6-like protein,product,1,1,0,0
+ETX/MTX2 family pore-forming toxin,product,1,1,0,0
+oatatin-like phospholipase,note,1,0,0,1
+phospholipase C accessory protein PlcR,product,1,0,1,0
+nleG5-1,vfdb_short_name (VFDB),1,1,0,0
+nleG6-1,vfdb_short_name (VFDB),1,1,0,0
+inverse autotransporter invasin Inv,product,1,0,1,0
+inverse autotransporter beta-barrel domain-containing protein,product,1,1,0,0
+hemolysin expression modulator Hha,product,1,0,1,0
+lysophospholipase L1-like esterase,product,1,0,0,1
+gp67; YopX domain,note,1,1,0,0
+gogB,vfdb_short_name (VFDB),1,1,0,0
+glycosyltransferase/phospholipase,product,1,0,0,1
+fiber Ig/hemolysin,product,1,1,0,0
+espV,vfdb_short_name (VFDB),1,1,0,0
+gp72; phospholipase A2-like; PLA2-like,note,1,1,0,0
+hemolysin Ahh1,product,1,0,1,0
+eta,vfdb_short_name (VFDB),1,1,0,0
+putative autotransporter protein,product,1,0,0,1
+putative T1SS secreted agglutinin RTX,product,1,1,0,0
+putative Phospholipase D/nuclease,product,1,0,0,1
+putative EEV phospholipase,product,1,0,0,1
+"protein motif: YopX[pfam09643], YopX protein",note,1,1,0,0
+putative ADP ribosyltransferase,product,1,1,0,0
+phospholipase-d-like protein,product,1,0,0,1
+protein YopX,product,1,1,0,0
+phospholipase domain protein,product,1,0,0,1
+phospholipase A2 domain protein,product,1,1,0,0
+phosphatidylinositol phospholipase,product,1,0,1,0
+phosphatidylinositol-specific phospholipase C/glycerophosphodiester phosphodiesterase family protein,product,1,0,1,0
+phosphatidylinositol-specific phospholipase C1-like protein,product,1,0,1,0
+phospholipase C,product,1,0,1,0
+putative phosphoinositide-specific phospholipase C-beta2,product,1,0,0,1
+putative lysophospholipase,product,1,0,0,1
+similar to ORF in enterohemolysin-2 clone,note,1,1,0,0
+similar to HVS ORF 14 and MMTV superantigen,note,1,0,0,1
+putative yopX protein,product,1,1,0,0
+similar to YP_001970885.1 putative glycine-rich autotransporter protein [Stenotrophomonas maltophilia K279a],note,1,1,0,0
+"similar to vaccinia virus strain Copenhagen K5L, and cowpox virus M5L; lysophospholipase-like fragment",note,1,0,0,1
+slaA,vfdb_short_name (VFDB),1,1,0,0
+similar to patatin-like phospholipase,note,1,0,0,1
+similar to patatin phospholipase,note,1,0,0,1
+speK,vfdb_short_name (VFDB),1,1,0,0
+speA,vfdb_short_name (VFDB),1,1,0,0
+sseI/srfH,vfdb_short_name (VFDB),1,1,0,0
+putative patatin-like phospholipase; similar to Acanthamoeba polyphaga mimivirus E=3e-14,note,1,0,0,1
+putative phospholipase D/nuclease,product,1,0,0,1
+putative mitogenic factor,product,1,1,0,0
+putative leukotoxin LktA-like protein,product,1,1,0,0
+putative hemagglutinin/hemolysin-related protein,product,1,1,0,0
+type 3 secretion system effector BapA,product,1,0,1,0
+trimeric autotransporter actin-nucleating factor BimA,product,1,0,1,0
+thermostable hemolysin,product,1,0,1,0
+thermostable cytotonic enterotoxin Ast,product,1,0,1,0
+superantigen-encoding pathogenicity island protein,product,1,1,0,0
+type III secretion system effector E3 ubiquitin ligase NleL,product,1,0,1,0
+type III secretion system effector BprD,product,1,0,1,0
+type 3 secretion system effector BapC,product,1,0,1,0
+type III secretion system effector GTPase activator YopE,product,1,0,1,0
+type III secretion system effector EspK,product,1,0,1,0
+type III secretion system effector XopK,product,1,0,1,0
+type III secretion system effector XopAV,product,1,0,1,0
+type III secretion system effector XopN,product,1,0,1,0
+type III secretion system effector YopK,product,1,0,1,0
+type III secretion system effector BopC,product,1,0,1,0
+type III secretion system effector BopE,product,1,0,1,0
+type III secretion system effector acetyltransferase YopJ,product,1,0,1,0
+type III secretion system effector YopM,product,1,0,1,0
+type III secretion system effector arginine glycosyltransferase,product,1,0,0,1
+type III secretion system effector arginine glycosyltransferase NleB,product,1,0,1,0
+type III secretion system effector cysteine methyltransferase NleE,product,1,0,1,0
+type III secretion system effector kinase NleH,product,1,0,1,0
+type III secretion system effector avirulence protein AvrBs2,product,1,0,1,0
+type III secretion system effector avirulence protein AvrBs3,product,1,0,1,0
+type III secretion system effector protein XopR,product,1,0,1,0
+type III secretion system effector protein SseE,product,1,0,1,0
+type VII secretion AAA-ATPase EccA,product,1,1,0,0
+type III secretion system effector zinc metalloprotease NleC,product,1,0,1,0
+virion-associated: yes; expression pattern: Early-Late; COG best hit: COG2267 [Lysophospholipase] [1e-07]; Pfam hit: PF12146.1 [Putative lysophospholipase] [1.9e-10]; Refseq best hit: YP_001426877 [hypothetical protein ATCV1_Z396R (Acanthocystis turfacea Chlorella virus 1)] [5e-51],note,1,0,0,1
+virion-associated: yes; expression pattern: Early; COG best hit: COG1752 [Predicted esterase of the alpha-beta hydrolase superfamily] [2e-06]; Pfam hit: PF01734.15 [Patatin-like phospholipase] [4.2e-27]; Refseq best hit: YP_001425854 [hypothetical protein FR483_N222L (Paramecium bursaria Chlorella virus FR483)] [2e-83],note,1,0,0,1
+yopX family protein,product,1,1,0,0
+zot,vfdb_short_name (VFDB),1,1,0,0

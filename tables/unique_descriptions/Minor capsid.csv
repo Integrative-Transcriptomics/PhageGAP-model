@@ -1,0 +1,20 @@
+description,source,count,phg,bac,vir
+minor head protein,annot (Pharokka),370,370,0,0
+minor capsid protein,product,35,35,0,0
+minor coat protein,annot (Pharokka),33,33,0,0
+putative minor capsid protein,product,11,11,0,0
+minor capsid protein VP3,note,5,5,0,0
+minor head protein Ace-like,annot (Pharokka),4,4,0,0
+minor head protein receptor binding,annot (Pharokka),4,4,0,0
+putative minor coat protein,note,3,3,0,0
+minor CP 2,product,3,3,0,0
+MuF-like minor capsid protein,product,2,2,0,0
+minor coat protein,product,2,2,0,0
+Only two blast results. Highest similarity result suggests this is a minor capsid protein in a podoviridae phage.; putative minor capsid protein,note,1,1,0,0
+Gene product 10BMinor head protein 10B,note,1,1,0,0
+Sequence similarity to:YP_001039808.1 minor head protein-like protein [Burkholderia ambifaria phage BcepF1]; BcepF1.124,note,1,1,0,0
+minor capsid protein 10B,product,1,1,0,0
+minor capsid protein 2,product,1,1,0,0
+minor capsid protein E,product,1,1,0,0
+minor coat protein pIII,product,1,1,0,0
+phage minor capsid protein,note,1,1,0,0

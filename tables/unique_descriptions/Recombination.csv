@@ -1,0 +1,95 @@
+description,source,count,phg,bac,vir
+Sak4-like ssDNA annealing protein,annot (Pharokka),225,225,0,0
+RecT-like ssDNA annealing protein,annot (Pharokka),191,191,0,0
+UvsX-like recombinase,annot (Pharokka),184,184,0,0
+Erf-like ssDNA annealing protein,annot (Pharokka),168,168,0,0
+DprA-like DNA recombination-mediator protein,annot (Pharokka),131,131,0,0
+UvsY-like recombination mediator,annot (Pharokka),111,111,0,0
+NinB/ Orf homologous recombination mediator,annot (Pharokka),47,47,0,0
+Sak-like ssDNA annealing protein,annot (Pharokka),47,47,0,0
+recombinase,annot (Pharokka),43,43,0,0
+NinG/ Rap DNA junction specific endonuclease,annot (Pharokka),40,40,0,0
+RecA protein,product,16,16,0,0
+DNA recombinase,product,12,12,0,0
+DprA-like DNA processing chain A,product,10,10,0,0
+ERF family ssDNA binding protein,product,10,10,0,0
+"ssDNA binding protein, ERF family",product,7,7,0,0
+recombinase,product,7,7,0,0
+"RecA or Sak4, length ?",annot (Pharokka),6,6,0,0
+RecA-like DNA recombinase,product,6,6,0,0
+UvsX,note,5,5,0,0
+protein RecA,product,5,5,0,0
+recombination protein,product,5,5,0,0
+"putative recombination protein Bet, RecT recombinase",product,4,4,0,0
+Bet-like ssDNA annealing protein,annot (Pharokka),4,4,0,0
+UvsX RecA-like recombination protein,note,3,3,0,0
+recombinase RecT,product,3,3,0,0
+tyrosine recombinase,product,3,3,0,0
+DprA-like DNA processing chain A,note,3,3,0,0
+Erf recombination cofactor Arf,annot (Pharokka),3,3,0,0
+RecA,product,2,2,0,0
+ERF family protein,product,2,2,0,0
+putative uvsX-like protein,product,2,2,0,0
+putative Erf protein,product,2,2,0,0
+putative recombination protein/DNA repair protein,product,2,2,0,0
+putative recombination protein,product,2,2,0,0
+site-specific recombinase,product,2,2,0,0
+"site-specific recombination co-factor, IHF",product,2,2,0,0
+putative recombinase,product,2,2,0,0
+similar to bacteriophage T4 UvsX RecA-like recombination protein,note,2,2,0,0
+Ser recombinase,product,2,2,0,0
+"phage recombination protein Bet, RecT recombinase",product,2,2,0,0
+DNA processing chain (DprA?),note,1,1,0,0
+"InterPro and Canonical reads show, with exceptional confidence, that this protein will be similar to T4 RecA-like recombination protein",note,1,1,0,0
+DNA recombination/repair protein RecA,product,1,1,0,0
+DNA recombination protein,product,1,1,0,0
+Erf,product,1,1,0,0
+"169; similar to YP_802982 RecA-like recombinase protein [Bacteriophage RB32] & YP_002853997 RecA-like recombinase protein [Enterobacteria phage RB51]; Motif: cd00983, recA, RecA is a bacterial enzyme which has roles in homologous recombination, DNA repair, and the induction of the SOS response. RecA couples ATP hydrolysis to DNA strand echange",note,1,1,0,0
+RecA family of bacterial DNA recombination protein domain,note,1,1,0,0
+RecA DNA recombinase,note,1,1,0,0
+"PF00436: SSB, single-strand binding protein family; recombination protein",note,1,1,0,0
+"HHPred match to many DprAs, including PDB 4LJR_B DNA processing chain A from H. pylori with 100 probability",note,1,1,0,0
+"JG-contains OB fold, possible recombination protein paired with adjacent recT-like protein; hypothetical conserved protein",note,1,1,0,0
+NinB,product,1,1,0,0
+NinB protein,product,1,1,0,0
+NinG protein,product,1,1,0,0
+Erf-like ssDNA annealing protein,product,1,1,0,0
+Sak4-like ssDNA annealing protein,product,1,1,0,0
+T4 UvsX-like,note,1,1,0,0
+RecT protein,product,1,1,0,0
+RecA-like recombinase,product,1,1,0,0
+"RecA-like recombination protein, DNA-dependent ATPase",note,1,1,0,0
+"RecA-like recombination protein, DNA-dependent ATPase; identified by match to PFAM protein family HMM PF00154",note,1,1,0,0
+"RecA-like recombination protein, DNA-dependent ATPase; similar to T4 accession AAD42669; T4 gene synonym: fdsA",note,1,1,0,0
+possible DNA recombination protein RecF,note,1,1,0,0
+"predicted UvsX RecA-like protein, T4-like phage",note,1,1,0,0
+dprA-like ssDNA processing protein,product,1,1,0,0
+gp31; UvsX,note,1,1,0,0
+VUD39629 Rossmann fold nucleotide-binding protein Smf possibly involved in DNA uptake [Escherichia virus P2] evalue 8.89386e-23; IPR003488 DNA recombination-mediator protein A,note,1,1,0,0
+UvsX; similar to ADJ55340.1 UvsX RecA-like recombination protein [Enterobacteria phage RB16],note,1,1,0,0
+UvsX; similar to UvsX RecA-like recombination protein Vi01_056c Salmonella phage Vi01 and UvsX RecA-like recombination protein Orf00061 Shigella phage phiSboM-AG3,note,1,1,0,0
+UvsX; similar to YP_003579907.1 UvsX RecA-like recombination protein [Klebsiella phage KP15],note,1,1,0,0
+UvsX RecA-like protein,product,1,1,0,0
+RecT family protein,product,1,1,0,0
+RecA-like recombination protein; DNA-dependent ATPase; similar to T4 accession AAD42669,note,1,1,0,0
+RecA-like recombination protein; DNA-dependent ATPase; putative; similar to T4 accession AAD42669; T4 gene synonym: fdsA,note,1,1,0,0
+RecT recombinase,product,1,1,0,0
+RecT ssDNA Binding Protein,note,1,1,0,0
+putative recombinase protein,product,1,1,0,0
+putative RecT,product,1,1,0,0
+recombinase family protein,product,1,1,0,0
+recombinase A,product,1,1,0,0
+putitave recombinational DNA repair protein RecT,note,1,1,0,0
+recA-like recombinase,product,1,1,0,0
+putative UvsX recA-like recombination protein,note,1,1,0,0
+putative UvsX protein,product,1,1,0,0
+"recombination protein; PF00436: SSB, single-strand binding protein family; orf 13",note,1,1,0,0
+recombination protein NinG,product,1,1,0,0
+similar to YP_007010497.1 putative uvsX-like protein [Salmonella phage vB_SenS-Ent1],note,1,1,0,0
+similar to YP_002150230 phage recombination protein [Proteus mirabilis HI4320]; ABQ88415 hypothetical protein ECRS218_0035 [Enterobacteria phage CUS-3],note,1,1,0,0
+similar to NP_861734.1| UvsX RecA-like recombination protein [Enterobacteria phage RB69],note,1,1,0,0
+similar to BAK53007.1 RecA protein [Bacillus phage SP10]; Pfam PF00154.15 RecA,note,1,1,0,0
+similar to AAT38507.1 UvsX [Acinetobacter phage 133] & YP_001595166.1 UvsX RecA-like recombination protein [Enterobacteria phage JS98],note,1,1,0,0
+site-specific recombinase; direct factor,note,1,1,0,0
+tyrosine recombinase-like protein,product,1,1,0,0
+uvsX,note,1,1,0,0

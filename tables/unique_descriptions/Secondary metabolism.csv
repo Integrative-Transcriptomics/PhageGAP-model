@@ -1,0 +1,35 @@
+description,source,count,phg,bac,vir
+type I polyketide synthase,product,78,0,78,0
+methylamine utilization,annot (Pharokka),52,52,0,0
+haloacid dehalogenase type II,product,44,0,44,0
+tryptophan halogenase,annot (Pharokka),20,20,0,0
+non-ribosomal peptide synthase/polyketide synthase,product,19,0,19,0
+type III polyketide synthase,product,17,0,17,0
+tryptophan halogenase family protein,product,15,0,15,0
+haloacid dehalogenase-like hydrolase,product,14,1,13,0
+polyketide synthase,product,8,0,8,0
+PGP is an essential enzyme in the glycolate salvage pathway in higher organisms (photorespiration in plants). Phosphoglycolate results from the oxidase activity of RubisCO in the Calvin cycle when concentrations of carbon dioxide are low relative to oxygen. This enzyme is a member of the Haloacid Dehalogenase (HAD) superfamily of aspartate-nucleophile hydrolase enzymes (PF00702).; PGP is an essential enzyme in the glycolate salvage pathway in higher organisms (photorespiration in plants). Phosphoglycolate results from the oxidase activity of RubisCO in the Calvin cycle when concentrations of carbon dioxide are low relative to oxygen. This enzyme is a member of the Haloacid Dehalogenase (HAD) superfamily of aspartate-nucleophile hydrolase enzymes (PF00702); Derived by automated computational analysis using gene prediction method: Protein Homology.,note,7,0,7,0
+hybrid non-ribosomal peptide synthetase/type I polyketide synthase,product,7,0,7,0
+methylamine utilization protein,product,5,0,5,0
+taurine catabolism dioxygenase,annot (Pharokka),4,4,0,0
+polyketide synthase Pks13,product,4,0,4,0
+haloacid dehalogenase,product,4,2,2,0
+vanadium-dependent haloperoxidase,product,3,0,3,0
+yersiniabactin polyketide synthase HMWP1,product,3,0,3,0
+"naphthalene 1,2-dioxygenase",product,3,3,0,0
+haloacid dehalogenase superfamily protein,product,2,2,0,0
+4'-P-pantetheinyl transferase,product,2,2,0,0
+non-ribosomal peptide synthetase/type I polyketide synthase,product,2,0,2,0
+Haloacid dehalogenase-like hydrolases,product,2,0,0,2
+Haloacid dehalogenase-like hydrolase motif-containing,product,1,0,0,1
+Modular polyketide synthase,product,1,1,0,0
+PGP is an essential enzyme in the glycolate salvage pathway in higher organisms (photorespiration in plants). Phosphoglycolate results from the oxidase activity of RubisCO in the Calvin cycle when concentrations of carbon dioxide are low relative to oxygen. This enzyme is a member of the Haloacid Dehalogenase (HAD) superfamily of aspartate-nucleophile hydrolase enzymes (PF00702); Derived by automated computational analysis using gene prediction method: Protein Homology.,note,1,0,1,0
+PVOGs: VOG0481; haloacid dehalogenase-like hydrolase domain-containing protein [Escherichia phage HY01],note,1,1,0,0
+mycobactin polyketide synthase MbtD,product,1,0,1,0
+methanesulfonate monooxygenase,product,1,1,0,0
+haloacid dehalogenase-like hydrolases,product,1,0,0,1
+nocobactin polyketide synthase NbtC,product,1,0,1,0
+putative haloacid dehalogenase,product,1,0,0,1
+polyketide synthase family protein,product,1,0,1,0
+polyketide synthase extender module 8-10,product,1,1,0,0
+tryptophan halogenase,product,1,0,0,1

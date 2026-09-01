@@ -1,0 +1,48 @@
+description,source,count,phg,bac,vir
+nucleotidyltransferase,annot (Pharokka),237,237,0,0
+cytidyltransferase,annot (Pharokka),105,105,0,0
+uracil-DNA glycosylase,product,18,18,0,0
+glycosylase,product,15,15,0,0
+Uracil-DNA glycosylase,product,7,7,0,0
+nucleotidyl transferase,product,6,6,0,0
+putative uracyl-DNA glycosylase,product,4,4,0,0
+pyrimidine dimer DNA glycosylase,product,3,3,0,0
+possible cytitidyltransferase,product,3,3,0,0
+adenine glycosylase,product,3,3,0,0
+nucleoside-diphosphate-sugar pyrophosphorylase-like protein,product,2,2,0,0
+formamidopyrimidine-DNA glycosylase,product,2,2,0,0
+glucose-1-phosphate thymidylyltransferase,product,2,2,0,0
+phosphodiester glycosidase family protein,product,2,2,0,0
+polyribonucleotide nucleotidyltransferase,product,2,2,0,0
+putative glycosyl hydrolase,product,2,2,0,0
+glycosylase,note,2,2,0,0
+"glycosyl hydrolase, polyPPase VTC-like, polyphosphate(polyP) polymerase",product,2,2,0,0
+uracil-DNA glycosylase inhibitor,product,2,2,0,0
+glucose-1-phosphate thymidylyltransferase,note,1,1,0,0
+formamidopyrimidine DNA glycosylase,note,1,1,0,0
+dN-sugar pyrophosphorylase,product,1,1,0,0
+Phosphodiester glycosidase domain (NAGPA) found,note,1,1,0,0
+DNA glycosylase,product,1,1,0,0
+Glycosyl Hydrolase (Family 32)?,note,1,1,0,0
+G/U mismatch-specific DNA glycosylase,product,1,1,0,0
+cytitidyltransferase,product,1,1,0,0
+contains both glycosyl hydrolase 108 and predicted peptidoglycan protein domains,note,1,1,0,0
+cytidyltransferase-related protein,product,1,1,0,0
+UTP-glucose-1-phosphate uridylyltransferase,product,1,1,0,0
+nucleoside-diphosphate-sugar pyrophosphorylase,product,1,1,0,0
+putative glucose-1-phosphate thymidylyltransferase,product,1,1,0,0
+putative galactose-1-phosphate uridylyltransferase,product,1,1,0,0
+nucleotidyltransferase,product,1,1,0,0
+nucleotidyltransferase domain-containing protein,product,1,1,0,0
+glycosyl hydrolase,product,1,1,0,0
+putative glycosyl hydrolase family 16 laminarinase,product,1,1,0,0
+putative glycosyl hydrolase family containing protein,product,1,1,0,0
+putative inhibitor of Bacillus subtilis uracil-DNA glycosylase,note,1,1,0,0
+putative uracil DNA glycosylase,product,1,1,0,0
+putative polyribonucleotide nucleotidyltransferase,product,1,1,0,0
+putative nucleotidyltransferase,product,1,1,0,0
+putative nucleoside-diphosphate-sugar pyrophosphorylase,product,1,1,0,0
+"similar tophage PaP3/p27/8e-32; CATH 3.30.460.10; Beta polymerase, domain 2; cd05398; Nucleotidyl-transferase domain of class II CCA-adding enzymes",note,1,1,0,0
+similar to sugar-phosphate nucleotidyltransferase,note,1,1,0,0
+uracil-DNA glycosylase,annot (Pharokka),1,1,0,0
+uracil DNA glycosylase,product,1,1,0,0

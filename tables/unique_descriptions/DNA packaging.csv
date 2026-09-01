@@ -1,0 +1,97 @@
+description,source,count,phg,bac,vir
+terminase large subunit,annot (Pharokka),1602,1602,0,0
+terminase small subunit,annot (Pharokka),1027,1027,0,0
+DNA transfer protein,annot (Pharokka),71,71,0,0
+terminase,annot (Pharokka),69,69,0,0
+terminase small subunit,product,61,61,0,0
+terminase large subunit,product,52,52,0,0
+terminase,product,31,31,0,0
+terminase family protein,product,13,13,0,0
+putative terminase large subunit,product,11,11,0,0
+DNA packaging chaperone FI,annot (Pharokka),10,10,0,0
+TerL,product,5,5,0,0
+putative terminase small subunit,product,5,5,0,0
+morphogenesis (protein I of M13),annot (Pharokka),4,4,0,0
+putative terminase,product,4,4,0,0
+"excisionase, terminase small subunit",product,4,4,0,0
+DNA transfer protein,product,3,3,0,0
+PBSX family terminase large subunit,product,3,3,0,0
+putative DNA packaging protein,product,3,3,0,0
+putative large terminase subunit,product,3,3,0,0
+putative TerS small-subunit terminase,product,3,3,0,0
+large terminase subunit,product,2,2,0,0
+P27 family terminase small subunit,product,2,2,0,0
+DNA-packaging protein,product,2,2,0,0
+DNA packaging,product,2,2,0,0
+phage terminase large subunit,product,2,2,0,0
+putative packaging ATPase,product,2,2,0,0
+terminase DNA packaging enzyme large subunit,product,2,2,0,0
+small terminase,product,2,2,0,0
+type IV secretory system conjugative DNA transfer family protein,product,2,2,0,0
+"terminase, small subunit",note,2,2,0,0
+terminase-like family protein,product,2,2,0,0
+packaging protein,product,2,2,0,0
+phage terminase,product,2,2,0,0
+Terminase,product,1,1,0,0
+Similar to phage T4 NrdC.10. Amino acids 113-192 form P-loop NTPase domain.,note,1,1,0,0
+P-loop NTPase,product,1,1,0,0
+P-loop NTPase superfamily protein,product,1,1,0,0
+Maturation control protein,product,1,1,0,0
+ORF11; DNA packaging,note,1,1,0,0
+ORF3; DNA packaging; similar to Acanthamoeba polyphaga mimivirus MIMI_L712,note,1,1,0,0
+Terminase small subunit,note,1,1,0,0
+HHPred shows similarity to PDB 3CPE_A DNA packaging protein Gp17 the large terminase of bacteriophage T4 over 486 residues of 592,note,1,1,0,0
+HHPred match to three DNA-binding domain proteins with low 90s probability and lambda small terminase subunit with 75 probability,note,1,1,0,0
+HxsC-like His-Xaa-Ser system radical SAM maturase,product,1,1,0,0
+Gp23; partial homology to large terminase subunit; orf23,note,1,1,0,0
+DNA packaging protein,product,1,1,0,0
+DNA transfer protein; similar to Se1 gp20,note,1,1,0,0
+DNA transfer protein; similar to bacteriophage P22 gp20 in GenBank Accession Number AAF75054,note,1,1,0,0
+"ATPase, DNA encapsidation protein",product,1,1,0,0
+ATPase split by intron; HNH Intron splits the protein; P-Loop NTPase motif,note,1,1,0,0
+"Canonical Phage hits a T4 hypothetical protein with confidence. BLASTp hits Hypothetical PS2 Protein; HHPred hits with extreme confidence that this protein resembles Gp17 of T4, which is the DNA packaging terminase that headful packages the capsid protein.; Galaxy programs arent picking up on the terminase, and neither is BLASTp, but HHPred is screaming terminase.",note,1,1,0,0
+DNA terminase,product,1,1,0,0
+DNA packaging enzyme (terminase),product,1,1,0,0
+"BLASTp similarity to phage N4 gene 24, NCBI entry YP_950502.1 for putative P-loop NTPase; Contains InterProScan domain IPR027417",note,1,1,0,0
+DNA maturase A,product,1,1,0,0
+DNA packaging B protein,product,1,1,0,0
+His-Xaa-Ser system radical SAM maturase HxsC,product,1,1,0,0
+maturation control protein,product,1,1,0,0
+"bacteriophage terminase, small subunit",product,1,1,0,0
+"Terminase, large subunit",note,1,1,0,0
+contains P-loop NTPase and zeta toxin domains,note,1,1,0,0
+contains P-loop NTPase domain (pfam13479),note,1,1,0,0
+"gp21, TerL",note,1,1,0,0
+"bacteriophage DNA packaging protein; terminase, small subunit",product,1,1,0,0
+"putative phage terminase, large subunit",product,1,1,0,0
+putative phage terminase large subunit B,product,1,1,0,0
+putative DNA translocase,product,1,1,0,0
+putative large subunit terminase,product,1,1,0,0
+putative DNA packaging protein gp2,product,1,1,0,0
+particle maturation control,note,1,1,0,0
+putative A32 virion packaging ATPase,product,1,1,0,0
+putative DNA maturation protein,product,1,1,0,0
+gp33 TerL,product,1,1,0,0
+hypothetical protein; possibly involved in DNA packaging; large terminase subunit; similar to Enterobacteria phage P1 pacB encoded by GenBank Accession Number M74046,note,1,1,0,0
+hypothetical protein; probably involved in DNA packaging; small terminase subunit; similar to Enterobacteria phage P1 pacA encoded by GenBank Accession Number M74046,note,1,1,0,0
+hypothetical protein; probably an additional terminase subunit,note,1,1,0,0
+large subunit terminase,note,1,1,0,0
+large subunit terminase,product,1,1,0,0
+large terminase,product,1,1,0,0
+putative small terminase subunit-like protein,product,1,1,0,0
+small terminase subunit,note,1,1,0,0
+similar to WP_010702919.1 phage terminase large subunit GpA [Bartonella bovis],note,1,1,0,0
+similar to PHAGE_Escher_vB_EcoM_UFV13_NC_031103: terminase large subunit,note,1,1,0,0
+similar to BcepB1A gp15-like protein,note,1,1,0,0
+putative terminase small subunit; similar to gi:12515357 terminase small subunit of prophage CP-933R,note,1,1,0,0
+"putative terminase, large subunit",product,1,1,0,0
+putative terminase family protein,product,1,1,0,0
+putative terminase small subunit,note,1,1,0,0
+putative single-stranded DNA binding protein (T4 gp15-like),product,1,1,0,0
+"putative phage terminase, small subunit",product,1,1,0,0
+putative small terminase subunit,product,1,1,0,0
+small terminase subunit,product,1,1,0,0
+"terminase, large subunit (ATPase domain)",note,1,1,0,0
+terminase small subunit; similar to D3112 p24,note,1,1,0,0
+terminase small subunit-like protein,product,1,1,0,0
+terminase_2 domain protein,product,1,1,0,0

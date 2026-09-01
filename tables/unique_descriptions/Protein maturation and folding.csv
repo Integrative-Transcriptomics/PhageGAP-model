@@ -1,0 +1,173 @@
+description,source,count,phg,bac,vir
+peptidase HslV family,annot (Pharokka),68,68,0,0
+fimbrial biogenesis chaperone,product,49,0,49,0
+co-chaperonin GroES,annot (Pharokka),25,25,0,0
+molecular chaperone DnaJ,product,21,3,18,0
+trigger factor,product,19,1,18,0
+chaperonin groEL,annot (Pharokka),19,19,0,0
+fimbria/pilus periplasmic chaperone,product,18,0,18,0
+flagellar basal body P-ring formation chaperone FlgA,product,17,0,17,0
+chaperonin GroEL,product,16,0,15,1
+molecular chaperone DnaK,product,16,0,16,0
+radical SAM family heme chaperone HemW,product,15,0,15,0
+TorD/DmsD family molecular chaperone,product,15,0,15,0
+flagellar export chaperone FliS,product,14,0,14,0
+LPS translocon maturation chaperone LptM,product,13,0,13,0
+co-chaperone GroES,product,12,1,11,0
+type III secretion system chaperone,product,12,0,12,0
+ATP-dependent chaperone ClpB,product,12,0,12,0
+Hsp33 family molecular chaperone HslO,product,11,0,11,0
+molecular chaperone,product,11,2,9,0
+molecular chaperone HtpG,product,11,0,11,0
+putative chaperonin,product,11,11,0,0
+chaperonin,product,10,10,0,0
+putative 10kDa chaperonin,product,10,9,0,1
+co-chaperone DjlA,product,9,0,9,0
+copper chaperone PCu(A)C,product,9,0,9,0
+chaperone protein DnaJ,product,8,1,0,7
+DnaJ-like protein,product,8,3,0,5
+Fe-S protein assembly chaperone HscA,product,8,0,8,0
+DnaJ-like chaperonin,product,8,8,0,0
+DnaJ family domain-containing protein,product,7,0,7,0
+nitrate reductase molybdenum cofactor assembly chaperone,product,7,0,7,0
+hydrogenase maturation nickel metallochaperone HypA,product,7,0,7,0
+co-chaperone HscB,product,7,0,7,0
+Spy/CpxP family protein refolding chaperone,product,6,0,6,0
+co-chaperone YbbN,product,6,0,6,0
+small heat shock chaperone IbpA,product,6,0,6,0
+peptide deformylase,annot (Pharokka),6,6,0,0
+chaperone NapD,product,6,0,6,0
+ATP-independent periplasmic protein-refolding chaperone Spy,product,6,0,6,0
+EscG/YscG/SsaH family type III secretion system needle protein co-chaperone,product,5,0,5,0
+CesT family type III secretion system chaperone,product,5,0,5,0
+DnaJ domain-containing protein,product,5,3,0,2
+zinc metallochaperone GTPase ZigA,product,5,0,5,0
+SycD/LcrH family type III secretion system chaperone,product,5,0,5,0
+molecular chaperone Skp,product,5,0,5,0
+Tat proofreading chaperone DmsD,product,5,1,4,0
+CopM family metallochaperone,product,4,0,4,0
+DnaJ-like,note,4,4,0,0
+molecular chaperone OsmY,product,4,0,4,0
+fimbria/pilus chaperone family protein,product,4,0,4,0
+pyrroloquinoline quinone biosynthesis peptide chaperone PqqD,product,4,0,4,0
+putative DnaJ/Hsp40,product,4,0,0,4
+type III secretion system chaperone family protein,product,4,0,4,0
+hydrogenase-2 assembly chaperone,product,4,0,4,0
+small heat shock chaperone IbpB,product,4,0,4,0
+EscE/YscE/SsaE family type III secretion system needle protein co-chaperone,product,4,0,4,0
+YdbL family probable chaperone protein,product,3,0,3,0
+"T3SS (YopN, CesT) and YbjN peptide-binding chaperone 1",product,3,0,3,0
+fimbrial assembly chaperone,product,3,0,3,0
+molecular chaperone DnaJ/Hsp40,product,3,0,0,3
+arsenite efflux transporter metallochaperone ArsD,product,3,0,3,0
+chaperone protein,product,3,3,0,0
+HypC/HybG/HupF family hydrogenase formation chaperone,product,3,0,3,0
+flagellar export chaperone FlgN,product,3,0,3,0
+EcpB family pilus assembly chaperone,product,3,0,3,0
+DnaJ super family protein,product,2,0,0,2
+"heat shock protein DnaJ, cysteine-rich domain",note,2,2,0,0
+chaperonin groEL,product,2,0,0,2
+DnaJ domain protein,product,2,0,0,2
+DnaJ C-terminal domain-containing protein,product,2,0,2,0
+DnaJ domain containing protein,product,2,1,0,1
+HdeA/HdeB family chaperone,product,2,0,2,0
+Fe-S protein assembly co-chaperone HscB,product,2,0,2,0
+DnaJ family molecular chaperone,product,2,0,2,0
+DnaJ superfamily,product,2,0,0,2
+InvB/SpaK family type III secretion system chaperone,product,2,0,2,0
+putative chaperone Hsp70/DnaK,product,2,0,0,2
+type III secretion system translocator chaperone SicA,product,2,0,2,0
+bfpT-regulated chaperone,product,2,0,2,0
+chaperone,product,2,0,0,2
+peptidase HslV family,product,2,2,0,0
+mitochondrial chaperone BCS1,product,2,1,0,1
+molecular chaperone TorD,product,2,0,2,0
+iron chaperone,product,2,0,2,0
+chaperone modulator CbpM,product,2,0,2,0
+co-chaperonin GroES,product,2,2,0,0
+HSP90 chaperone,product,1,0,0,1
+Homology to WP_155963153.1_ PqqD (pyrroloquinoline quinone) family peptide modification chaperone Streptococcus ruminantium; Prophage pi2 protein 34,note,1,1,0,0
+HrpW-specific chaperone,product,1,0,1,0
+HSP90 chaperone,note,1,1,0,0
+DnaJ/HsP40,product,1,0,0,1
+DnaJ,product,1,1,0,0
+CcoQ/FixQ family Cbb3-type cytochrome c oxidase assembly chaperone,product,1,0,1,0
+CesD/SycD/LcrH family type III secretion system chaperone SscA,product,1,0,1,0
+Dna-J like chaperonin,product,1,1,0,0
+ATP-dependent chaperone,product,1,1,0,0
+GroES,product,1,1,0,0
+F1 capsule chaperone Caf1M,product,1,0,1,0
+HSP70h; similar to heat shock 70 chaperones,note,1,0,0,1
+Dnaj-like protein,product,1,0,0,1
+DnaJ-domain protein; bjdp; ORF39; similar to AcMNPV ORF ac51,note,1,0,0,1
+"DnaJ-class molecular chaperone with C-terminal Zn finger domain, putative",product,1,1,0,0
+DnaJ zinc binding domain,note,1,1,0,0
+DnaJ-like central domain,product,1,1,0,0
+DnaJ-like chaperone,product,1,1,0,0
+DnaJ-like domain,note,1,1,0,0
+chaperone protein PsaB,product,1,0,1,0
+chaperonin DnaJ,product,1,1,0,0
+highly divergent DNA J-like protein,product,1,1,0,0
+"heat shock protein dnaJ, cystiene-rich domain",note,1,1,0,0
+flagellar chaperone protein,product,1,0,1,0
+gp66; putative metalloprotein chaperonin subunit,note,1,1,0,0
+fimbrial chaperone,product,1,0,1,0
+dnaJ domain protein,product,1,1,0,0
+flagella biosynthesis chaperone FlgN,product,1,0,1,0
+disulfide bond formation protein B,product,1,1,0,0
+contains DNAJ domain,note,1,1,0,0
+contains heat shock protein DNAJ domain,note,1,1,0,0
+contains heat shock protein DnaJ cystein rich domain,note,1,1,0,0
+copper resistance system metallochaperone PcoC,product,1,0,1,0
+copper resistance system metallochaperone PcoE,product,1,0,1,0
+copper-binding periplasmic metallochaperone CueP,product,1,0,1,0
+curli assembly chaperone CsgC,product,1,0,1,0
+chaperonin Cpn10,product,1,1,0,0
+LcrR family type III secretion system chaperone,product,1,0,1,0
+YscB family type III secretion system chaperone,product,1,0,1,0
+SycD/LcrH family type III secretion system chaperone AcrH,product,1,0,1,0
+LcrG family type III secretion system chaperone,product,1,0,1,0
+N-terminal similarity to the dnaJ chaperone protein,note,1,1,0,0
+Putative MCP chaperone,product,1,0,0,1
+"Putative molecular chaperone; similar to human DnaJ protein, Swiss-Prot Accession Number P31689",note,1,0,0,1
+SPI-1 type III secretion system chaperone SpaK,product,1,0,1,0
+acid-activated periplasmic chaperone HdeA,product,1,0,1,0
+SycN family type III secretion system chaperone Acr2,product,1,0,1,0
+acid-activated periplasmic chaperone HdeB,product,1,0,1,0
+YscG family type III secretion system chaperone,product,1,0,1,0
+molecular chaperone DnaK/Hsp70,product,1,0,0,1
+molecular chaperone HscC,product,1,0,1,0
+lateral flagellar export chaperone LafC,product,1,0,1,0
+lipase secretion chaperone,product,1,0,1,0
+putative DnaJ-like protein subfamily C member 5B isoform X2,product,1,1,0,0
+putative DnaJ-like chaperone protein,product,1,1,0,0
+putative DnaJ domain protein,product,1,1,0,0
+putative DnaJ chaperone,note,1,1,0,0
+putative ATP-dependent 26S proteasome regulatory subunit,product,1,1,0,0
+proteasome assembly chaperone family protein,product,1,0,1,0
+predicted DnaJ-like zinc finger domain,note,1,1,0,0
+pili assembly chaperone,product,1,0,1,0
+peptidyl-prolyl cis-trans isomerase B,product,1,1,0,0
+peptidylprolyl isomerase,product,1,1,0,0
+molecular chaperone TorD family protein,product,1,0,1,0
+hydrogenase maturation nickel metallochaperone HypA/HybF,product,1,0,1,0
+putative metalochaperone,product,1,1,0,0
+putative metalloprotein chaperonin subunit,product,1,1,0,0
+"putative chaperonin, heat shock protein",product,1,1,0,0
+putative chaperon protein DnaJ,product,1,0,0,1
+serine protease chaperone,product,1,0,1,0
+similar to DnaJ homolog ATJ2,note,1,1,0,0
+putative secretion chaperone-like protein,product,1,0,0,1
+secretion-chaperone-like protein,product,1,0,0,1
+putative chaperone protein,note,1,1,0,0
+type III secretion system chaperone AscY,product,1,0,1,0
+type III effector protein chaperone,product,1,0,1,0
+type III secretion system LEE chaperone CesT,product,1,0,1,0
+type III secretion system chaperone SycT,product,1,0,1,0
+type III secretion system chaperone SsaE,product,1,0,1,0
+type III secretion system chaperone HrpG,product,1,0,1,0
+type III secretion system chaperone YscY,product,1,0,1,0
+type III secretion system filament chaperone,product,1,0,1,0
+type III secretion system co-chaperone YscE,product,1,0,1,0
+zinc metallochaperone AztD,product,1,0,1,0
+zinc resistance sensor/chaperone ZraP,product,1,0,1,0

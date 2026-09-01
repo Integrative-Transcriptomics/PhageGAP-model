@@ -1,0 +1,58 @@
+description,source,count,phg,bac,vir
+anti-repressor Ant,annot (Pharokka),209,209,0,0
+anti-repressor,annot (Pharokka),159,159,0,0
+DksA-like zinc-finger protein,annot (Pharokka),114,114,0,0
+immunity repressor,product,28,28,0,0
+antirepressor,product,15,15,0,0
+Cro protein,product,6,6,0,0
+CRO protein,product,5,5,0,0
+antirepressor Ant,product,5,5,0,0
+putative antirepressor,product,4,4,0,0
+cro-like repressor,annot (Pharokka),3,3,0,0
+putative cro repressor,product,3,3,0,0
+anti-repressor Ant,product,3,3,0,0
+antirepressor protein,product,3,3,0,0
+CRO (control of repressor's operator),note,2,2,0,0
+Cro (control of repressor's operator),note,2,2,0,0
+CRO,note,2,2,0,0
+Cro/CI family transcriptional regulator,product,2,2,0,0
+putative phage antirepressor,product,2,2,0,0
+cro,product,2,2,0,0
+putative anti-repressor protein,product,2,2,0,0
+putative Cro-like repressor,product,2,2,0,0
+Cro/C1-type HTH DNA-binding domain protein,product,1,1,0,0
+Cro protein,note,1,1,0,0
+Cro,product,1,1,0,0
+Cro (HTH DNA binding),note,1,1,0,0
+best non-GAS blastp hit: gb|AAF43509.1|AF145054_17 (AF145054) ORF16 [Streptococcus thermophilus bacteriophage 7201]; similar to phage immunity repressor protein,note,1,1,0,0
+antirepressor,note,1,1,0,0
+anti-repressor protein,product,1,1,0,0
+Cro/C1-type protein,product,1,1,0,0
+Cro/CI-type helix-turn-helix domain,note,1,1,0,0
+RexA-like exclusion protein,annot (Pharokka),1,1,0,0
+Sequence similarity to: CAJ26403.1| hypothetical protein [Bacteriophage Lahn2] & NP_050534.1| similar to antirepressor of bacteriophage P22 [Enterobacteria phage VT2-Sakai],note,1,1,0,0
+antA/AntB antirepressor family protein,product,1,1,0,0
+helix-turn-helix domain Cro/C1 family transcriptional regulator,note,1,1,0,0
+helix-turn-helix domain Cro/C1-type transcriptional regulator,product,1,1,0,0
+"helix-turn-helix motif, identified by matching to protein family HMM PF13560; gp34, Cro/CI family transcriptional regulator",note,1,1,0,0
+contains a DksA/TraR C4-type zinc finger domain,note,1,1,0,0
+cro-like repressor,product,1,1,0,0
+derepression protein,product,1,1,0,0
+helix-turn-helix Cro subunit,product,1,1,0,0
+cro (control of repressor's operator),note,1,1,0,0
+phage anti-repressor protein,product,1,1,0,0
+modulator of C1 action; enhances binding of C1 to all its operators; lowers expression of C1; former name: bof; product 100 pct identical to previously identified modulator protein Bof of P1 Swissprot: BOF_BPP1,note,1,1,0,0
+lambda cro analogue; orf5,note,1,1,0,0
+immunity repressor protein,product,1,1,0,0
+helper derepression protein,product,1,1,0,0
+putative Cro-like protein,product,1,1,0,0
+putative antirepressor protein; similar to gi2120256 rha antirepressor of phage phi-80,note,1,1,0,0
+putative antirepressor protein,product,1,1,0,0
+putative cro protein,product,1,1,0,0
+putative regulatory protein Cro,product,1,1,0,0
+putative transcriptional regulator antirepressor,product,1,1,0,0
+regulatory protein/antirepressor Ant,product,1,1,0,0
+"similar to C-terminus of NP_059643.1 Ant [Enterobacteria phage P22] (Defective?); motifs: COG3561, phage anti-repressor protein",note,1,1,0,0
+similar to PHAGE_Escher_HY03_NC_031047: putative Cro/Cl-type repressor,note,1,1,0,0
+similar to antirepressor encoded by Bacteriophage N15 AntA,note,1,1,0,0
+"weakly similar to N-ter parts of anti-repressor proteins, e.g., (gi|16798829|ref|NP_463507.1|) [Bacteriophage A118] percent identity 30 in 54 aa",note,1,1,0,0

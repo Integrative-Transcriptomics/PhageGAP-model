@@ -1,0 +1,160 @@
+description,source,count,phg,bac,vir
+endolysin,annot (Pharokka),2217,2217,0,0
+transglycosylase,annot (Pharokka),142,142,0,0
+amidase,annot (Pharokka),140,140,0,0
+endolysin inhibits RNA polymerase,annot (Pharokka),52,52,0,0
+L-alanyl-D-glutamate peptidase,annot (Pharokka),24,24,0,0
+lysozyme domain-containing protein,annot (Pharokka),19,19,0,0
+lysozyme,product,18,18,0,0
+endolysin,product,17,17,0,0
+putative endolysin,product,12,12,0,0
+glycoside hydrolase,annot (Pharokka),11,11,0,0
+lysin A,product,11,11,0,0
+transglycosylase,product,9,9,0,0
+lysis protein,product,8,8,0,0
+lysin B,product,8,8,0,0
+CHAP domain-containing protein,product,7,7,0,0
+glycoside hydrolase family protein,product,7,7,0,0
+lysM motif protein,annot (Pharokka),7,7,0,0
+LysM peptidoglycan-binding domain-containing protein,product,7,7,0,0
+lysozyme murein hydrolase,product,6,6,0,0
+N-acetylmuramoyl-L-alanine amidase,product,6,6,0,0
+LysM domain protein,product,6,6,0,0
+putative lysozyme,product,6,6,0,0
+LysM-like endolysin,product,5,5,0,0
+putative lysin,product,5,5,0,0
+lytic transglycosylase,product,4,4,0,0
+glycoside hydrolase,product,4,4,0,0
+lytA,vfdb_short_name (VFDB),3,3,0,0
+transglycosylase SLT domain-containing protein,product,3,3,0,0
+putative transglycosylase,product,3,3,0,0
+putative glycoside hydrolase,product,3,3,0,0
+transglycosylase SLT domain protein,product,3,3,0,0
+SGNH/GDSL hydrolase family protein,product,3,3,0,0
+peptidoglycan DD-metalloendopeptidase family protein,product,3,3,0,0
+putative lysozyme-like domain protein,product,3,3,0,0
+putative cell wall hydrolase/LysM protein,product,2,2,0,0
+lysozyme inhibitor LprI family protein,product,2,2,0,0
+"lysin A, glycosyl hydrolase domain",product,2,2,0,0
+bacteriolytic protein,product,2,2,0,0
+peptidoglycan hydrolase,product,2,2,0,0
+lytic murein transglycosylase,product,2,2,0,0
+putative lysozyme inhibitor,product,2,2,0,0
+putative endolysin/lysozyme,product,2,2,0,0
+lysozyme like domain,product,2,2,0,0
+putative VgrG-like protein/endolysin,product,2,2,0,0
+"endolysin, LysM-like",note,2,2,0,0
+andolysin,product,2,2,0,0
+chitosanase,product,2,2,0,0
+Lysin B,note,2,2,0,0
+putative tail lysin,product,2,2,0,0
+putative lytic murein transglycosylase,product,2,2,0,0
+putative lytic transglycosylase,product,2,2,0,0
+e lysozyme,product,2,2,0,0
+Lysozyme murein hydrolase,product,2,2,0,0
+D-alanyl-D-alanine dipeptidase,product,1,1,0,0
+"IPR008727; HHPred; Tail-associated lysozyme, Putative uncharacterized; PAAR-repeat motif, membrane piercing, {Enterobacteria phage T4}; probability 98.75",note,1,1,0,0
+CHAP domain protein,product,1,1,0,0
+"1,4-beta-N-acetylmuramidase",product,1,1,0,0
+COG2951 Membrane-bound lytic murein transglycosylase B,note,1,1,0,0
+CHAP-domain present,note,1,1,0,0
+Cell surface protein N-acetylmuramoyl-L-alanine amidase LytC precursor,product,1,1,0,0
+L-alanyl-D-glutamate peptidase,product,1,1,0,0
+LysM domain,note,1,1,0,0
+LysM domain,product,1,1,0,0
+ORF30; similar to N-acetylmuramoyl-L-alanine amidase (Bacillus sp. m3-13),note,1,1,0,0
+NlpC/P60 family protein,product,1,1,0,0
+N-acetylmuramidase,product,1,1,0,0
+N-acetyl-anhydromuranmyl-L-alanine amidase,product,1,1,0,0
+Lytic enzyme,product,1,1,0,0
+M15 family metallopeptidase,product,1,1,0,0
+LysM-like protein,product,1,1,0,0
+"Lysin A, peptidase domain",note,1,1,0,0
+LysM domain-containing protein,product,1,1,0,0
+LysM-like domain protein,product,1,1,0,0
+LysM-domain protein,product,1,1,0,0
+DNA guanine transglycosylase,product,1,1,0,0
+"InterPro found some signatures but HHPred did not pick up anyhting with confidence.; InterPro displays one TMD, but it is too far away from the extremely confident Endolysin; TrEMBL and BLASTp show confident homology with Hypothetical PS2 Protein 151 (Acc#YP_009030198.1)",note,1,1,0,0
+contains LysM domain,note,1,1,0,0
+conserved in T4-like phages; contains SLT transglycosylase domain,note,1,1,0,0
+e lysozyme murein hydrolase,product,1,1,0,0
+endolysin; similar to AFQ96419.1 hypothetical protein [Bacillus phage vB_BceM-Bc431v3] orf110,note,1,1,0,0
+"endolysin, lysozmye-like domain",product,1,1,0,0
+"endolysin, amidase domain",product,1,1,0,0
+endolysin lysM motif,annot (Pharokka),1,1,0,0
+contains pfam01551 peptidase_M23 and COG3772 phage-related lysozyme,note,1,1,0,0
+"contains tail domain PHA00380, lysozyme domain CL00222, and peptidase domain PF01551",note,1,1,0,0
+cytolysin,product,1,1,0,0
+cell wall-associated hydrolase,product,1,1,0,0
+chitinase,annot (Pharokka),1,1,0,0
+"chain A, crystal structure of T4 lysozyme mutant T152v",product,1,1,0,0
+"Vs.1; orf136; putative lytic murein transglycosylase, putative periplasmic secretion signal; putative lytic murein transglycosylase",note,1,1,0,0
+Transglycosylase,product,1,1,0,0
+PlyC lysin light chain,note,1,1,0,0
+ORF63; N-terminal glutamine amidase,note,1,1,0,0
+PlyC lysin heavy chain,note,1,1,0,0
+"Phage lysin, 1,4-beta-N-acetylmuramidase (EC or lysozyme",product,1,1,0,0
+lysozyme-like domain protein,product,1,1,0,0
+lysozyme-like domain,note,1,1,0,0
+lysozyme murein hydrolase E,product,1,1,0,0
+lysozyme murein,product,1,1,0,0
+lysozyme like domain protein,product,1,1,0,0
+lysin B,note,1,1,0,0
+lysis related protein,product,1,1,0,0
+lysis protein B,product,1,1,0,0
+gp15; HHpred: 4anr_A Soluble lytic transglycosylase B; 1.84A {Pseudomonas aeruginosa},note,1,1,0,0
+"glycoside hydrolase, family 25",product,1,1,0,0
+leishmanolysin-like peptidase,product,1,1,0,0
+"gp_75776; putative lipoprotein, peptidoglycan hydrolase, flagellar protein, glycoside hydrolase; putative lipoprotein",note,1,1,0,0
+lipolytic protein G-D-S-L family,product,1,1,0,0
+lysin,product,1,1,0,0
+lysin A peptidase domain,product,1,1,0,0
+"lysin A, GH19 glycoside hydrolase domain",product,1,1,0,0
+glucosaminidase domain-containing protein,product,1,1,0,0
+fibronectin autolysin,product,1,1,0,0
+glycoside hydrolase family 19 chitinase domain,product,1,1,0,0
+amidase,product,1,1,0,0
+"[COG3953], SLT domain proteins; SLT[pfam01464], transglycosylase SLT domain",note,1,1,0,0
+"SwissProt shows homology to a Hypothetical T4 protein (Y06E_BPT4). BLASTp shows homology to hypothetical PS2 protein 121 (Acc# YP_009030168.1). Both are extremely confident.; InterPro yields a Transglycosylase domain, and HHPred makes several confident hits on Lytic Murein Transglycosylases. InterPro dictates it is prominent outside the cell. Perhaps it is a Tail Lysin?; I do not have enough evidence to call it anything other than a hypothetical protein, but I think this warrents some experimenting.",note,1,1,0,0
+putative N-acetyl glucosaminidase-like,note,1,1,0,0
+put. lysis protein (aa 1-64),note,1,1,0,0
+orf47; similar to Lactococcus bacteriophage 4268 putative tail lysin,note,1,1,0,0
+"peptidase-like, amidase domain",note,1,1,0,0
+pseudomurein endosiopeptidase,annot (Pharokka),1,1,0,0
+pseudomurein endo-isopeptidase,product,1,1,0,0
+phage lysozyme,product,1,1,0,0
+possible endolysin,note,1,1,0,0
+pesticin C-terminus-like muramidase,product,1,1,0,0
+outer membrane lytic protein,product,1,1,0,0
+"putative lipoprotein, peptidoglycan hydrolase, flagellar protein, glycoside hydrolase",product,1,1,0,0
+putative lysis protein,product,1,1,0,0
+putative amidase-like protein,product,1,1,0,0
+putative cutinase,product,1,1,0,0
+putative cell wall hydrolase,product,1,1,0,0
+putative cell lysis protein,product,1,1,0,0
+putative membrane-bound inhibitor of lysozyme,product,1,1,0,0
+putative peptidase M15A,product,1,1,0,0
+similar to NP_932578.1; lysozyme murein hydrolase,note,1,1,0,0
+similar to NP_996621 and NP_046584; probable T4 gp5 analog; contains hypothetical transglycosylase domain at C-terminus,note,1,1,0,0
+similar to Vs.1 conserved transglycosylase SLT domain protein,note,1,1,0,0
+similar to WP_021800546.1 cell wall hydrolase/autolysin [Clostridium intestinale],note,1,1,0,0
+putative phage lysozyme,product,1,1,0,0
+putative peptidoglycan hydrolase,product,1,1,0,0
+putative tail protein; gp13; predicted lysozyme activity,note,1,1,0,0
+putative tail-associated lysozyme,product,1,1,0,0
+similar to lysozyme-like Gp15 protein of Clostridium phage phi3626,note,1,1,0,0
+similar to lysin A,note,1,1,0,0
+similar to amidase for staphylococcal phage,note,1,1,0,0
+similar to YP_002381223.1 hypothetical protein p2ECUMN_0041 from Escherichia coli UMN026 and to YP_001878793.1 putative tail-associated lysozyme from Shigella boydii CDC 3083-94,note,1,1,0,0
+tail protein containing LysM domain,note,1,1,0,0
+tail lysozyme,product,1,1,0,0
+slt family transglycosylase,product,1,1,0,0
+some similarity to Acinetobacter lysozyme,note,1,1,0,0
+tail-associated lysozyme,product,1,1,0,0
+transglutaminase Cys peptidase,product,1,1,0,0
+transglycosylase domain-containing protein,product,1,1,0,0
+transglycosylase-like protein,product,1,1,0,0
+type VI secretion system amidase effector protein Tae4,product,1,1,0,0
+virion associated lysozyme; ORF 29,note,1,1,0,0
+xkdP-like LysM domain-containing protein,product,1,1,0,0
+"xkdQ-like phage protein,cell wall hydrolase",note,1,1,0,0

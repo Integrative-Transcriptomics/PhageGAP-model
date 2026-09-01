@@ -1,0 +1,27 @@
+description,source,count,phg,bac,vir
+head scaffolding protein,annot (Pharokka),886,886,0,0
+head assembly,annot (Pharokka),112,112,0,0
+head vertex assembly chaperone,annot (Pharokka),60,60,0,0
+scaffolding protein,product,12,12,0,0
+capsid and scaffold protein,product,10,10,0,0
+scaffolding protein,annot (Pharokka),10,10,0,0
+prohead assembly scaffold protein,product,5,5,0,0
+putative capsid and scaffold protein,product,5,5,0,0
+scaffold protein,product,5,5,0,0
+capsid assembly protein,product,3,3,0,0
+putative scaffold protein,product,3,3,0,0
+capsid scaffolding protein,product,3,3,0,0
+virion scaffolding protein,product,2,2,0,0
+putative scaffolding protein,product,2,2,0,0
+capsid assembly protein,annot (Pharokka),2,2,0,0
+"This protein may be analogous to the internal scaffolding protein of Microviruses (protein B), based on the amounts present in virions and some weak sequence similarity. However, unlike protein B, proteins in this family may remain associated with mature virions.",note,1,1,0,0
+"ORF 3; This protein may be analogous to the internal scaffolding protein of Microviruses (protein B), based on the amounts present in virions and some weak sequence similarity. However, unlike protein B, proteins in this family may remain associated with mature virions",note,1,1,0,0
+Scaffolding protein,product,1,1,0,0
+head assembly cochaperone with GroES,product,1,1,0,0
+putative capsid assembly protein,product,1,1,0,0
+head scaffolding protein,product,1,1,0,0
+putative prohead scaffold protein,product,1,1,0,0
+scaffold protein,note,1,1,0,0
+pyramid forming protein,annot (Pharokka),1,1,0,0
+putitave capsid and scaffold protein,note,1,1,0,0
+"structural protein; This protein may be analogous to the internal scaffolding protein of Microviruses (protein B), based on the amounts present in virions and some weak sequence similarity. However, unlike protein B, proteins in this family may remain associated with mature virions",note,1,1,0,0

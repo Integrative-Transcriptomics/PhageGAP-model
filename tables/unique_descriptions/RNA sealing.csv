@@ -1,0 +1,22 @@
+description,source,count,phg,bac,vir
+RNA ligase,annot (Pharokka),218,218,0,0
+RNA ligase and tail fiber protein attachment catalyst,annot (Pharokka),122,122,0,0
+tRNA splicing ligase,annot (Pharokka),80,80,0,0
+RNA 2'-phosphotransferase,annot (Pharokka),16,16,0,0
+3'-phosphatase 5'-polynucleotide kinase,product,3,3,0,0
+"3'-phosphatase, 5'-polynucleotide kinase",annot (Pharokka),3,3,0,0
+"putative 3'-phosphatase, 5'-polynucleotide kinase",product,3,3,0,0
+tRNA splicing ligase RtcB,annot (Pharokka),2,2,0,0
+tRNA ligase,product,2,2,0,0
+RNA ligase 1 and tail fiber attachment catalyst,product,2,2,0,0
+RNA ligase,product,2,2,0,0
+PseT polynucleotide 5'-kinase and 3'-phosphatase,product,1,1,0,0
+"3'-phosphatase, 5'-polynucleotide kinase",product,1,1,0,0
+glutamine--tRNA ligase,product,1,1,0,0
+RNA ligase 1,product,1,1,0,0
+RNA 2'-phosphotransferase,product,1,1,0,0
+RNA ligase,note,1,1,0,0
+putative RnlA RNA ligase and tail fiber attachment catalyst,product,1,1,0,0
+putative RNA 2'-phosphotransferase,product,1,1,0,0
+putative PseT polynucleotide 5'-kinase and 3'-phosphatase,product,1,1,0,0
+serine--tRNA ligase,product,1,1,0,0

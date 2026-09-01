@@ -1,0 +1,25 @@
+description,source,count,phg,bac,vir
+anti-termination protein Q-like,annot (Pharokka),56,56,0,0
+anti-termination protein N-like,annot (Pharokka),27,27,0,0
+CIII anti-termination,annot (Pharokka),16,16,0,0
+transcription antiterminator,annot (Pharokka),4,4,0,0
+inhibitor of transcription initiation and antiterminator,annot (Pharokka),3,3,0,0
+polarity suppression Psu-like by overcoming Rho,annot (Pharokka),2,2,0,0
+anti-termination protein Q-like,product,2,2,0,0
+AlpA family regulatory protein,product,2,2,0,0
+antitermination protein Q,product,1,1,0,0
+antitermination protein,product,1,1,0,0
+"HHPred: 5LM7_F Transcription termination/antitermination protein NusA, N; Transcription regulation antitermination Nus proteins; {Escherichia coli O157:H7} : second copy of N gene",note,1,1,0,0
+comC-alpha,note,1,1,0,0
+early transcription antiterminator protein N,product,1,1,0,0
+"overcomes rho mutant effects; similar to T4 accession AAD42552; T4 gene synonyms: go9H, comC-alpha",note,1,1,0,0
+putative transcription elongation factor,product,1,1,0,0
+antiterminator Q protein,product,1,1,0,0
+putative transcription elongation factor TFIIS,product,1,1,0,0
+putative transcription elongation protein,product,1,1,0,0
+similar with transcription elongation factors,note,1,1,0,0
+transcription antiterminator protein N,product,1,1,0,0
+transcription elongation protein,product,1,1,0,0
+transcription elongation protein SprT,product,1,1,0,0
+transcription termination-antitermination domain-containing protein,product,1,1,0,0
+transcriptoin antitermination RNA binding domain protein,product,1,1,0,0

@@ -1,0 +1,60 @@
+description,source,count,phg,bac,vir
+DNA methyltransferase,annot (Pharokka),1202,1202,0,0
+SAM-dependent methyltransferase,annot (Pharokka),38,38,0,0
+DarB-like antirestriction,annot (Pharokka),28,28,0,0
+Mom-like DNA modification protein,annot (Pharokka),26,26,0,0
+DNA methylase,product,19,19,0,0
+2-aminooxy adenylosuccinate synthetase,annot (Pharokka),17,17,0,0
+DNA adenine methylase,product,15,15,0,0
+DNA methyltransferase,product,8,8,0,0
+DNA cytosine methyltransferase,product,7,7,0,0
+class I SAM-dependent methyltransferase,product,7,7,0,0
+adenine-specific methyltransferase,product,7,7,0,0
+putative DNA N6-adenine methyltransferase,product,4,4,0,0
+dCMP hydroxymethylase,annot (Pharokka),3,3,0,0
+N-6 DNA methylase,product,3,3,0,0
+putative DNA cytosine methylase,product,2,2,0,0
+DNA-cytosine methyltransferase,product,2,2,0,0
+DNA methylase,annot (Pharokka),2,2,0,0
+DNA modification protein,product,2,2,0,0
+DNA N-6-adenine methyltransferase,product,2,2,0,0
+putative type II DNA modification enzyme,product,2,2,0,0
+DNA methyltransferase-like,note,1,1,0,0
+Dam DNA adenine methylase,product,1,1,0,0
+DNA cytosine methylase,product,1,1,0,0
+ASV45082.1 regulator [Klebsiella phage SopranoGao]; A0A0H4ISY0 Adenine methylase OS=Shigella phage Ss-VASD,note,1,1,0,0
+DNA adenine methyltransferase,product,1,1,0,0
+DNA (cytosine-5-)-methyltransferase,product,1,1,0,0
+C-5 cytosine-specific DNA methylase,product,1,1,0,0
+adenine methyltransferase,product,1,1,0,0
+adenine methylase,product,1,1,0,0
+adenine DNA methyltransferase,product,1,1,0,0
+HsdM,product,1,1,0,0
+DNA methylase N-4,product,1,1,0,0
+DNA methylase domain protein,product,1,1,0,0
+cytosine MTase,product,1,1,0,0
+dCMP hydroxymethylase,product,1,1,0,0
+phage-related adenine-specific DNA methyltransferase,product,1,1,0,0
+nucleotide modification associated domain-containing protein,product,1,1,0,0
+putative DNA adenine methylase,product,1,1,0,0
+possible cytosine-specific methyl transferase,product,1,1,0,0
+putative DNA adenine methyltransferase,product,1,1,0,0
+putative DNA cytosine methyltransferase,product,1,1,0,0
+putative DNA methyl transferase,product,1,1,0,0
+class I SAM-dependent DNA methyltransferase,product,1,1,0,0
+putative DNA methylase,product,1,1,0,0
+putative DNA methylase 2,product,1,1,0,0
+putative N6 adenine-specific DNA methyltransferase,product,1,1,0,0
+putative DNA-cytosine methyltransferase,product,1,1,0,0
+putative adenine specific DNA methyltransferase,product,1,1,0,0
+putative cytosine DNA methylase,product,1,1,0,0
+putative gp42 dCMP hydroxymethylase,product,1,1,0,0
+putative SAM dependent methyltransferase,product,1,1,0,0
+putative type II DNA methyltransferase,product,1,1,0,0
+putative type II DNA modification enzyme (methyltransferase),product,1,1,0,0
+similar to C5 cytosine specific DNA methylase domain,note,1,1,0,0
+similar to PHAGE_Escher_UFV_AREG1_NC_031030: DNA methylase,note,1,1,0,0
+similar to Staphylococcus phage G1 ORF111 (INSD Accession Number AY954969) and to Staphylococcus phage K ORF5 (INSD Accession Number AY176327); putative DNA methyl transferase; ORF011,note,1,1,0,0
+site-specific DNA methylase,product,1,1,0,0
+site-specific DNA-methyltransferase,product,1,1,0,0
+type I restriction-modification system S subunit,product,1,1,0,0

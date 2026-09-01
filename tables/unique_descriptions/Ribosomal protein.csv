@@ -1,0 +1,80 @@
+description,source,count,phg,bac,vir
+30S ribosomal protein S13,product,12,0,12,0
+30S ribosomal protein S15,product,12,0,12,0
+30S ribosomal protein S8,product,12,0,11,1
+50S ribosomal protein L21,product,12,0,12,0
+30S ribosomal protein S20,product,11,0,11,0
+30S ribosomal protein S2,product,11,0,11,0
+30S ribosomal protein S16,product,11,0,11,0
+50S ribosomal protein L36,product,11,0,11,0
+50S ribosomal protein L7/L12,product,11,0,11,0
+50S ribosomal protein L9,product,11,0,11,0
+50S ribosomal protein L32,product,11,0,11,0
+30S ribosomal protein S4,product,11,0,11,0
+50S ribosomal protein L18,product,11,0,11,0
+50S ribosomal protein L28,product,10,0,10,0
+50S ribosomal protein L15,product,10,0,10,0
+50S ribosomal protein L6,product,10,0,10,0
+30S ribosomal protein S5,product,10,0,10,0
+50S ribosomal protein L34,product,10,0,10,0
+50S ribosomal protein L3,product,10,0,10,0
+50S ribosomal protein L31,product,10,1,9,0
+50S ribosomal protein L19,product,10,0,10,0
+30S ribosomal protein S9,product,10,0,10,0
+30S ribosomal protein S6,product,10,0,10,0
+50S ribosomal protein L11,product,10,0,10,0
+type B 50S ribosomal protein L31,product,9,0,9,0
+50S ribosomal protein L23,product,9,0,9,0
+50S ribosomal protein L33,product,9,0,9,0
+50S ribosomal protein L30,product,9,0,9,0
+50S ribosomal protein L27,product,9,0,9,0
+50S ribosomal protein L20,product,9,0,9,0
+50S ribosomal protein L10,product,9,0,9,0
+50S ribosomal protein L4,product,9,0,9,0
+50S ribosomal protein L29,product,9,0,9,0
+ribosomal protein-like protein,product,8,8,0,0
+50S ribosomal protein L35,product,8,0,8,0
+50S ribosomal protein L25,product,8,0,8,0
+50S ribosomal protein L17,product,8,0,8,0
+50S ribosomal protein L1,product,8,0,8,0
+50S ribosomal protein L13,product,8,0,8,0
+30S ribosomal protein S14,product,8,0,8,0
+30S ribosomal protein S17,product,8,0,8,0
+50S ribosomal protein L22,product,8,0,8,0
+50S ribosomal protein L14,product,7,0,7,0
+30S ribosomal protein S3,product,7,1,6,0
+30S ribosomal protein S1,product,6,0,6,0
+30S ribosomal protein S12,product,6,0,6,0
+30S ribosomal protein S11,product,6,0,6,0
+30S ribosomal protein S7,product,6,0,6,0
+50S ribosomal protein L5,product,6,0,6,0
+30S ribosomal protein S19,product,6,0,6,0
+30S ribosomal protein S21,product,6,0,6,0
+50S ribosomal protein L24,product,6,0,6,0
+50S ribosomal protein L16,product,6,0,6,0
+type B 50S ribosomal protein L36,product,5,0,5,0
+30S ribosomal protein S18,product,5,0,5,0
+ribosomal protein,product,5,5,0,0
+50S ribosomal protein L2,product,5,0,5,0
+30S ribosomal protein S10,product,4,0,4,0
+sigma 54 modulation protein/ribosomal protein S30EA,annot (Pharokka),4,4,0,0
+L7Ae/L30e/S12e/Gadd45 family ribosomal protein,product,3,0,3,0
+50S ribosomal protein L25/general stress protein Ctc,product,2,0,2,0
+"Zn ribbon domain of transcription factor, similar to a ribosomal protein",product,2,2,0,0
+COG0222 Ribosomal protein L7/L12,note,2,2,0,0
+type Z 30S ribosomal protein S14,product,2,0,2,0
+ubiquitin/ribosomal protein,product,2,0,0,2
+Ubiquitin/ribosomal protein L40 fusion protein,product,1,0,0,1
+L13E family domain protein,product,1,1,0,0
+50S ribosomal protein L7ae,product,1,0,1,0
+Ribosomal protein L19e incomplete domain containing protein,product,1,0,0,1
+"PhnA Zn-ribbon, lysine biosynthesis protein, similar to a ribosomal protein",product,1,1,0,0
+gene ID: 3H_2_00334; similar to ribosomal protein L24e/L24 found in eukaryotes (L24) and in archaea (L24e),note,1,0,0,1
+ribosomal protein S21,product,1,0,0,1
+ribosomal protein S21,annot (Pharokka),1,1,0,0
+putative ribosomal protein,note,1,1,0,0
+putative 50S ribosomal protein,product,1,0,0,1
+"orf17; Domain of ribosomal_S13 super family, ribosomal protein S13/S18",note,1,1,0,0
+potential large ribosomal subunit; eukaryotic/archaeal ribosomal protein; 44.6% sequence similarity to ADP02495.1: gp100 from Salmonella phage PVP-SE1; 41.0% sequence similarity to YP_002003770.1: gp018 from Escherichia phage rv5,note,1,1,0,0
+similar to ubiquitin 40S ribosomal protein,note,1,0,0,1
+ubiqutin/ribosomal protein,product,1,0,0,1

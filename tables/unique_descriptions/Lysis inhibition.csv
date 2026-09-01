@@ -1,0 +1,15 @@
+description,source,count,phg,bac,vir
+RIIA lysis inhibitor,annot (Pharokka),191,191,0,0
+RIIB lysis inhibitor,annot (Pharokka),174,174,0,0
+lysis inhibition,annot (Pharokka),47,47,0,0
+lysis inhibition accessory protein,annot (Pharokka),38,38,0,0
+rIIA lysis inhibitor,product,4,4,0,0
+ORFD; in Gp30-rIII intergenic region,note,1,1,0,0
+Y13A_BPT4RecName: Full=Uncharacterized 11.1 kDa protein in Gp30-rIII intergenic region; AltName: Full=ORF D,product,1,1,0,0
+possible lysis inhibition component,note,1,1,0,0
+"possible lysis inhibition component; similar to T4 accession AAD42599; T4 gene synonyms: mobD.9, tk.-1",note,1,1,0,0
+"possible lysis inhibition component; putative; similar to T4 accession AAD42599; T4 gene synonyms: mobD.9, tk.-1",note,1,1,0,0
+protector from prophage-induced early lysis,product,1,1,0,0
+rIIA-like protein,product,1,1,0,0
+rIIB-like protein,product,1,1,0,0
+similar to Enterobacteria phage T4 uncharacterized 17.1 kDa protein in Gp30-rIII intergenic region,note,1,1,0,0

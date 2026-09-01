@@ -1,0 +1,79 @@
+description,source,count,phg,bac,vir
+prepilin-type N-terminal cleavage/methylation domain-containing protein,product,44,1,43,0
+flagellar motor protein MotB,product,34,0,34,0
+flagellar hook-length control protein FliK,product,32,0,32,0
+The bacterial flagellar biogenesis protein FliP forms a type III secretion system (T3SS)-type pore required for flagellar assembly.; The bacterial flagellar biogenesis protein FliP forms a type III secretion system (T3SS)-type pore required for flagellar assembly; Derived by automated computational analysis using gene prediction method: Protein Homology.,note,28,0,28,0
+flagellar biosynthesis protein FlhA,product,26,0,26,0
+hol-like chemotaxis,annot (Pharokka),26,26,0,0
+flagellar basal body-associated protein FliL,product,24,0,24,0
+flagellar assembly protein FliH,product,23,0,23,0
+flagellar biosynthesis protein FliQ,product,23,0,23,0
+flagellar assembly peptidoglycan hydrolase FlgJ,product,23,0,23,0
+flagellar biosynthesis protein FlhB,product,23,0,23,0
+flagellar protein export ATPase FliI,product,20,0,20,0
+type IV pilin protein,product,19,0,19,0
+Flp family type IVb pilin,product,16,0,16,0
+prepilin peptidase-dependent pilin,product,16,0,16,0
+flagellar protein FlhE,product,13,0,13,0
+flagellar protein FliT,product,12,0,12,0
+flagellar basal body-associated FliL family protein,product,12,0,12,0
+flagellar biosynthesis protein FlhF,product,11,0,11,0
+pilin,product,10,0,10,0
+flagellar motor protein,product,7,0,7,0
+type 4 pilus major pilin,product,7,0,7,0
+SpaA isopeptide-forming pilin-related protein,product,6,0,6,0
+type-F conjugative transfer system pilin assembly protein TrbC,product,5,0,5,0
+flagellar protein FlgN,product,5,0,5,0
+flagellar protein FlaG,product,5,0,5,0
+type IV conjugative transfer system pilin TraA,product,5,0,5,0
+flagellar hook length control protein FliK,product,4,0,4,0
+type-F conjugative transfer system pilin assembly protein TraF,product,4,0,4,0
+swarming motility protein,product,4,4,0,0
+flagellar motor protein PomA,product,4,0,4,0
+flagellar protein MotY,product,4,0,4,0
+pilin,annot (Pharokka),3,3,0,0
+TadE family type IV pilus minor pilin,product,3,0,3,0
+flagellar assembly protein FlgT,product,3,0,3,0
+type-F conjugative transfer system pilin assembly thiol-disulfide isomerase TrbB,product,3,0,3,0
+flagellar protein,annot (Pharokka),2,2,0,0
+flagellar assembly protein FliW,product,2,0,2,0
+SpaH/EbpB family LPXTG-anchored major pilin,product,2,0,2,0
+flagellar assembly protein T N-terminal domain-containing protein,product,2,0,2,0
+pilin N-terminal domain-containing protein,product,2,0,2,0
+Swarming motility protein YbiA,product,1,1,0,0
+FcpA-related putative periplasmic flagellar protein,product,1,0,1,0
+GepA-like,note,1,1,0,0
+ORF156; FlaD: Putative archaeal flagellar protein D/E (cell mobility and secretion),note,1,1,0,0
+PAK pilin-like protein,product,1,1,0,0
+flagellar assembly protein,product,1,1,0,0
+core encoded pilin,annot (Pharokka),1,1,0,0
+competence type IV pilus major pilin ComGC,product,1,0,1,0
+flagellar protein,product,1,0,1,0
+flagellar hook length control protein-like protein,product,1,1,0,0
+flagellar motor protein MotD,product,1,0,1,0
+flagellar hook-length control protein,product,1,1,0,0
+flagellar hook-length control protein-like protein,product,1,0,0,1
+flagellar biosynthesis protein FlgE,product,1,0,1,0
+flagellar basal body-associated protein,product,1,1,0,0
+flagellar assembly-like protein,product,1,1,0,0
+flagellar attachment zone protein 1,product,1,1,0,0
+flagellar biosynthesis protein,product,1,1,0,0
+flagellar biosynthesis protein FliZ,product,1,0,1,0
+flagellar basal-body rod modification protein,product,1,1,0,0
+flagellar biosynthesis protein FlgM,product,1,0,1,0
+major fimbrial subunit,product,1,1,0,0
+"orf64; prokaryotic N-terminal methylation site PS00409, similar to MSHA pilin protein of Vibrio vulnificus",note,1,1,0,0
+lateral flagellar protein LfgN,product,1,0,1,0
+lateral flagellar protein LfiJ,product,1,0,1,0
+lateral flagellar motor protein LafU,product,1,0,1,0
+lateral flagellar hook-length control protein LafE,product,1,0,1,0
+lateral flagellar basal body-associated protein LafF,product,1,0,1,0
+lateral flagellar biosynthesis protein LfhA,product,1,0,1,0
+lateral flagellar assembly protein FliH,product,1,0,1,0
+flagellar protein MotX,product,1,0,1,0
+pilin glycosylation protein,product,1,1,0,0
+putative flagellar biosynthesis protein,product,1,0,0,1
+type 4a pilus major pilin PilS,product,1,0,1,0
+type IV pilus major pilin,product,1,0,1,0
+type IVa pilus major pilin TapA,product,1,0,1,0
+type-F conjugative transfer system pilin acetylase TraX,product,1,0,1,0
