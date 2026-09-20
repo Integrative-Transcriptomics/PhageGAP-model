@@ -13,7 +13,7 @@ This project provides a modular pipeline for embedding protein sequences, proces
 #### Predict protein functions for a new FASTA
 To generate predictions for a new FASTA file, update the file paths in `src/predict/config.yaml` accordingly.
 
-Navigate to PhageGAP-model, then run:
+Navigate to `PhageGAP-model/`, then run:
 
 ```bash
 python -m src.predict.run_predict
@@ -30,24 +30,24 @@ The pipeline consists of the following steps:
 5. **Prediction** for unknown proteins or custom FASTA input
 
 #### Modules & Usage
-Navigate to PhageGAP-model/
+Navigate to `PhageGAP-model/`
 
 ##### 1. Embedding: 
 Generate embeddings for protein sequences using a selected pLM. \
-Supported pLMs: ProtT5, ProstT5, ESM-C, ESM3, gLM2 \
+Supported pLMs: ProtT5, ProstT5, ESM-C, ESM3, gLM2 
 ```bash
 python -m src.embed.run_embed
 ```
 
 ##### 2. Pooling: 
 Pool per-residue embeddings over sequence length. \
-Supported pooling strategies: mean and max pooling \
+Supported pooling strategies: mean and max pooling 
 ```bash
 python -m src.pool.run_pool
 ```
 
 ##### 3. Classification:
-Classify embeddings into functional categories. \
+Classify embeddings into functional categories. 
 ```bash
 python -m src.classify.run_classify
 ```
@@ -56,7 +56,7 @@ python -m src.classify.run_classify
 * MLP: operates on pooled embeddings
 
 ##### 4. Cross-validation:
-Run CV to identify the best number of epochs. \
+Run CV to identify the best number of epochs. 
 ```bash
 python -m src.classify.run_cv
 ```
