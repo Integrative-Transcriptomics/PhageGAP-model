@@ -94,6 +94,3 @@ Predictions can optionally be filtered using a probability threshold.
 
 #### Configuration 
 Each module uses its own configuration file.
-
-### Model analysis
-Analysis of model application outputs 
