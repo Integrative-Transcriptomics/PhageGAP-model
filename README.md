@@ -50,7 +50,13 @@ python -m src.classify.run_classify
 * CNN: operates on unpooled embeddings
 * MLP: operates on pooled embeddings
 
-### 4. Retraining on full dataset:
+### 4. Cross-validation:
+Run CV to identify the best number of epochs. \
+```bash
+python -m src.classify.run_cv
+```
+
+### 5. Retraining on full dataset:
 Retrain the best model using all available labeled data. 
 ```bash
 python -m src.classify.retrain_whole
@@ -68,12 +74,13 @@ python -m src.predict.run_predict
 
 ## Training Procedure
 
-1. **Data split**: Known labeled data is split into train, validation, and test data
-2. **Hyperparameter optimization**: Optuna study using 200 trials, reduced dataset size for speed, batch size of 128, and the objective to maximize the F1 score
-3. **Full training**: Using best hyperparameters train on full train/val/test split. Tracks per-epoch metrics (F1 score, Validation loss)
-4. **Model selection**: Checkpoint achieving the highest validation F1 score is selected
-5. **Evaluation**: Test F1 score is computed and confusion matrix generated
-6. **Retrain model**: Retrain model using all labeled data (train + val + test), configure number of epochs based on best-performing checkpoint.
+1. **Data split**: Known labeled data is split into train, validation, and test data.
+2. **Hyperparameter optimization**: Optuna study using 200 trials, reduced dataset size for speed, batch size of 128, and the objective to maximize the F1 score.
+3. **Full training**: Using best hyperparameters train on full train/val/test split. Tracks per-epoch metrics.
+4. **Model selection**: Checkpoint achieving the highest validation F1 score is selected.
+5. **Evaluation**: Test F1 score is computed and confusion matrix generated.
+6. **Run CV**: Run cross-validation to identify the best number of epochs.
+6. **Retrain model**: Retrain model using all labeled data (train + val + test), configure number of epochs based on best-performing number of epochs (cf. CV).
 
 ## Prediction on unknown data
 Final retrained model is used to predict previously unknown proteins. \
