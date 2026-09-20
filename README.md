@@ -34,7 +34,7 @@ Navigate to `PhageGAP-model/`
 
 ##### 1. Embedding: 
 Generate embeddings for protein sequences using a selected pLM. \
-Supported pLMs: ProtT5, ProstT5, ESM-C, ESM3, gLM2 
+Supported pLMs: ProtT5, ProstT5, ESM-C, ESM-2, ESM-3, gLM2 
 ```bash
 python -m src.embed.run_embed
 ```
