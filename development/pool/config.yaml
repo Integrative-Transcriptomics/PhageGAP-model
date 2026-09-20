@@ -1,0 +1,18 @@
+#################################################################################
+# Hydra configuration for pooling protein sequence embeddings. 
+# Values can be modified via CLI overrides, e.g.:
+#   python -m src.pool.run_pool pool.strategy=max
+#################################################################################
+
+seed: 42
+
+data:
+  embedding: outputs/embed/2025-12-19_11-23-18/protein_embeddings_last_True_prot_t5.h5 
+
+pool: 
+  layers: [] # optional explicit layers list, e.g. [1, 3, 5, 9]; take last hidden layer/final representation if empty
+  strategy: mean # mean | max | FC
+
+hydra:
+  run:
+    dir: outputs/pool/${now:%Y-%m-%d_%H-%M-%S}

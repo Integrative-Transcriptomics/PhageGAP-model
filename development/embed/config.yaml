@@ -1,0 +1,20 @@
+#################################################################################
+# Hydra configuration for creating protein sequence embeddings. 
+# Values can be modified via CLI overrides, e.g.:
+#   python -m src.embed.run_embed embeddings.model_type=esmc_300m
+#################################################################################
+
+seed: 42
+
+device: cuda
+
+data:
+  metadata_tsv: /ceph/ibmi/it/thesis_data/scheuren/embeddings/protein_sequences/phg_vrl_bac/phage_unclustered_before/all_no_phage_repr_assigned_cat_0.95.tsv 
+
+embeddings:
+  model_type: esmc_300m # prot_t5 | esm3_open | esmc_300m | esmc_600m | prost_t5 | glm2_650m | esm2_150m | esm2_650m | esm2_3b 
+  only_last: True # True if final embedding should be extracted; False if all hidden layers should be extracted
+
+hydra:
+  run:
+    dir: outputs/embed/bac_vir/${now:%Y-%m-%d_%H-%M-%S}

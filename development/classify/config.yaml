@@ -1,0 +1,109 @@
+#################################################################################
+# Hydra configuration for classifying protein sequence embeddings. 
+# Values can be modified via CLI overrides, e.g.:
+#   python -m src.classify.run_classify optimize=True
+#################################################################################
+
+seed: 42
+
+cluster:
+  representatives: protein_sequences/phg_vrl_bac/phage_unclustered_before/only_phage_repr_assigned_cat_0.95.tsv  
+  cat: protein_sequences/categorized/Keywords_map_FINAL.csv
+
+data:
+  embedding: outputs/embed/2025-12-19_11-23-18/protein_embeddings_last_True_prot_t5.h5 
+  pooled: False
+  embed_dim: 1024 # 1024 (pro(s)t) | 960 (esmc_300m) | 1152 (esmc_600m) | 1536 (esm3) | 1280 (glm2, esm2_650, pst-TL-T) | 800 (pst-TL-P) |  2560 (esm2_3b) | 640 (esm2_150m)
+  test_size: 0.15
+  val_size: 0.15
+  num_workers: 12
+  colname: assigned_subcat
+  colname_top: assigned_top
+  map_colname: Subcategory
+  map_colname_top: Top_Category
+
+bac_vir:
+  bool: True
+  embedded: outputs/pool/bac_vir/protein_embeddings_prot_t5__mean.h5 
+
+features:
+  bool: False
+  path: 
+  top_n: 
+
+context:
+  bool: False
+  size: 
+
+optimize:
+  bool: False
+  cnn_mlp: False # if True, optimizes CNN + MLP. Else optimizes CNN + FC
+  cnn_flattened: False
+  mean_max: False
+  epochs: 5
+  n_trials: 200
+  batch_size_train: 128
+  batch_size_test: 1000
+  cnn_use_linear_attention: False
+  cnn_use_non_linear_attention: False
+
+train:
+  device: cuda
+  log_interval: 10
+
+models:
+  model1:
+    mlp:
+      num_dimensions: 2
+      num_neurons: [448, 448] 
+      dropout: 0.05 
+    context:
+      num_heads: 16
+      dim_feedforward: 512
+      num_layers: 2
+      dropout: 0.5
+    cnn:
+      bool: False
+      num_conv_layers: 2
+      num_filters: [448, 512] 
+      kernel_sizes: [11, 3] 
+      dropout: 0.33 
+      dilations: [5, 2] 
+      use_dilation: True
+      mean_max: False
+      use_linear_attention: False
+      use_nonlinear_attention: False
+    cnn_flattened:
+      bool: False
+      num_conv_layers: 3
+      num_filters: [256, 128, 384]
+      kernel_sizes: [11, 3, 7]
+      dropout: 0.1
+      dilations: [4, 7, 7]
+      use_dilation: True
+      mean_max: False
+    cnn_mlp:
+      bool: True
+      num_conv_layers: 2
+      num_filters: [256, 512] 
+      kernel_sizes: [11, 3] 
+      dropout_conv: 0.08 
+      dilations: [1, 8] 
+      use_dilation: True
+      use_linear_attention: False
+      use_nonlinear_attention: False 
+      num_dimensions: 2
+      num_neurons: [512, 512] 
+      dropout_mlp: 0.3 
+
+
+optim:
+  optimizer: AdamW # Adam | AdamW | SGD
+  lr: 0.00055242872220832 
+  weight_decay: 0.0001
+  epochs: 30
+  batch_size: 128
+
+hydra:
+  run:
+    dir: ${get_output_dir:${optimize.bool},${context.bool},${data.pooled}}
