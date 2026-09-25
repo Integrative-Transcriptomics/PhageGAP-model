@@ -7,7 +7,7 @@
 seed: 42
 
 data:
-  embedding: outputs/embed/2025-12-19_11-23-18/protein_embeddings_last_True_prot_t5.h5 
+  embedding: outputs/embed/ProtT5/protein_embeddings_last_True_prot_t5.h5 
 
 pool: 
   layers: [] # optional explicit layers list, e.g. [1, 3, 5, 9]; take last hidden layer/final representation if empty

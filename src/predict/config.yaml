@@ -5,7 +5,7 @@
 #################################################################################
 
 model: 
-  path: outputs/classify_unpooled/phageGAP_95_retrained_30e/cnn_model1_final.pt
+  path: outputs/classify_unpooled/PhageGAP_95_retrained_30e/cnn_model1_final.pt
 
 seed: 42
 
@@ -20,7 +20,7 @@ unknowns:
   ids: 
 
 new_fasta:
-  path: protein_sequences/NCBI/BASEL_proteins_1_file/protein_fastas_concatenated.faa
+  path: inputs/BASEL_proteins_concatenated.faa
 
 embeddings:
   model_type: prot_t5

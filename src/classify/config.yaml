@@ -7,11 +7,11 @@
 seed: 42
 
 cluster:
-  representatives: protein_sequences/phg_vrl_bac/phage_unclustered_before/only_phage_repr_assigned_cat_0.95.tsv  
-  cat: protein_sequences/categorized/Keywords_map_FINAL.csv
+  representatives: inputs/only_phage_repr_assigned_cat_0.95.tsv  
+  cat: inputs/Keywords_map.csv
 
 data:
-  embedding: outputs/embed/2025-12-19_11-23-18/protein_embeddings_last_True_prot_t5.h5 
+  embedding: outputs/embed/ProtT5/protein_embeddings_last_True_prot_t5.h5 
   pooled: False
   embed_dim: 1024 # 1024 (pro(s)t) | 960 (esmc_300m) | 1152 (esmc_600m) | 1536 (esm3) | 1280 (glm2, esm2_650, pst-TL-T) | 800 (pst-TL-P) |  2560 (esm2_3b) | 640 (esm2_150m)
   test_size: 0.15
@@ -24,7 +24,7 @@ data:
 
 bac_vir:
   bool: True
-  embedded: outputs/pool/bac_vir/protein_embeddings_prot_t5__mean.h5 
+  embedded: outputs/embed/bac_vir/ProtT5/protein_embeddings_last_True_prot_t5.h5 
 
 features:
   bool: False
@@ -54,52 +54,52 @@ train:
 models:
   model1:
     mlp:
-      num_dimensions: 2
-      num_neurons: [448, 448] 
-      dropout: 0.05 
+      num_dimensions: 
+      num_neurons: 
+      dropout: 
     context:
-      num_heads: 16
-      dim_feedforward: 512
-      num_layers: 2
-      dropout: 0.5
+      num_heads: 
+      dim_feedforward: 
+      num_layers: 
+      dropout: 
     cnn:
-      bool: False
+      bool: True
       num_conv_layers: 2
-      num_filters: [448, 512] 
-      kernel_sizes: [11, 3] 
-      dropout: 0.33 
-      dilations: [5, 2] 
+      num_filters: [384, 384] 
+      kernel_sizes: [11, 9] 
+      dropout: 0.17
+      dilations: [7, 6] 
       use_dilation: True
       mean_max: False
       use_linear_attention: False
       use_nonlinear_attention: False
     cnn_flattened:
       bool: False
-      num_conv_layers: 3
-      num_filters: [256, 128, 384]
-      kernel_sizes: [11, 3, 7]
-      dropout: 0.1
-      dilations: [4, 7, 7]
-      use_dilation: True
-      mean_max: False
+      num_conv_layers: 
+      num_filters: 
+      kernel_sizes: 
+      dropout: 
+      dilations: 
+      use_dilation: 
+      mean_max: 
     cnn_mlp:
-      bool: True
-      num_conv_layers: 2
-      num_filters: [256, 512] 
-      kernel_sizes: [11, 3] 
-      dropout_conv: 0.08 
-      dilations: [1, 8] 
-      use_dilation: True
-      use_linear_attention: False
-      use_nonlinear_attention: False 
-      num_dimensions: 2
-      num_neurons: [512, 512] 
-      dropout_mlp: 0.3 
+      bool: False
+      num_conv_layers: 
+      num_filters: 
+      kernel_sizes: 
+      dropout_conv:
+      dilations:
+      use_dilation: 
+      use_linear_attention: 
+      use_nonlinear_attention: 
+      num_dimensions: 
+      num_neurons: 
+      dropout_mlp: 
 
 
 optim:
   optimizer: AdamW # Adam | AdamW | SGD
-  lr: 0.00055242872220832 
+  lr: 0.00154509923679428
   weight_decay: 0.0001
   epochs: 30
   batch_size: 128
