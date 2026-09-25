@@ -1,0 +1,37 @@
+#################################################################################
+# Hydra configuration for preparing pooled protein sequence embeddings. 
+# Values can be modified via CLI overrides, e.g.:
+#   python src/prepare_for_webapp/run_prepare.py umap.n_neighbors=50
+#################################################################################
+
+seed: 42
+
+data:
+  embedding: outputs/pool/ProtT5/protein_embeddings_prot_t5__mean.h5
+
+pool: 
+  bool: False
+  layers: [] # optional explicit layers list, e.g. [1, 3, 5, 9]; take last hidden layer/final representation if empty
+  strategy: mean # mean | max | FC
+
+cluster:
+  representatives: inputs/only_phage_repr_assigned_cat_0.95.tsv
+  
+mapping:
+  colname: assigned_subcat
+
+bac_vir:
+  bool: True
+  embedded: outputs/pool/BacVir/protein_embeddings_prot_t5__mean.h5
+
+pca:
+  n_components: 50
+  type: incremental # normal | incremental
+
+tsne:
+  perplexity: 50
+  metric: euclidean
+
+hydra:
+  run:
+    dir: outputs/prepare/ProtT5/${now:%Y-%m-%d_%H-%M-%S}
