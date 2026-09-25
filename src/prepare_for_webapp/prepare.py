@@ -3,13 +3,10 @@
 from __future__ import annotations
 
 import numpy as np
-import pandas as pd
 from sklearn.decomposition import IncrementalPCA, PCA
 from typing import Dict, List, Tuple
 import logging
-from Bio import SeqIO
 from openTSNE import TSNE
-import umap
 
 
 logger = logging.getLogger(__name__)
@@ -57,7 +54,20 @@ def perform_pca(embeddings: Dict[str, np.ndarray], type: str, n_comps: int, seed
 
     return pca, coords, y
 
-def perform_tsne(coords, perpl, metric, seed):
+def perform_tsne(coords: np.ndarray, perpl: int, metric: str, seed: int) -> np.ndarray:
+    """Perform t-SNE on the PCA coordinates
+    
+    Params
+    ----------
+        coords (np.ndarray): PCA coordinates / transformed values of shape (n_samples, n_comps)
+        perpl (int): Perplexity for t-SNE, specified in config.yaml
+        metric (str): Metric for t-SNE, specified in config.yaml
+        seed (int): Seed for reproducibility, specified in config.yaml
+
+    Returns
+    ----------
+        X_tsne (np.ndarray): t-SNE coordinates of shape (n_samples, 2)
+    """
     reducer = TSNE(perplexity=perpl, metric=metric, random_state=seed)
     X_tsne = reducer.fit(coords)
 

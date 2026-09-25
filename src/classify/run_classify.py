@@ -284,7 +284,6 @@ def main(cfg:DictConfig) -> None: #noqa: D401
                         context_size=cfg.context.size
                     ).to(device)
                     models[f"context_{mod}"] = model_context
-                    break
 
             else:
                 models = {}
@@ -300,7 +299,6 @@ def main(cfg:DictConfig) -> None: #noqa: D401
                         n_feats=0 if cfg.features.bool != True else cfg.features.top_n,
                     ).to(device)
                     models[f"mlp_{mod}"] = model
-                    break
         else:
             models = {}
 
@@ -339,7 +337,6 @@ def main(cfg:DictConfig) -> None: #noqa: D401
                     ).to(device)
                     models[f"cnn_{mod}"] = model_cnn
 
-                
                 if model_cfg.cnn_mlp.bool:
                     model_cnn_mlp = CNN_MLP(
                         trial=None,

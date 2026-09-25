@@ -4,11 +4,8 @@ import hydra
 import logging
 import os
 import torch
-import optuna
-from optuna.trial import TrialState
 from torch.utils.data import ConcatDataset, DataLoader
 import pandas as pd
-import numpy as np
 
 # Optuna hyperparameter optimization framework adapted from 
 # https://github.com/elena-ecn/optuna-optimization-for-PyTorch-CNN/blob/main/optuna_optimization.py
@@ -16,10 +13,10 @@ import numpy as np
 
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s][%(name)s][%(levelname)s] - %(message)s")
 
-from src.utils import get_output_dir, set_determinism, read_hdf5, log, save_test, save_json, save_cm, save_cm_norm, save_labelmap, save_unknown_IDs, save_optuna_results, save_cm_norm_raw, save_indiv_results
-from src.classify.data import encode_category, add_features, ProteinDataset, GenomicContextDataset, analyze_encoder, build_dataloaders, build_dataloaders_cv, collate_fn, filter_unknowns, filter_cluster_representatives, filter_nan_embeddings
-from src.classify.model import MLP, ContextTransformer, CNN_MLP, CNN, CNN_Flattened
-from src.classify.train import fit, fit_cv, fit_test, objective_mlp, objective_cnn_mlp, objective_cnn, objective_cnn_flattened
+from src.utils import get_output_dir, set_determinism, read_hdf5, log, save_json
+from src.classify.data import encode_category, add_features, ProteinDataset, analyze_encoder, build_dataloaders_cv, collate_fn, filter_unknowns, filter_cluster_representatives, filter_nan_embeddings
+from src.classify.model import MLP, CNN_MLP, CNN, CNN_Flattened
+from src.classify.train import fit_cv
 
 OmegaConf.register_new_resolver("get_output_dir", get_output_dir)
 
@@ -185,7 +182,6 @@ def main(cfg:DictConfig) -> None: #noqa: D401
                     num_classes=num_categories,
                 ).to(device)
                 models[f"mlp_{mod}"] = model
-                break
         else:
             models = {}
 

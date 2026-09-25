@@ -51,7 +51,7 @@ def main(cfg:DictConfig) -> None: #noqa: D401
     embeddings_unknowns, metadata_unknowns, embeddings_knowns, metadata_knowns = filter_unknowns(embeddings_filtered, metadata_filtered, cfg.mapping.colname)
 
     if cfg.pool.bool:
-        # 3. Pool embeddings
+        # Pool embeddings
         checkpoint = get_checkpoint_from_embedding_filename(cfg.data.embedding)
         pooled_embeddings = pool_embeddings(embeddings_knowns, checkpoint, layers=cfg.pool.layers, strategy=cfg.pool.strategy)
         pca, coords, ids = perform_pca(pooled_embeddings, cfg.pca.type, cfg.pca.n_components, cfg.seed)

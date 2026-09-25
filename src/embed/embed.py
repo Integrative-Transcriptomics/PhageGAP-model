@@ -7,11 +7,6 @@ from __future__ import annotations
 import pandas as pd
 from esm.models.esmc import ESMC
 from esm.models.esm3 import ESM3
-from esm.sdk.forge import ESM3ForgeInferenceClient
-from concurrent.futures import ThreadPoolExecutor, as_completed
-import esm
-from getpass import getpass
-from esm.sdk import client
 from esm.sdk.api import ESMProtein, LogitsConfig, SamplingConfig, ESM3InferenceClient
 from transformers import T5Tokenizer, T5EncoderModel, AutoModel, AutoTokenizer, EsmModel
 from typing import Tuple, Optional, Dict, Any
@@ -23,8 +18,6 @@ import sys
 import numpy as np
 from pathlib import Path
 from huggingface_hub import login as hf_login
-from fairscale.nn.data_parallel import FullyShardedDataParallel as FSDP
-from fairscale.nn.wrap import enable_wrap, wrap
 import time
 import psutil
 import os
@@ -57,12 +50,6 @@ MODEL_CONFIGS: Dict[str, ModelConfig] = {
     },
     "esm2_3b": {
         "hf_id": "facebook/esm2_t36_3B_UR50D",
-        "loader": "transformers",
-        "model_class": EsmModel,
-        "tokenizer_class": AutoTokenizer,
-    },
-    "esm2_15b": {
-        "hf_id": "facebook/esm2_t48_15B_UR50D",
         "loader": "transformers",
         "model_class": EsmModel,
         "tokenizer_class": AutoTokenizer,
@@ -269,7 +256,7 @@ def embed_seq_glm2(seq: str, model: AutoModel, tokenizer: AutoTokenizer, only_la
         return hidden_states
 
 
-def embed_seq_esmc(seq: str, model: ESM3InferenceClient, only_last: bool, checkpoint: str):
+def embed_seq_esmc(seq: str, model: ESM3InferenceClient, only_last: bool):
     """Embeds a single amino acid sequence using ESM-C model.
 
     Params:
@@ -351,6 +338,7 @@ def embed_seq_T5(seq: str, model: T5EncoderModel, tokenizer: T5Tokenizer, only_l
         tokenizer (T5Tokenizer): Prot_T5 tokenizer
         only_last (bool): Whether only the final representation embedding should be returned. 
                             Returns all hidden layers otherwise.
+    checkpoint (str): The pLM used for creating protein embeddings
                             
     Returns:
         last_layer_emb (np.ndarray): Array of final representation embedding
@@ -478,7 +466,7 @@ def compute_embeddings(checkpoint: str, df: pd.DataFrame, model: nn.Module, toke
                 embed_dict[row["protein_ID"]] = emb # 30 x (L, 1280) | 1 x (L, 1280)
 
             elif checkpoint in ("esmc_300m", "esmc_600m"):
-                emb = embed_seq_esmc(seq, model, only_last, checkpoint)
+                emb = embed_seq_esmc(seq, model, only_last)
                 embed_dict[row["protein_ID"]] = emb 
 
             elif checkpoint in ("esm2_150m", "esm2_650m", "esm2_3b", "esm2_15b"):

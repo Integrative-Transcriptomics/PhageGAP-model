@@ -4,18 +4,12 @@ from __future__ import annotations
 
 import numpy as np
 import pandas as pd
-from typing import Dict, List, Tuple
-from pathlib import Path
-import torch
-import sys
-import pandas as pd
+from typing import Dict, Tuple
 import re
-from src.classify.model import MLP, CNN
 from Bio import SeqIO
-from torch.nn.utils.rnn import pad_sequence
 
 
-def load_fasta(path_to_fasta):
+def load_fasta(path_to_fasta: str) -> pd.DataFrame:
     """Load fasta to make predictions for"""
     proteins = []
     with open(path_to_fasta) as handle:
@@ -29,7 +23,7 @@ def load_fasta(path_to_fasta):
     df = pd.DataFrame.from_dict(proteins)
     return df
 
-def filter_unknowns(in_path, embeddings: Dict[str, np.ndarray], metadata_df: pd.DataFrame) -> Tuple[Dict[str, np.ndarray], pd.DataFrame]:
+def filter_unknowns(in_path: str, embeddings: Dict[str, np.ndarray], metadata_df: pd.DataFrame) -> Tuple[Dict[str, np.ndarray], pd.DataFrame]:
     """Filters unknowns based on .csv in in_path"""
     df_unknowns = pd.read_csv(in_path)
 
@@ -39,7 +33,7 @@ def filter_unknowns(in_path, embeddings: Dict[str, np.ndarray], metadata_df: pd.
     embeddings_filtered = {k: v for k, v in embeddings.items() if k in keep_ids}
     return embeddings_filtered, filtered_df
 
-def extract_model_number(path: str):
+def extract_model_number(path: str) -> int:
     """Extracts number of model used to make predictions"""
     match = re.search(r"model(\d+)\_final.pt$", path)
     if match:

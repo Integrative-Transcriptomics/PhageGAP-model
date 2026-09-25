@@ -10,7 +10,7 @@ logging.basicConfig(level=logging.INFO, format="[%(asctime)s][%(name)s][%(leveln
 from src.utils import read_hdf5, set_determinism, create_embeddings_file
 from src.predict.data import filter_unknowns, extract_model_number, load_fasta
 from src.predict.predict import predict
-from src.embed.embed import instantiate_model, preprocess_df, compute_embeddings, monitor_model_loading
+from src.embed.embed import preprocess_df, compute_embeddings, monitor_model_loading
 from src.pool.pool import pool_embeddings
 
 @hydra.main(config_path="./", config_name="config", version_base=None)
@@ -27,7 +27,7 @@ def main(cfg:DictConfig) -> None: #noqa: D401
     logger.info("Loaded config:\n" + OmegaConf.to_yaml(cfg))
 
 
-    # 1. Set determinism and environment
+    # Set determinism and environment
     set_determinism(cfg.seed)
     if cfg.device == "cuda" and torch.cuda.is_available():
         device = torch.device("cuda")
@@ -36,7 +36,7 @@ def main(cfg:DictConfig) -> None: #noqa: D401
         if cfg.device == "cuda":
             logger.info("CUDA not available, using CPU.")
 
-    # 2. Get model number
+    # Get model number
     model_no = extract_model_number(cfg.model.path)
     output_dir = hydra.core.hydra_config.HydraConfig.get().runtime.output_dir  # type: ignore[attr-defined]
 
@@ -46,7 +46,6 @@ def main(cfg:DictConfig) -> None: #noqa: D401
         # Predict
         predictions_df, filter_dict = predict(embeddings_huge, metadata_huge, cfg.model.path, model_no, cfg.model.type)
         df = metadata_huge.copy()
-
 
     elif cfg.unknowns.bool:
         # Read embeddings file, optionally specify metadata columns to extract

@@ -20,6 +20,7 @@ class MLP(nn.Module):
     num_neurons (List[int]): Number of neurons of hidden dimensions.
     dropout (float): Dropout probability applied after each ReLU (0 -> disabled)
     num_classes (int): Number of target classes
+    n_feats (int): Number of additional features to be concatenated to the embedding vector before classification
     """
     def __init__(
         self,
@@ -73,13 +74,16 @@ class CNN(nn.Module):
     in_channels (int): Number of input channels
     num_conv_layers (int): Number of convolutional layers
     num_filters (List[int]): Number of filters of convolutional layers
-    num_neurons (int): Number of neurons of FC layers
     kernel_sizes (List[int]): Kernel sizes for conv layers
     dropout (float): Dropout probability applied after each ReLU (0 -> disabled)
     num_classes (int): Number of target classes
     dilations (List[int]): Dilation factors for each convolutional block
     use_dilation (bool):    If True, apply defined dilations
                             If False, all convolutions have dilation = 1
+    mean_max (bool): If True, use both mean and max pooling, otherwise only mean pooling
+    n_feats (int): Number of additional features to be concatenated to the embedding vector before classification
+    use_linear_attention (bool): If True, use linear attention pooling instead of mean/max pooling
+    use_nonlinear_attention (bool): If True, use nonlinear attention pooling instead of mean/max pooling
     """
 
     def __init__(
@@ -192,13 +196,14 @@ class CNN_Flattened(nn.Module):
     in_channels (int): Number of input channels
     num_conv_layers (int): Number of convolutional layers
     num_filters (List[int]): Number of filters of convolutional layers
-    num_neurons (int): Number of neurons of FC layers
     kernel_sizes (List[int]): Kernel sizes for conv layers
     dropout (float): Dropout probability applied after each ReLU (0 -> disabled)
     num_classes (int): Number of target classes
     dilations (List[int]): Dilation factors for each convolutional block
     use_dilation (bool):    If True, apply defined dilations
                             If False, all convolutions have dilation = 1
+    mean_max (bool): If True, use both mean and max pooling, otherwise only mean pooling
+    n_feats (int): Number of additional features to be concatenated to the embedding vector before classification
     """
 
     def __init__(
@@ -292,16 +297,18 @@ class CNN_MLP(nn.Module):
     in_channels (int): Number of input channels
     num_conv_layers (int): Number of convolutional layers
     num_filters (List[int]): Number of filters of convolutional layers
-    num_neurons (int): Number of neurons of FC layers
     kernel_sizes (List[int]): Kernel sizes for conv layers
     dropout_conv (float): Dropout probability applied after each ReLU (0 -> disabled)
     num_classes (int): Number of target classes
     dilations (List[int]): Dilation factors for each convolutional block
     use_dilation (bool):    If True, apply defined dilations
                             If False, all convolutions have dilation = 1
+    use_linear_attention (bool): If True, use linear attention pooling instead of mean/max pooling
+    use_nonlinear_attention (bool): If True, use nonlinear attention pooling instead of mean/max pooling
     num_dimensions (int): Number of hidden dimensions
     num_neurons (List[int]): Number of neurons of hidden dimensions.
     dropout_mlp (float): Dropout probability applied after each ReLU (0 -> disabled)
+    n_feats (int): Number of additional features to be concatenated to the embedding vector before classification
     """
 
     def __init__(

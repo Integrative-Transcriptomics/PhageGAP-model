@@ -1,10 +1,8 @@
 from __future__ import annotations
-import torch
 from omegaconf import OmegaConf, DictConfig
 import hydra
 import logging
 import os
-import numpy as np
 
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s][%(name)s][%(levelname)s] - %(message)s")
 

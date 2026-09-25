@@ -58,7 +58,7 @@ def filter_nan_embeddings(
         embeddings: Dict[str, np.ndarray | List[np.ndarray]],
         metadata_df: pd.DataFrame
         ) -> Tuple[Dict[str, np.ndarray], pd.DataFrame]:
-    """Remove embeddings that contain only zeros (as for ESM-3 not all proteins could be embedded)"""
+    """Remove embeddings that contain only zeros (as for some pLMs not all proteins could be embedded)"""
     def is_all_nan(embedding):
         if isinstance(embedding, list):
             return all(np.all(np.isnan(e)) for e in embedding)

@@ -1,11 +1,9 @@
 """Pooling utilities for pLM protein embeddings"""
 
 import logging
-import h5py
 from typing import Tuple, Dict, List
 import numpy as np
 import pandas as pd
-import os
 from tqdm import tqdm
 import torch
 import torch.nn as nn
@@ -26,11 +24,8 @@ class AttentionPool(nn.Module):
         return self.fc(pooled) # (out_dim,)
 
 
-def filter_nan_embeddings(
-        embeddings: Dict[str, np.ndarray | List[np.ndarray]],
-        metadata_df: pd.DataFrame
-        ) -> Tuple[Dict[str, np.ndarray], pd.DataFrame]:
-    """Remove embeddings that contain only zeros (as for ESM-3 not all proteins could be embedded)"""
+def filter_nan_embeddings(embeddings: Dict[str, np.ndarray | List[np.ndarray]], metadata_df: pd.DataFrame) -> Tuple[Dict[str, np.ndarray], pd.DataFrame]:
+    """Remove embeddings that contain only zeros (as for some pLMs not all proteins could be embedded)"""
     def is_all_nan(embedding):
         if isinstance(embedding, list):
             return all(np.all(np.isnan(e)) for e in embedding)

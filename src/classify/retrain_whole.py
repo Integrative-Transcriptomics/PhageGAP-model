@@ -5,7 +5,6 @@ import logging
 import os
 import pandas as pd
 import torch
-from torch.utils.data import ConcatDataset
 
 logging.basicConfig(level=logging.INFO, format="[%(asctime)s][%(name)s][%(levelname)s] - %(message)s")
 
@@ -138,7 +137,6 @@ def main(cfg:DictConfig) -> None: #noqa: D401
                     context_size=cfg.context.size
                 ).to(device)
                 models[f"context_{mod}"] = model_context
-                break
 
         else:
             models = {}
@@ -151,9 +149,9 @@ def main(cfg:DictConfig) -> None: #noqa: D401
                     num_neurons=list(model_cfg.mlp.num_neurons),
                     dropout=model_cfg.mlp.dropout,
                     num_classes=num_categories,
+                    n_feats=0 if cfg.features.bool != True else cfg.features.top_n,
                 ).to(device)
                 models[f"mlp_{mod}"] = model
-                break
     else:
         models = {}
 
@@ -192,6 +190,7 @@ def main(cfg:DictConfig) -> None: #noqa: D401
                     num_dimensions=model_cfg.cnn_mlp.num_dimensions,
                     num_neurons=model_cfg.cnn_mlp.num_neurons,
                     dropout_mlp=model_cfg.cnn_mlp.dropout_mlp,
+                    n_feats=0 if cfg.features.bool != True else cfg.features.top_n,
                 ).to(device)
                 models[f"cnn_mlp_{mod}"] = model_cnn_mlp
        

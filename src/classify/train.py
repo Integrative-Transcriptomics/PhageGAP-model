@@ -8,7 +8,7 @@ import torch
 from torch import nn
 from torch.utils.data import DataLoader
 from sklearn.preprocessing import LabelEncoder
-from sklearn.metrics import f1_score, confusion_matrix, precision_score, recall_score, precision_recall_fscore_support
+from sklearn.metrics import f1_score, confusion_matrix, precision_recall_fscore_support
 import optuna
 from src.classify.model import CNN, MLP, CNN_MLP, CNN_Flattened
 import torch.optim as optim
@@ -127,11 +127,6 @@ def evaluate(
         # Record predictions and targets for Precision, Recall, and F1 score
         preds = torch.argmax(logits, dim=1)
         probs = torch.softmax(logits, dim=-1)
-        # For each row, get sorted descending indices
-        #topk = torch.argsort(probs, dim=1, descending=True)
-        #top1_idx = topk[:, 0]
-        #top1_prob = probs[torch.arange(len(probs), device=probs.device), top1_idx]
-
         all_probs.extend(probs.cpu().numpy().tolist())
         all_preds.extend(preds.cpu().numpy().tolist())
         all_targets.extend(batch_y.cpu().numpy().tolist())
@@ -374,7 +369,6 @@ def fit_cv(
     Returns dict(best_val_f1, test_loss, test_acc, test_mcc, test_f1)."""
     # track best validation F1
     best_val_f1 = -1.0
-    best_state = None
 
     log_objects = defaultdict(dict)
     for epoch in range(1, epochs + 1):

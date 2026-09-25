@@ -4,10 +4,9 @@ from __future__ import annotations
 
 import numpy as np
 import pandas as pd
-from typing import Dict, List
+from typing import Dict, List, Tuple
 import torch
 import logging
-import pandas as pd
 from src.classify.model import MLP, CNN, CNN_MLP
 from torch.nn.utils.rnn import pad_sequence
 import psutil
@@ -109,7 +108,7 @@ def load_model_cnn(path: str, num: int, model_type: str):
     return model, label_map, cfg
 
 
-def monitor_model_load(path, num, model_type):
+def monitor_model_load(path: str, num: int, model_type: str):
     process = psutil.Process(os.getpid())
 
     mem_before = process.memory_info().rss / 1024**2
@@ -129,7 +128,7 @@ def monitor_model_load(path, num, model_type):
     return model, label_map, cfg
 
 
-def predict(embeddings: Dict[str, np.ndarray | List[np.ndarray]], metadata_df: pd.DataFrame, path: str, num: int, model_type: str) -> pd.DataFrame:
+def predict(embeddings: Dict[str, np.ndarray | List[np.ndarray]], metadata_df: pd.DataFrame, path: str, num: int, model_type: str) -> Tuple[pd.DataFrame, Dict[str, np.ndarray]]:
     """
     Predict classes for protein embeddings using the selected model.
 
@@ -144,6 +143,7 @@ def predict(embeddings: Dict[str, np.ndarray | List[np.ndarray]], metadata_df: p
     Returns
     -----------
     results (pd.DataFrame): DataFrame containing predictions and probabilities.
+    filter_dict (Dict[str, np.ndarray]): Dictionary of filtered features for each protein_ID (only for CNN models).
     """
     assert model_type in ("mlp", "cnn", "cnn_mlp")
 
