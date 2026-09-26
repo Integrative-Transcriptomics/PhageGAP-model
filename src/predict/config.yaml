@@ -5,7 +5,7 @@
 #################################################################################
 
 model: 
-  path: outputs/classify_unpooled/PhageGAP_95_retrained_30e/cnn_model1_final.pt
+  path: outputs/classify_unpooled/.../cnn_model1_final.pt # adjust based on directory name
 
 seed: 42
 

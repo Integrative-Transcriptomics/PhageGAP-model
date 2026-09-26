@@ -7,7 +7,7 @@
 seed: 42
 
 data:
-  embedding: outputs/pool/ProtT5/protein_embeddings_prot_t5__mean.h5
+  embedding: outputs/pool/.../protein_embeddings_prot_t5__mean.h5 # adjust based on directory name
 
 pool: 
   bool: False
@@ -15,14 +15,14 @@ pool:
   strategy: mean # mean | max | FC
 
 cluster:
-  representatives: inputs/only_phage_repr_assigned_cat_0.95.tsv
+  representatives: inputs/Phage_0.95.tsv
   
 mapping:
   colname: assigned_subcat
 
 bac_vir:
   bool: True
-  embedded: outputs/pool/BacVir/protein_embeddings_prot_t5__mean.h5
+  embedded: outputs/pool/.../protein_embeddings_prot_t5__mean.h5 # adjust based on directory name
 
 pca:
   n_components: 50
@@ -34,4 +34,4 @@ tsne:
 
 hydra:
   run:
-    dir: outputs/prepare/ProtT5/${now:%Y-%m-%d_%H-%M-%S}
+    dir: outputs/prepare/${now:%Y-%m-%d_%H-%M-%S}

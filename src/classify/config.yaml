@@ -7,11 +7,11 @@
 seed: 42
 
 cluster:
-  representatives: inputs/only_phage_repr_assigned_cat_0.95.tsv  
+  representatives: inputs/Phage_0.95.tsv  
   cat: inputs/Keywords_map.csv
 
 data:
-  embedding: outputs/embed/ProtT5/protein_embeddings_last_True_prot_t5.h5 
+  embedding: outputs/embed/.../protein_embeddings_last_True_prot_t5.h5 # adjust based on directory name
   pooled: False
   embed_dim: 1024 # 1024 (pro(s)t) | 960 (esmc_300m) | 1152 (esmc_600m) | 1536 (esm3) | 1280 (glm2, esm2_650, pst-TL-T) | 800 (pst-TL-P) |  2560 (esm2_3b) | 640 (esm2_150m)
   test_size: 0.15
@@ -24,7 +24,7 @@ data:
 
 bac_vir:
   bool: True
-  embedded: outputs/embed/bac_vir/ProtT5/protein_embeddings_last_True_prot_t5.h5 
+  embedded: outputs/embed/.../protein_embeddings_last_True_prot_t5.h5 # adjust based on directory name
 
 features:
   bool: False

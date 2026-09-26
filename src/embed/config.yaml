@@ -9,7 +9,7 @@ seed: 42
 device: cuda
 
 data:
-  metadata_tsv: inputs/all_no_phage_repr_assigned_cat_0.95.tsv 
+  metadata_tsv: inputs/Phage_0.95.tsv 
 
 embeddings:
   model_type: prot_t5 # prot_t5 | esm3_open | esmc_300m | esmc_600m | prost_t5 | glm2_650m | esm2_150m | esm2_650m | esm2_3b 
@@ -17,4 +17,4 @@ embeddings:
 
 hydra:
   run:
-    dir: outputs/embed/BacVir/${now:%Y-%m-%d_%H-%M-%S}
+    dir: outputs/embed/${now:%Y-%m-%d_%H-%M-%S}
