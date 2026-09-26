@@ -9,6 +9,9 @@
 ### Model development
 This project provides a modular pipeline for embedding protein sequences, processing embeddings, and classifying them into hierarchical functional categories using protein language models (pLMs).
 
+To reproduce results, follow this workflow:
+![PhageGAP data flow](PhageGAP-workflow.png)
+
 
 #### Predict protein functions for a new FASTA
 To generate predictions for a new FASTA file, update the file paths in `src/predict/config.yaml` accordingly.
